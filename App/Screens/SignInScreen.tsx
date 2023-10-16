@@ -2,42 +2,102 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
 
-const SignInScreen = () => {
+let check = "check";
+
+const SignInScreen : React.FC<{ navigation: any }> = ({ navigation }) =>  {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-
-  const handleSignIn = () => {
+  
+  const handleSignIn = () => 
+  {
+    
+     
+    
+     if(1) // Django confirms info is valid
+     {
+     	navigation.navigate('TripDisplayMainPage');
+     }
+     else
+     {
+          // Display invalid infomation
+     
+     }
     // Something to a Django API
   };
+  
 
   return (
-    <View>
-      <Text style = {styles.title}>Sign In</Text>
+<View>
+      <Text style = {styles.title}>Sign In </Text>
+      
 
-      <TextInput
-        style = {styles.text}
-        placeholderTextColor= 'black'
-        placeholder="Email"
-        value={email}
-        onChangeText={(text) => setEmail(text)}
-      />
+      	
+      	<View style={{ flexDirection: 'column' }}>
 
-      <TextInput
-        textAlign={'center'}
-        style = {styles.text}
-        placeholderTextColor= 'black'
-        placeholder="Password"
-        secureTextEntry={true}
-        value={password}
-        onChangeText={(text) => setPassword(text)}
-      />
-      <Text style = {styles.div}> </Text>
-      <View style = {styles.but}>
-      	<Button style = {alignSelf = "center" }title="Sign In" onPress={handleSignIn} />
-      </View>
-    </View>
+           <Text style = {styles.headerText}> Username </Text>
+           
+           <View style = {styles.row}>
+      	<View style = {styles.box}>	
+      		<View styles = "justify-content: center">
+      		<TextInput
+        			textAlign={'center'}
+        			style = {styles.text}
+        			placeholderTextColor= 'gray'
+        			placeholder={check}
+        			value={email}
+        			onChangeText={(text) => setEmail(text)}
+      		/>
+      		</View>
+           </View>
+           </View>
+
+	<Text style = "padding: 20"> </Text>
+
+           <Text style = {styles.headerText}> Password </Text>
+                      <View style = {styles.row}>
+      	<View style = {styles.box}>	
+      		<View styles = "justify-content: center">
+      		<TextInput
+        			textAlign={'center'}
+        			style = {styles.text}
+        			placeholderTextColor= 'gray'
+        			placeholder="Password"
+        			value={password}
+        			onChangeText={(text) => setPassword(text)}
+      		/>
+      		</View>
+           </View>
+           </View>
+           
+      	<Text style = {styles.div}> </Text>
+      	
+
+           <Button title="Sign In" onPress={handleSignIn} />
+
+           
+           
+           
+           
+      	
+      	
+      </View> 
+      
+      
+      
+</View>    
+      
+      
+
+
   );
 };
+
+
+
+
+
+
+
 
 
 
@@ -50,17 +110,44 @@ const styles = StyleSheet.create({
      color: "black",
      padding: 20,
      marginTop: 50,
-     marginBottom: 100,
+     marginBottom: 70,
+  },
+  
+  row: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    
+  },
+  
+  col: {
+  	flexDirection: 'column',
+  },
+  
+  
+  box: {
+    borderWidth: 1,       
+    borderColor: 'black',  
+    borderRadius: 5,     
+    
+    width: 150,  
   },
   
   text: {
     color: "black",
     textAlign : "center",
-    padding: 20,
+    padding: 5,
+    fontSize: 10,
+  },
+  
+  headerText: {
+    color: "black",
+    textAlign : "center",
+    padding: 5,
+    fontSize: 20,
   },
   
   div: {
-    padding: 40,
+    padding: 130,
   },
   
   but:{
