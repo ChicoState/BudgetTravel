@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'shops',
     'restaurants',
     'tourism',
+    # 'auth',
     # 'User',
 ]
 
