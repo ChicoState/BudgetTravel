@@ -23,7 +23,8 @@ def helper(nearbyshops,filename):
                     longitude = obj.get('lon', 0)
                     latitude = obj.get('lat', 0)
                     location = fromstr(f'POINT({longitude} {latitude})', srid=4326)
-                    address = street + ", " +city+", "+state+","+postalcode
+                    address = street + ", " +city+", "+state+", "+postalcode
+                    price = tags.get('price', 'N/A')
                     if(name != 'N/A' and state != 'N/A'):
                         m=model()
                         m.address = address
@@ -31,6 +32,7 @@ def helper(nearbyshops,filename):
                         m.name = name
                         m.location = location
                         m.state = state
+                        m.price = price
                         m.save()
             except KeyError:
                 print('false') 

@@ -22,7 +22,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-z4t6&)r5#&rk(c^y%mmdb$29zziyyd!45j6l(_ra7ap6!+c=d('
 
+
+
+
+
 # SECURITY WARNING: don't run with debug turned on in production!
+
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
@@ -44,6 +49,7 @@ INSTALLED_APPS = [
     'shops',
     'restaurants',
     'tourism',
+    # 'auth',
     # 'User',
 ]
 
@@ -138,6 +144,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = 'static/'
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
