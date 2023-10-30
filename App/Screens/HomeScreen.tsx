@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, Button, TouchableOpacity, StyleSheet, ScrollView, Image } from 'react-native';
-
+let dest;
 
 
 
@@ -35,7 +35,13 @@ const HomeScreen: React.FC<{ navigation: any }> = ({ navigation }) => {
         </TouchableOpacity>
         <TouchableOpacity
           style={styles.bottomBarButton}
-          onPress={() => navigation.navigate('TestLocation')}
+          onPress={() => navigation.navigate('PlanTripScreen1')}
+        >
+          <Text style={styles.bottomBarButtonText}>Create Trip</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          style={styles.bottomBarButton}
+          onPress={() => navigation.navigate('SignInScreen')}
         >
           <Text style={styles.bottomBarButtonText}>Log In</Text>
         </TouchableOpacity>
@@ -53,7 +59,8 @@ const Introduction = ({ navigation }) => {
 <View style={styles.container}>
   <View style={styles.column}>
   
-    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1')} style={styles.container}>
+    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1', { dest: 'Costa Rica' })}
+  style={styles.container}>
     <View style={styles.box}>
      <Image
         style={styles.image}
@@ -66,7 +73,8 @@ const Introduction = ({ navigation }) => {
     </View>
     </TouchableOpacity>
     
-    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1')} style={styles.container}>
+    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1', { dest: 'Tijuana, Mexico' })}
+  style={styles.container}>
     <View style={styles.box}>
      	<Image
         	style={styles.image}
@@ -81,7 +89,8 @@ const Introduction = ({ navigation }) => {
     
     
     
-    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1')} style={styles.container}>
+    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1', { dest: 'Tokyo, Japan' })}
+  style={styles.container}>
       <View style={styles.box}>
      	<Image
         	style={styles.image}
@@ -95,7 +104,8 @@ const Introduction = ({ navigation }) => {
      </TouchableOpacity>
      
          
-    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1')} style={styles.container}>
+    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1', { dest: 'San Diego' })}
+  style={styles.bottomContainer}>
       <View style={styles.box}>
      	<Image
         	style={styles.image}
@@ -103,7 +113,7 @@ const Introduction = ({ navigation }) => {
       	/>
 	<View style={styles.pad}></View>
       	<View style={styles.container}>
-      	<Text style = {styles.text}>San Diego</Text>
+      	<Text style = {styles.text}>San Diego, USA</Text>
       	</View>
      </View>
      </TouchableOpacity>
@@ -191,8 +201,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     margin: 10,
   },
+  bottomContainer: {
+    flex: 1,
+    height: 300, // Set the height you desire
+  },
 });
 
-
+export { dest };
 export default HomeScreen;
 
