@@ -4,5 +4,7 @@ from .views import HistoryViews
 app_name = "trip_history"
 
 urlpatterns = [
-    path('History', HistoryViews.as_view()),
+    path('History/GET', HistoryViews.GET),
+    path('History/create', HistoryViews.create),
+    path('History/POST', HistoryViews.POST),
 ]
