@@ -5,3 +5,4 @@ from .models import Tourism
 @admin.register(Tourism)
 class TourismAdmin(OSMGeoAdmin):
     list_display = ('name', 'price','location','address','state')
+
