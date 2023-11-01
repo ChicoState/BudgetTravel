@@ -33,9 +33,9 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = False
-CORS_ORIGIN_WHITELIST = (
-    '*'
-)
+CORS_ORIGIN_WHITELIST = [ 
+    'https://localhost:8000'
+]
 # Application definition
 
 INSTALLED_APPS = [
