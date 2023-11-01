@@ -31,8 +31,11 @@ SECRET_KEY = 'django-insecure-z4t6&)r5#&rk(c^y%mmdb$29zziyyd!45j6l(_ra7ap6!+c=d(
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-
-
+CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_CREDENTIALS = False
+CORS_ORIGIN_WHITELIST = (
+    '*'
+)
 # Application definition
 
 INSTALLED_APPS = [
@@ -43,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    'corsheaders',
     'django.contrib.gis',
     'rest_framework_gis',
     'rest_framework',
