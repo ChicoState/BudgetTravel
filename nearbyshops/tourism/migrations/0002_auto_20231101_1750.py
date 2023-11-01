@@ -25,6 +25,7 @@ def helper(nearbyshops,filename):
                     location = fromstr(f'POINT({longitude} {latitude})', srid=4326)
                     address = street + ", " +city+", "+state+", "+postalcode
                     price = tags.get('price', 'N/A')
+                    rating = tags.get('rating', 'N/A')
                     if(name != 'N/A' and state != 'N/A'):
                         m=model()
                         m.address = address
@@ -33,6 +34,7 @@ def helper(nearbyshops,filename):
                         m.location = location
                         m.state = state
                         m.price = price
+                        m.rating = rating
                         m.save()
             except KeyError:
                 print('false') 

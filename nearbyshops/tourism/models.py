@@ -7,3 +7,4 @@ class Tourism(models.Model):
     address = models.CharField(max_length=100)
     city = models.CharField(max_length=50)
     state = models.CharField(max_length=50) 
+    rating = models.CharField(max_length=50)
