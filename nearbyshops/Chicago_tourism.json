@@ -20,7 +20,8 @@
                 "information": "office",
                 "name": "Oak Park Visitors Center",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -46,7 +47,8 @@
                 "tourism": "information",
                 "wikidata": "Q7259479",
                 "wikipedia": "en:Pullman National Historical Park",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -59,7 +61,8 @@
                 "addr:street": "West Adams Street",
                 "name": "Club Quarters Central Loop Hotel",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -90,7 +93,8 @@
                 "stars": "5",
                 "tourism": "hotel",
                 "website": "https://www.ritzcarlton.com/en/hotels/chicago",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -118,7 +122,8 @@
                 "stars": "4.5",
                 "tourism": "hotel",
                 "website": "https://www.sonesta.com/royal-sonesta/il/chicago/royal-sonesta-chicago-river-north/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -136,7 +141,8 @@
                 "shop": "department_store",
                 "tourism": "museum",
                 "website": "https://www.tobyjugmuseum.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -156,7 +162,8 @@
                 "name": "Holiday Inn Chicago Mart Plaza",
                 "note": "Floors 15-21",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -178,7 +185,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q217727",
                 "wikipedia": "en:John Hancock Center",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.0"
             }
         },
         {
@@ -195,7 +203,8 @@
                 "addr:street:type": "Avenue",
                 "name": "Perspective Group and Photography Gallery",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -212,7 +221,8 @@
                 "addr:street:type": "Avenue",
                 "name": "Folkworks Gallery",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -229,7 +239,8 @@
                 "phone": "+1-773-598-4471",
                 "tourism": "hostel",
                 "website": "https://www.wrigleyhostel.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -251,7 +262,8 @@
                 "official_name": "Courtyard by Marriott",
                 "tourism": "hotel",
                 "website": "https://www.marriott.com/hotels/travel/chiwb-courtyard-chicago-downtown-river-north/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -274,7 +286,8 @@
                 "website": "https://www.chicagofed.org/education/money-museum/",
                 "wikidata": "Q965251",
                 "wikipedia": "en:Federal Reserve Bank of Chicago",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -293,7 +306,8 @@
                 "name": "City Scene Bed & Breakfast",
                 "phone": "+1-773-549-1743",
                 "tourism": "guest_house",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -311,7 +325,8 @@
                 "brand:wikidata": "Q8423751",
                 "name": "The Langham, Chicago",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -331,7 +346,8 @@
                 "website": "https://www.bridgehousemuseum.org/",
                 "wikidata": "Q1928112",
                 "wikipedia": "en:DuSable Bridge",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -352,7 +368,8 @@
                 "phone": "+1-773-779-0007",
                 "tourism": "museum",
                 "website": "https://vanderpoelartmuseum.org/",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -371,7 +388,8 @@
                 "smoking": "no",
                 "tourism": "hostel",
                 "website": "https://www.holidayjones.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -393,7 +411,8 @@
                 "website": "https://nmprac.org/",
                 "wikidata": "Q15228725",
                 "wikipedia": "en:National Museum of Puerto Rican Arts and Culture",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -411,7 +430,8 @@
                 "tourism": "museum",
                 "website": "http://www.renaissancesociety.org/",
                 "wikidata": "Q2143255",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -431,7 +451,8 @@
                 "website": "https://www.polishmuseumofamerica.org/",
                 "wikidata": "Q3394265",
                 "wikipedia": "en:Polish Museum of America",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -451,7 +472,8 @@
                 "website": "https://www.luc.edu/luma/",
                 "wikidata": "Q6694613",
                 "wikipedia": "en:Loyola University Museum of Art",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -469,7 +491,8 @@
                 "name": "Norwood Park Historical Society",
                 "tourism": "museum",
                 "website": "https://www.norwoodparkhistoricalsociety.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -489,7 +512,8 @@
                 "website": "https://www.nvam.org/",
                 "wikidata": "Q6979302",
                 "wikipedia": "en:National Veterans Art Museum",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -508,7 +532,8 @@
                 "source": "http://www.rosemont.com/community/museum-of-hummels/",
                 "tourism": "museum",
                 "website": "https://rosemont.com/museum-of-hummels/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -533,7 +558,8 @@
                 "smoking": "no",
                 "tourism": "hostel",
                 "website": "https://www.hichicago.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -551,7 +577,8 @@
                 "opening_hours": "Mo-Fr 10:00-16:00",
                 "tourism": "museum",
                 "website": "https://www.buttonmuseum.org/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -567,7 +594,8 @@
                 "addr:street": "South Financial Place",
                 "name": "The Buckingham Hotel",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -583,7 +611,8 @@
                 "addr:street": "West Monroe Street",
                 "name": "Weather Bell",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -601,7 +630,8 @@
                 "name": "Hotel EMC2",
                 "operator": "Smashotels",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -622,7 +652,8 @@
                 "start_date": "1993",
                 "tourism": "artwork",
                 "wikidata": "Q30133244",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -643,7 +674,8 @@
                 "operator": "Earnest Hemmingway Foundation",
                 "tourism": "museum",
                 "website": "https://www.hemingwaybirthplace.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -660,7 +692,8 @@
                 "museum": "art",
                 "name": "Dreihaus Gallery of Stained Glass",
                 "tourism": "museum",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -680,7 +713,8 @@
                 "tourism_1": "attraction",
                 "website": "https://americanwritersmuseum.org/",
                 "wikidata": "Q19864096",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -702,7 +736,8 @@
                 "phone": "+1-708-371-7300",
                 "tourism": "hotel",
                 "website": "https://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-chicago-alsip-CHIASDT/index.html",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -731,7 +766,8 @@
                 "tourism": "hotel",
                 "website": "https://hamptoninn3.hilton.com/en/hotels/illinois/hampton-inn-chicago-downtown-west-loop-CHIWXHX/index.html",
                 "wheelchair": "yes",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -749,7 +785,8 @@
                 "phone": "+1-872-444-5544",
                 "tourism": "gallery",
                 "website": "https://www.345artgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -763,7 +800,8 @@
                 "name": "Roman Susan",
                 "phone": "+1 773 270 1224",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -782,7 +820,8 @@
                 "operator": "Riverside Historical Commission",
                 "tourism": "museum",
                 "website": "http://www.riversidemuseum.net",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -800,7 +839,8 @@
                 "name": "The Art of Dr.Seuss",
                 "tourism": "museum",
                 "website": "https://www.experienceseuss.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -817,7 +857,8 @@
                 "name": "Prospectus Art Gallery",
                 "phone": "+1 312-733-6132",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -836,7 +877,8 @@
                 "tourism": "hotel",
                 "wikidata": "Q28219817",
                 "wikipedia": "en:Carlton Inn",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -852,7 +894,8 @@
                 "addr:street": "East 79th Street",
                 "name": "East of the Ryan",
                 "tourism": "hotel",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -871,7 +914,8 @@
                 "opening_hours": "24/7",
                 "operator": "Chicago Department of Cultural Affairs and Special Events (DCASE)",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -889,7 +933,8 @@
                 "phone": "+1-(773) 791-7003",
                 "tourism": "gallery",
                 "website": "https://www.galleryguichard.com",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -909,7 +954,8 @@
                 "website": "https://westernspringshistory.org/",
                 "wikidata": "Q7988324",
                 "wikipedia": "en:Western Springs Water Tower",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -935,7 +981,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q2963292",
                 "wikipedia": "en:Chicago Architecture Center",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -958,7 +1005,8 @@
                 "subject:wikipedia": "en:Barack Obama",
                 "tourism": "attraction",
                 "wheelchair": "yes",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -974,7 +1022,8 @@
                 "addr:street": "West Chicago Avenue",
                 "name": "Rhona Hoffman Gallery",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -988,7 +1037,8 @@
                 "name": "Western Exhibitions",
                 "tourism": "gallery",
                 "website": "https://westernexhibitions.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1006,7 +1056,8 @@
                 "phone": "+1 312 455 1990",
                 "tourism": "gallery",
                 "website": "https://www.rhoffmangallery.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1022,7 +1073,8 @@
                 "addr:street": "North Milwaukee Avenue",
                 "name": "All Star Press",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1039,7 +1091,8 @@
                 "name": "Young Chicago Authors",
                 "tourism": "gallery",
                 "website": "https://youngchicagoauthors.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1058,7 +1111,8 @@
                 "brand:wikipedia": "en:Choice Hotels International",
                 "name": "Comfort Suites Chicago O'Hare Airport",
                 "tourism": "hotel",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "2.5"
             }
         },
         {
@@ -1076,7 +1130,8 @@
                 "phone": "+1 708 389 7275",
                 "tourism": "theme_park",
                 "website": "https://crestwood.inthegame.net",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1097,7 +1152,8 @@
                 "rooms": "107",
                 "tourism": "hotel",
                 "website": "https://www.hyatt.com/en-US/hotel/illinois/hyatt-house-chicago-medical-university-district/chixt?src=prop_sm_chixt_hphh_facebk_landingpage_booknow",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1117,7 +1173,8 @@
                 "rooms": "103",
                 "tourism": "hotel",
                 "website": "https://www.hyatt.com/en-US/hotel/illinois/hyatt-place-chicago-medical-university-district/chizt",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1132,7 +1189,8 @@
                 "phone": "+13128775436",
                 "tourism": "gallery",
                 "website": "https://marianneibrahim.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1153,7 +1211,8 @@
                 "website": "https://www.chicagochildrensmuseum.org/",
                 "wikidata": "Q2963300",
                 "wikipedia": "en:Chicago Children's Museum",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1172,7 +1231,8 @@
                 "brand:wikipedia": "en:Hyatt",
                 "name": "Park Hyatt Chicago",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1193,7 +1253,8 @@
                 "name": "Hampton Inn & Suites Chicago Downtown/Magnificent Mile",
                 "official_name": "Hampton Inn & Suites by Hilton",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1213,7 +1274,8 @@
                 "name": "Homewood Suites by Hilton Chicago Downtown/Magnificent Mile",
                 "official_name": "Homewood Suites by Hilton",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1226,7 +1288,8 @@
                 "addr:postcode": "60016",
                 "addr:street": "Brown Street",
                 "tourism": "apartment",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1246,7 +1309,8 @@
                 "operator:type": "public",
                 "tourism": "museum",
                 "website": "https://www.skokieparks.org/exploritorium/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1266,7 +1330,8 @@
                 "rooms": "2",
                 "tourism": "guest_house",
                 "website": "https://chicagomonk.org/visit-us/benedictine-bed-breakfast/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1285,7 +1350,8 @@
                 "phone": "+1-847-475-3410",
                 "tourism": "museum",
                 "website": "https://www.evanstonhistorycenter.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1304,7 +1370,8 @@
                 "brand:wikipedia": "en:Holiday Inn Express",
                 "name": "Holiday Inn Express Crestwood",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -1321,7 +1388,8 @@
                 "name": "The Martin - Gallery + Event Space",
                 "operator": "Whitney LaMora",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1341,7 +1409,8 @@
                 "phone": "+1-773-278-1664",
                 "tourism": "gallery",
                 "website": "https://www.corbettvsdempsey.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1357,7 +1426,8 @@
                 "addr:street": "South Prairie Avenue",
                 "name": "Al Capone's House",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1375,7 +1445,8 @@
                 "tourism": "attraction",
                 "wikidata": "Q7963044",
                 "wikipedia": "en:Waller Apartments",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1391,7 +1462,8 @@
                 "addr:street": "North Clark Street",
                 "name": "The Guesthouse Hotel",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1413,7 +1485,8 @@
                 "official_name": "Homewood Suites by Hilton",
                 "tourism": "hotel",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1433,7 +1506,8 @@
                 "name": "Canopy by Hilton",
                 "official_name": "Canopy by Hilton",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1453,7 +1527,8 @@
                 "name": "Sable at Navy Pier",
                 "rooms": "223",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1469,7 +1544,8 @@
                 "addr:street": "South Halsted Street",
                 "name": "Chicago Parthenon Hostel",
                 "tourism": "hostel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1489,7 +1565,8 @@
                 "name": "Homewood Suites by Hilton - Chicago Downtown South Loop",
                 "official_name": "Homewood Suites by Hilton",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1508,7 +1585,8 @@
                 "brand:wikipedia": "en:Hilton Garden Inn",
                 "name": "Hilton Garden Inn Chicago Downtown South Loop",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1528,7 +1606,8 @@
                 "opening_hours": "Th-Sa 11:00-18:00 || \"by appointment\"",
                 "tourism": "gallery",
                 "website": "https://www.saichicago.org/",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1544,7 +1623,8 @@
                 "addr:street": "North Rush Street",
                 "name": "The Gwen",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1563,7 +1643,8 @@
                 "brand:wikipedia": "en:Motel 6",
                 "name": "Motel 6 Alsip",
                 "tourism": "motel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -1585,7 +1666,8 @@
                 "phone": "+1-312-453-7753",
                 "tourism": "attraction",
                 "website": "https://theescapegame.com/chicago/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1598,7 +1680,8 @@
                 "addr:street": "South Halsted Street",
                 "name": "Chicago Art Department",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1618,7 +1701,8 @@
                 "phone": "+1 312-846-1500",
                 "tourism": "gallery",
                 "website": "https://patrongallery.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1636,7 +1720,8 @@
                 "name": "Robbins Illinois History Museum",
                 "tourism": "museum",
                 "website": "https://www.robbinshistorymusuem.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1655,7 +1740,8 @@
                 "phone": "+1 312-634-0000",
                 "tourism": "hotel",
                 "website": "https://www.marriott.com/en-us/hotels/chiad-the-lasalle-chicago-autograph-collection/overview/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1677,7 +1763,8 @@
                 "brand:wikipedia": "en:JW Marriott Hotels",
                 "name": "JW Marriott Chicago",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1697,7 +1784,8 @@
                 "website": "https://www.chicagosportsmuseum.com/",
                 "wikidata": "Q24037234",
                 "wikipedia": "en:Chicago Sports Museum",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1724,7 +1812,8 @@
                 "website": "https://www.pritzkermilitary.org/",
                 "wikidata": "Q588030",
                 "wikipedia": "en:Pritzker Military Museum & Library",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1738,7 +1827,8 @@
                 "check_date": "2023-08-30",
                 "name": "Legendary Art Gallery",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1753,7 +1843,8 @@
                 "name": "DragonFLY Gallert & Creative Spaces",
                 "tourism": "gallery",
                 "website": "https://www.dragonflygallery.space/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1767,7 +1858,8 @@
                 "name:en": "Kavi Gupta",
                 "tourism": "gallery",
                 "website": "https://kavigupta.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1782,7 +1874,8 @@
                 "opening_hours": "Mo-Fr 11:00-17:00",
                 "tourism": "gallery",
                 "website": "https://www.manacontemporary.com/visit/chicago/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         }
     ]
