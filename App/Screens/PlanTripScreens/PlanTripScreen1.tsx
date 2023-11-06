@@ -107,7 +107,7 @@ const PlanTripScreen1 = ({ navigation }) => {
   return (
     <TouchableWithoutFeedback onPress={handleScreenPress}>
       <View style={styles.container}>
-      <Text style={styles.title}>Plan Your Trip</Text>
+      <Text style={styles.title}>Plan Your Trip!</Text>
       <Text style={styles.text}>Select a location:</Text>
         <View style={styles.inputContainer}>
           <Input

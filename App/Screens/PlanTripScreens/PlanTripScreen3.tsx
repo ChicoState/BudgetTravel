@@ -58,23 +58,17 @@ const PlanTripScreen3 = ({ navigation }) => {
         { option: 'Elegant Eats', value: 150 },
         { option: 'Steakhouse Supreme', value: 120 },
         { option: 'Taste of Excellence', value: 120 },
-        { option: 'Savory Spices Bistro', value: 110 },
         { option: 'Culinary Creations', value: 110 },
         { option: 'Gourmet Grill', value: 100 },
         { option: 'Pasta Paradise', value: 90 },
-        { option: 'Italian Eleganza', value: 85 },
         { option: 'Harbor View Seafood', value: 85 },
-        { option: 'Farm-to-Table Delights', value: 90 },
-        { option: 'Tropical Tastes Oasis', value: 80 },
         { option: 'Seafood Sensations', value: 80 },
         { option: 'Global Palate', value: 70 },
-        { option: 'Asian Fusion Delight', value: 70 },
         { option: 'Sizzling Szechuan', value: 75 },
         { option: 'Mediterranean Magic', value: 75 },
         { option: 'Feast Buffet', value: 65 },
         { option: 'Pub Grub & Pints', value: 65 },
         { option: 'Green Garden Cafe', value: 60 },
-        { option: 'Cozy Corner Cafe', value: 60 },
         { option: 'BBQ Bliss', value: 50 },
         { option: 'Craft Brew Haven', value: 50 },
         { option: 'Sushi Serenity', value: 55 },
@@ -85,13 +79,9 @@ const PlanTripScreen3 = ({ navigation }) => {
         { option: 'Farm-to-Table Delights', value: 90 },
         { option: 'Tropical Tastes Oasis', value: 80 },
         { option: 'Savory Spices Bistro', value: 110 },
-        { option: 'Culinary Creations', value: 110 },
         { option: 'Cozy Corner Cafe', value: 60 },
-        { option: 'Pasta Paradise', value: 90 },
-        { option: 'Harbor View Seafood', value: 85 },
         { option: 'Flavorful Pho House', value: 70 },
         { option: 'Asian Fusion Delight', value: 70 },
-        { option: 'Sizzling Szechuan', value: 75 },
         { option: 'Sweets & Treats Haven', value: 45 },
         { option: 'Gourmet Food Truck', value: 40 },
         { option: 'Local Flavors Market', value: 30 },
@@ -107,7 +97,6 @@ const PlanTripScreen3 = ({ navigation }) => {
         { option: 'National Aquarium', value: 85 },
         { option: 'Historic Landmark Tour', value: 80 },
         { option: 'Zoo Adventure', value: 75 },
-        { option: 'Botanical Garden Stroll', value: 70 },
         { option: 'Outdoor Adventure Park', value: 80 },
         { option: 'Cultural Heritage Experience', value: 75 },
         { option: 'Beach Relaxation', value: 65 },
@@ -288,6 +277,8 @@ const PlanTripScreen3 = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
+      
+      <Text style={styles.title}>Scheduling Time!</Text>
       <View style={styles.budget}>
         <Text style={styles.budgetText}>Budget: ${remainingBudget}</Text>
       </View>
@@ -335,18 +326,29 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
   },
-  budget: {
+  title: {
+    textAlign: 'center',
+    fontSize: 40,
+    color: 'black',
     padding: 20,
-    backgroundColor: 'lightgray',
+  },
+  budget: {
+    backgroundColor: 'white',
+    padding: 8,
+    borderRadius: 10,
+    marginBottom: 10,
+    elevation: 5, // Box shadow
   },
   budgetText: {
     fontSize: 24,
+    color: 'black',
     fontWeight: 'bold',
   },
   category: {
     marginBottom: 20,
     borderBottomWidth: 1,
     borderBottomColor: 'lightgray',
+    
   },
   categoryTitle: {
     fontSize: 20,
