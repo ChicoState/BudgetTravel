@@ -36,6 +36,7 @@ else:
     if 'businesses' in data:
         for business in data['businesses']:
             name = business['name']
+            rating = business.get('rating', 'Rating information not available')
             price = business.get('price', 'Price information not available')
             address = ", ".join(business['location']['display_address'])
             business_latitude = business['coordinates']['latitude']
@@ -43,6 +44,7 @@ else:
             
             # Print the business details
             print(f"Name: {name}")
+            print(f"Rating: {rating}")
             print(f"Price: {price}")
             print(f"Address: {address}")
             print(f"Latitude: {business_latitude}")
