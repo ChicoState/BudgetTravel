@@ -29,7 +29,7 @@ const PlanTripScreen2 = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Plan Your Trip</Text>
+      <Text style={styles.title}>Set a Budget!</Text>
       <View style={styles.infoBox}>
         <Text style={styles.info}>Location: {location}</Text>
         <Text style={styles.info}>Duration: {calculateTripDuration(startDate, endDate)} days</Text>
@@ -61,8 +61,6 @@ const styles = StyleSheet.create({
     fontSize: 40,
     color: 'black',
     padding: 20,
-    marginTop: 50,
-    marginBottom: 60,
   },
   infoBox: {
     backgroundColor: 'white',

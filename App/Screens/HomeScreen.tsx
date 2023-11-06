@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, Button, TouchableOpacity, StyleSheet, ScrollView, Image } from 'react-native';
+import { Icon } from '@ui-kitten/components';
 let dest;
 
 
@@ -31,19 +32,19 @@ const HomeScreen: React.FC<{ navigation: any }> = ({ navigation }) => {
           style={styles.bottomBarButton}
           onPress={() => navigation.navigate('CreateAccountScreen')}
         >
-          <Text style={styles.bottomBarButtonText}>Create an Account</Text>
+          <Icon name="person-outline" fill="#000" style={styles.icon} />
         </TouchableOpacity>
         <TouchableOpacity
           style={styles.bottomBarButton}
           onPress={() => navigation.navigate('PlanTripScreen1')}
         >
-          <Text style={styles.bottomBarButtonText}>Create Trip</Text>
+          <Icon name="calendar-outline" fill="#000" style={styles.icon} />
         </TouchableOpacity>
         <TouchableOpacity
           style={styles.bottomBarButton}
           onPress={() => navigation.navigate('SignInScreen')}
         >
-          <Text style={styles.bottomBarButtonText}>Log In</Text>
+          <Icon name="log-in-outline" fill="#000" style={styles.icon} />
         </TouchableOpacity>
       </View>
     </View>
@@ -86,9 +87,7 @@ const Introduction = ({ navigation }) => {
       	</View>
     </View>
     </TouchableOpacity>
-    
-    
-    
+  
     <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1', { dest: 'Tokyo, Japan' })}
   style={styles.container}>
       <View style={styles.box}>
@@ -204,6 +203,11 @@ const styles = StyleSheet.create({
   bottomContainer: {
     flex: 1,
     height: 300, // Set the height you desire
+  },
+  icon: {
+    width: 32, // Adjust the width and height as needed
+    height: 32,
+    // Add any other styles for the icons
   },
 });
 
