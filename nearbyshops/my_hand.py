@@ -1,4 +1,5 @@
 import requests
+import json
 
 # Define function to fetch data from Yelp API for given lat, lon, and term
 def fetch_from_yelp(latitude, longitude, term):
@@ -25,7 +26,7 @@ allowed_terms = [
 # Prompt user for latitude, longitude, and term
 latitude = input("Enter latitude: ")
 longitude = input("Enter longitude: ")
-term = input(f"Enter term (choose from {', '.join(allowed_terms)}): ")
+term = input("Enter term: ")
 
 if term not in allowed_terms:
     print("Invalid term entered. Please choose from the allowed terms.")
@@ -34,22 +35,27 @@ else:
     
     # Check if 'businesses' key exists in the data
     if 'businesses' in data:
+        # Initialize an empty list to store business data
+        businesses_data = []
+
         for business in data['businesses']:
-            name = business['name']
-            rating = business.get('rating', 'Rating information not available')
-            price = business.get('price', 'Price information not available')
-            address = ", ".join(business['location']['display_address'])
-            business_latitude = business['coordinates']['latitude']
-            business_longitude = business['coordinates']['longitude']
-            
-            # Print the business details
-            print(f"Name: {name}")
-            print(f"Rating: {rating}")
-            print(f"Price: {price}")
-            print(f"Address: {address}")
-            print(f"Latitude: {business_latitude}")
-            print(f"Longitude: {business_longitude}")
-            print('-'*40)
+            # Create a dictionary for each business
+            business_info = {
+                "name": business['name'],
+                "rating": business.get('rating', 'Rating information not available'),
+                "price": business.get('price', 'Price information not available'),
+                "address": ", ".join(business['location']['display_address']),
+                "latitude": business['coordinates']['latitude'],
+                "longitude": business['coordinates']['longitude']
+            }
+            # Add the dictionary to the list
+            businesses_data.append(business_info)
+
+        # Write the list to a JSON file
+        with open('yelp_data.json', 'w') as file:
+            json.dump(businesses_data, file, indent=4)
+
+        print("Data written to 'yelp_data.json'")
     else:
         # If 'businesses' key doesn't exist, there's likely an error message
         error_message = data.get('error', {}).get('description', 'Unknown error')
