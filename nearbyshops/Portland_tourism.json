@@ -21,7 +21,8 @@
                 "guest_house": "hostel",
                 "name": "Northwest Portland International Hostel and Guesthouse",
                 "tourism": "hostel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -36,7 +37,8 @@
                 "addr:street": "North Vancouver Avenue",
                 "name": "Artery",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -54,7 +56,8 @@
                 "phone": "+1-503-546-5056",
                 "tourism": "gallery",
                 "website": "https://www.augengallery.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -74,7 +77,8 @@
                 "name": "Best Western",
                 "opening_hours": "24/7",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -91,7 +95,8 @@
                 "name": "Budget Inn Portland Airport",
                 "tourism": "motel",
                 "website": "http://www.budgetinnportlandairport.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -110,7 +115,8 @@
                 "phone": "+1-503-274-9614",
                 "tourism": "gallery",
                 "website": "http://www.jpepinartgallery.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -128,7 +134,8 @@
                 "phone": "+15032273164",
                 "tourism": "museum",
                 "website": "http://www.peculiarium.com/",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -146,7 +153,8 @@
                 "operator": "Wells Fargo",
                 "tourism": "museum",
                 "website": "https://www.wellsfargohistory.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -162,7 +170,8 @@
                 "name": "The Garden Guest House on Hawthorne",
                 "tourism": "guest_house",
                 "website": "http://thegardenguesthouseonhawthorne.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -178,7 +187,8 @@
                 "name": "Cameo Motel",
                 "phone": "+1-503-2885981",
                 "tourism": "motel",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -196,7 +206,8 @@
                 "brand:wikipedia": "en:Econo Lodge",
                 "name": "Econo Lodge",
                 "tourism": "motel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -215,7 +226,8 @@
                 "tourism": "gallery",
                 "website": "http://www.gallery114pdx.com/",
                 "wheelchair": "no",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -233,7 +245,8 @@
                 "tourism": "museum",
                 "website": "http://www.portlandpolicemuseum.com/",
                 "wikidata": "Q18749145",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -248,7 +261,8 @@
                 "addr:street": "North Vancouver Way",
                 "name": "The Portlander Inn",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.0"
             }
         },
         {
@@ -267,7 +281,8 @@
                 "phone": "+1-503-644-0161",
                 "tourism": "museum",
                 "website": "https://vintagetek.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -285,7 +300,8 @@
                 "opening_hours": "Tu-Sa 12:00-17:00",
                 "tourism": "gallery",
                 "website": "https://www.holdingcontemporary.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -302,7 +318,8 @@
                 "name": "Nucleus Portland",
                 "tourism": "gallery",
                 "website": "https://nucleusportland.com",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -320,7 +337,8 @@
                 "toilets": "yes",
                 "tourism": "gallery",
                 "wheelchair": "yes",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "3.5"
             }
         },
         {
@@ -339,7 +357,8 @@
                 "phone": "+1-503-227-5111",
                 "tourism": "gallery",
                 "website": "https://upforgallery.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -360,7 +379,8 @@
                 "phone": "+1-503-222-0063",
                 "tourism": "gallery",
                 "website": "https://pdxcontemporaryart.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -381,7 +401,8 @@
                 "phone": "+1-503-224-0521",
                 "tourism": "gallery",
                 "website": "http://www.elizabethleach.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -401,7 +422,8 @@
                 "operator": "Lumber Room",
                 "tourism": "gallery",
                 "website": "http://www.lumberroom.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -418,7 +440,8 @@
                 "name": "Bullseye Projects",
                 "tourism": "gallery",
                 "website": "https://www.bullseyeprojects.com/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -437,7 +460,8 @@
                 "phone": "+1-503-248-0903",
                 "tourism": "gallery",
                 "website": "http://gallery903.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -456,7 +480,8 @@
                 "phone": "+1-503-226-6196",
                 "tourism": "gallery",
                 "website": "http://www.waterstonegallery.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -475,7 +500,8 @@
                 "opening_hours": "Fr-Su 11:00-15:00",
                 "tourism": "museum",
                 "website": "https://www.portlandchinatownmuseum.org/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -494,7 +520,8 @@
                 "phone": "+1-503-468-6204",
                 "tourism": "gallery",
                 "website": "https://www.exulansis.gallery/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -510,7 +537,8 @@
                 "name": "Adams and Ollman",
                 "tourism": "gallery",
                 "website": "https://adamsandollman.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -528,7 +556,8 @@
                 "phone": "+1 503-222-9996",
                 "tourism": "hotel",
                 "website": "https://www.thenines.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -547,7 +576,8 @@
                 "phone": "+1-503-444-1530",
                 "tourism": "attraction",
                 "website": "https://nationtours.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -560,7 +590,8 @@
                 "addr:street": "Northwest 2nd Avenue",
                 "name": "Portland Walking Tours",
                 "tourism": "attraction",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -578,7 +609,8 @@
                 "tourism": "museum",
                 "website": "https://www.ojmche.org/",
                 "wikidata": "Q15264274",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -598,7 +630,8 @@
                 "website": "https://portlandartmuseum.org/",
                 "wikidata": "Q279049",
                 "wikipedia": "en:Portland Art Museum",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -611,7 +644,8 @@
                 "addr:street": "North Tillamook Street",
                 "name": "Lisa Congdon",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -636,7 +670,8 @@
                 "shop": "gift",
                 "tourism": "attraction",
                 "website": "https://www.nordicnorthwest.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -663,7 +698,8 @@
                 "shop": "variety_store",
                 "tourism": "attraction",
                 "website": "https://www.nordicnorthwest.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -677,7 +713,8 @@
                 "description": "Apartments overlooking the Vanouver Waterfront. Close to downtown and with a beautiful view of the I5 bridge.",
                 "name": "Riverwest Waterfront Apartments",
                 "tourism": "apartment",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -691,7 +728,8 @@
                 "description": "apartment building overlooking Vancouver Waterfront",
                 "name": "Rediviva at the Waterfront",
                 "tourism": "apartment",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -704,7 +742,8 @@
                 "addr:street": "Southeast Clinton Street",
                 "name": "Evermore Guesthouse",
                 "tourism": "guest_house",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -724,7 +763,8 @@
                 "phone": "+1 503-858-8567",
                 "tourism": "museum",
                 "website": "https://hellenicamericancc.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -742,7 +782,8 @@
                 "phone": "+1-360-314-6506",
                 "tourism": "gallery",
                 "website": "https://artatthecave.com",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -761,7 +802,8 @@
                 "name": "Courtesy Inn",
                 "phone": "+1 503 252 6059",
                 "tourism": "motel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -780,7 +822,8 @@
                 "brand:wikipedia": "en:Best Western",
                 "name": "Best Western Pony Soldier Inn - Airport",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         }
     ]

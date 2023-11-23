@@ -15,7 +15,8 @@
             "tags": {
                 "name": "South Congress Bat Colony",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -28,7 +29,8 @@
                 "name": "Stevie Ray Vaughan Statue",
                 "tourism": "artwork",
                 "wikidata": "Q17038687",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -40,7 +42,8 @@
                 "loc_name": "The Talking Oil Well",
                 "name": "Santa Rita No. 1 Oil Well",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -51,7 +54,8 @@
             "tags": {
                 "name": "Arthouse at the Jones Center",
                 "tourism": "museum",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -63,7 +67,8 @@
                 "created_by": "Potlatch 0.10f",
                 "name": "Lake Austin",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -86,7 +91,8 @@
                 "source": "USGS Geonames",
                 "tourism": "museum",
                 "website": "http://www.mowercountyhistory.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -109,7 +115,8 @@
                 "source": "USGS Geonames",
                 "tourism": "museum",
                 "website": "https://www.rydjor.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -134,7 +141,8 @@
                 "tourism": "museum",
                 "website": "https://texasmilitaryforcesmuseum.org/",
                 "wikidata": "Q17156834",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -156,7 +164,8 @@
                 "website": "https://www.umlaufsculpture.org/",
                 "wheelchair": "yes",
                 "wikidata": "Q7881605",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -176,7 +185,8 @@
                 "source": "USGS Geonames",
                 "tourism": "museum",
                 "website": "https://thecontemporaryaustin.org/",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -196,7 +206,8 @@
                 "tourism": "museum",
                 "website": "https://www.austintexas.gov/department/elisabet-ney-museum",
                 "wikidata": "Q5361396",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -206,7 +217,8 @@
             "lon": -97.7859723,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -217,7 +229,8 @@
             "tags": {
                 "name": "Seiders Spring",
                 "tourism": "attraction",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -228,7 +241,8 @@
             "tags": {
                 "name": "Doug Sahm Hill",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -238,7 +252,8 @@
             "lon": -72.2816498,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -249,7 +264,8 @@
             "tags": {
                 "note": "point de vue non document\u00e9 par les Sentiers de l'Estrie; \u00e0 v\u00e9rifier",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -261,7 +277,8 @@
                 "name": "Sculpture Falls",
                 "tourism": "attraction",
                 "waterway": "waterfall",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -273,7 +290,8 @@
                 "name": "Twin Falls",
                 "tourism": "attraction",
                 "waterway": "waterfall",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -287,7 +305,8 @@
                 "name": "Baymont Inn and Suites",
                 "official_name": "Baymont by Wyndham",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -297,7 +316,8 @@
             "lon": -97.7735707,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -307,7 +327,8 @@
             "lon": -97.7734299,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -317,7 +338,8 @@
             "lon": -97.7736391,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -330,7 +352,8 @@
                 "name:alt": "Bolton ~ Point de vue ~ V ~ Chagnon 5",
                 "source": "SE, Daniel Delorme, Estim\u00e9",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -343,7 +366,8 @@
                 "name:alt": "Bolton ~ Point de vue ~ V ~ Chagnon 4",
                 "source": "SE, Daniel Delorme, Estim\u00e9",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -357,7 +381,8 @@
                 "name:alt": "Bolton ~ Point de vue ~ V ~ Chagnon 2",
                 "source": "SE, Daniel Delorme, GPS",
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -371,7 +396,8 @@
                 "name:alt": "Bolton ~ Point de vue ~ V ~ Chagnon 3",
                 "source": "SE, Daniel Delorme, GPS",
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -384,7 +410,8 @@
                 "name:alt": "Bolton ~ Point de vue ~ V ~ Chagnon 1",
                 "source": "SE, Gilles Turgeon, Estim\u00e9",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -398,7 +425,8 @@
                 "name:alt": "Bolton ~ Point de vue ~ V ~ Chagnon 6",
                 "source": "SE, Daniel Delorme, GPS",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -411,7 +439,8 @@
                 "name:alt": "Orford ~ Point de vue ~ V ~ des Ch\u00eanes 3",
                 "source": "SE, Gilles Turgeon, GPS",
                 "tourism": "viewpoint",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -424,7 +453,8 @@
                 "name:alt": "Orford ~ Point de vue ~ V ~ des Ch\u00eanes 4",
                 "source": "SE, Gilles Turgeon, GPS",
                 "tourism": "viewpoint",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -437,7 +467,8 @@
                 "name:alt": "Orford ~ Point de vue ~ V ~ des Ch\u00eanes 1",
                 "source": "SE, Gilles Turgeon, GPS",
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -450,7 +481,8 @@
                 "name:alt": "Orford ~ Point de vue ~ V ~ Vue des Ch\u00eanes 5",
                 "source": "SE, Gilles Turgeon, GPS",
                 "tourism": "viewpoint",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -463,7 +495,8 @@
                 "name:alt": "Orford ~ Point de vue ~ V ~ Vue des Ch\u00eanes 2",
                 "source": "SE, Gilles Turgeon, GPS",
                 "tourism": "viewpoint",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -476,7 +509,8 @@
                 "name:alt": "Orford ~ Point de vue ~ V ~ Ruisseau des Ch\u00eanes",
                 "source": "SE, Gilles Turgeon, Estim\u00e9",
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -489,7 +523,8 @@
                 "name:alt": "Orford ~ Point de vue ~ V ~ des Ch\u00eanes 6",
                 "source": "SE, Gilles Turgeon, GPS",
                 "tourism": "viewpoint",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -503,7 +538,8 @@
                 "name": "Or00km SE Zone Orford",
                 "network": "nwn",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -517,7 +553,8 @@
                 "name": "Bo25",
                 "network": "nwn",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -531,7 +568,8 @@
                 "name": "Bo23",
                 "network": "nwn",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -545,7 +583,8 @@
                 "name": "Bo22",
                 "network": "nwn",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -559,7 +598,8 @@
                 "name": "BO21,6 ~ Pv Chagnon 1",
                 "network": "nwn",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -573,7 +613,8 @@
                 "name": "Bo22,65 ~ Contournement hivernal de l'escalier",
                 "network": "nwn",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -587,7 +628,8 @@
                 "name": "Bo22,75 ~ Contournement hivernal de l'escalier",
                 "network": "nwn",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -597,7 +639,8 @@
             "lon": -72.2816469,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -608,7 +651,8 @@
             "tags": {
                 "ele": "586",
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -619,7 +663,8 @@
             "tags": {
                 "ele": "590",
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -633,7 +678,8 @@
                 "name": "Bo25km ~ chemin North",
                 "network": "nwn",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -646,7 +692,8 @@
                 "artwork_type": "mural",
                 "name": "Tau Ceti",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -659,7 +706,8 @@
                 "source": "bing",
                 "tourism": "viewpoint",
                 "tower:type": "observation",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -670,7 +718,8 @@
             "tags": {
                 "name": "Sculpture of Brazilian Carnaval Feather Costume",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -680,7 +729,8 @@
             "lon": -97.7538696,
             "tags": {
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -691,7 +741,8 @@
             "tags": {
                 "name": "Tickets",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "5.0"
             }
         },
         {
@@ -701,7 +752,8 @@
             "lon": -97.8111565,
             "tags": {
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -712,7 +764,8 @@
             "tags": {
                 "name": "Omni Hotel & Resorts",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -723,7 +776,8 @@
             "tags": {
                 "name": "Lou Neff Point",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -736,7 +790,8 @@
                 "name": "Barbara Jordan Statue",
                 "tourism": "artwork",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -747,7 +802,8 @@
             "tags": {
                 "name": "Covered Picnic Tables",
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -760,7 +816,8 @@
                 "name": "240",
                 "note": "Location #240 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -773,7 +830,8 @@
                 "name": "244",
                 "note": "Location #244 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -786,7 +844,8 @@
                 "name": "258",
                 "note": "Location #258 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -799,7 +858,8 @@
                 "name": "260",
                 "note": "Location #260 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -812,7 +872,8 @@
                 "name": "300",
                 "note": "Location #300 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -825,7 +886,8 @@
                 "name": "442",
                 "note": "Location #442 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -838,7 +900,8 @@
                 "name": "444",
                 "note": "Location #444 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -851,7 +914,8 @@
                 "name": "504",
                 "note": "Location #506 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -864,7 +928,8 @@
                 "name": "509",
                 "note": "Location #509 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -877,7 +942,8 @@
                 "name": "512",
                 "note": "Location #512 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -888,7 +954,8 @@
             "tags": {
                 "name": "Waterfall Crossing",
                 "tourism": "attraction;viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -901,7 +968,8 @@
                 "name": "446",
                 "note": "Location #446 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -914,7 +982,8 @@
                 "name": "448",
                 "note": "Location #448 Walnut Creek Metro Park 12138 North Lamar Blvd.",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -925,7 +994,8 @@
             "tags": {
                 "source": "Bing",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -935,7 +1005,8 @@
             "lon": -92.9653545,
             "tags": {
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -945,7 +1016,8 @@
             "lon": -92.9656147,
             "tags": {
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -955,7 +1027,8 @@
             "lon": -92.9590084,
             "tags": {
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -966,7 +1039,8 @@
             "tags": {
                 "source": "Bing",
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -977,7 +1051,8 @@
             "tags": {
                 "source": "Bing",
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -999,7 +1074,8 @@
                 "source": "Bing",
                 "tourism": "motel",
                 "website": "http://www.rodewayinn.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1010,7 +1086,8 @@
             "tags": {
                 "name": "Camping",
                 "tourism": "camp_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1021,7 +1098,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1031,7 +1109,8 @@
             "lon": -97.913751,
             "tags": {
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1042,7 +1121,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1053,7 +1133,8 @@
             "tags": {
                 "information": "guidepost",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1064,7 +1145,8 @@
             "tags": {
                 "name": "Stone picnic table",
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1076,7 +1158,8 @@
                 "ele": "235",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1089,7 +1172,8 @@
                 "phone": "+1-512-476-5493",
                 "tourism": "museum",
                 "website": "https://www.museumoftheweird.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1106,7 +1190,8 @@
                 "service:bicycle:chain_tool": "no",
                 "source": "osmsync:dero",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1117,7 +1202,8 @@
             "tags": {
                 "name": "Austin Aquarium",
                 "tourism": "aquarium",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1127,7 +1213,8 @@
             "lon": -97.7966085,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1137,7 +1224,8 @@
             "lon": -97.7970586,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1152,7 +1240,8 @@
                 "tourism": "artwork",
                 "website": "http://www.cah.utexas.edu/exhibits/StatuesExhibit/page3.html",
                 "wikidata": "Q22022599",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1165,7 +1254,8 @@
                 "artwork_type": "statue",
                 "name": "The Torchbearers",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1178,7 +1268,8 @@
                 "artwork_type": "sculpture",
                 "name": "Diana the Huntress",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1192,7 +1283,8 @@
                 "name": "Mustangs",
                 "tourism": "artwork",
                 "wikidata": "Q16901559",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1205,7 +1297,8 @@
                 "map_type": "hiking",
                 "name": "Lincolnshire Trailhead",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1220,7 +1313,8 @@
                 "addr:street": "South 1st Street",
                 "name": "Greetings from Austin mural",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1230,7 +1324,8 @@
             "lon": -97.7265811,
             "tags": {
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1241,7 +1336,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1252,7 +1348,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1262,7 +1359,8 @@
             "lon": -97.7717912,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1273,7 +1371,8 @@
             "tags": {
                 "name": "Corporate Lodging - Austin",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1283,7 +1382,8 @@
             "lon": -97.8018593,
             "tags": {
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1293,7 +1393,8 @@
             "lon": -97.8632094,
             "tags": {
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1303,7 +1404,8 @@
             "lon": -97.7779729,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1315,7 +1417,8 @@
                 "information": "board",
                 "name": "J. J. Pickle Research Campus",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1328,7 +1431,8 @@
                 "addr:postcode": "78745",
                 "addr:street": "Stephany Taylor Cove",
                 "tourism": "guest_house",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1339,7 +1443,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1357,7 +1462,8 @@
                 "phone": "+1-512-478-0098",
                 "tourism": "information",
                 "website": "https://www.austintexas.org/visit",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1373,7 +1479,8 @@
                 "website": "https://landmarks.utexas.edu/artwork/clock-knot",
                 "wikidata": "Q60742228",
                 "wikipedia": "en:Clock Knot",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1386,7 +1493,8 @@
                 "artwork_type": "mural",
                 "name": "Hi, How Are You",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1398,7 +1506,8 @@
                 "name": "Austin Table Tennis Association",
                 "opening_hours": "Mo-Su 13:00-22:00",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1413,7 +1522,8 @@
                 "name": "Circle with Towers",
                 "tourism": "artwork",
                 "website": "https://landmarks.utexas.edu/artwork/circle-towers",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1427,7 +1537,8 @@
                 "name": "Vermillion",
                 "tourism": "artwork",
                 "website": "https://landmarks.utexas.edu/artwork/vermillion",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1437,7 +1548,8 @@
             "lon": -97.7198446,
             "tags": {
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1447,7 +1559,8 @@
             "lon": -97.7213319,
             "tags": {
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1468,7 +1581,8 @@
                 "operator": "UT Austin KHE",
                 "tourism": "museum",
                 "website": "https://starkcenter.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1480,7 +1594,8 @@
                 "artist_name": "Evan Volyes",
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1499,7 +1614,8 @@
                 "source": "official_website",
                 "tourism": "gallery",
                 "website": "https://thecontemporaryaustin.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1514,7 +1630,8 @@
                 "name": "Monochrome for Austin",
                 "tourism": "artwork",
                 "website": "https://landmarks.utexas.edu/artwork/monochrome-austin",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1524,7 +1641,8 @@
             "lon": -97.7245711,
             "tags": {
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "5.0"
             }
         },
         {
@@ -1537,7 +1655,8 @@
                 "name": "I love you so much Mural",
                 "start_date": "2010",
                 "tourism": "artwork",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1548,7 +1667,8 @@
             "tags": {
                 "name": "You are my butter half mural",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1560,7 +1680,8 @@
                 "artwork_type": "mural",
                 "name": "Til death due us part mural",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1574,7 +1695,8 @@
                 "name": "Oil Heating Building",
                 "operator": "Seaholm Power, LLC",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1592,7 +1714,8 @@
                 "operator": "WorldMark by Wyndham",
                 "smoking": "no",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1612,7 +1735,8 @@
                 "name": "Home",
                 "phone": "+1-512-401-0396",
                 "tourism": "apartment",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1625,7 +1749,8 @@
                 "artwork_type": "statue",
                 "name": "Figure on a Trunk",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1638,7 +1763,8 @@
                 "artwork_type": "sculpture",
                 "name": "Prometheus and Vulture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1650,7 +1776,8 @@
                 "artist_name": "Jim Dine",
                 "name": "History of Black Bronze I",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1662,7 +1789,8 @@
                 "artist_name": "Walter Dusenbery",
                 "name": "Pedogna",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1674,7 +1802,8 @@
                 "artist_name": "David Hare",
                 "name": "The Swan's Dream of Leda",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1686,7 +1815,8 @@
                 "artist_name": "Bryan Hunt",
                 "name": "Amphora",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1698,7 +1828,8 @@
                 "artist_name": "Frederick Kiesler",
                 "name": "Winged Victory",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1711,7 +1842,8 @@
                 "artwork_type": "mural",
                 "name": "Wall Drawing #520",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1723,7 +1855,8 @@
                 "artist_name": "Donald Lipski",
                 "name": "The West",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1735,7 +1868,8 @@
                 "artist_name": "Joel Perlman",
                 "name": "Square Tilt",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1747,7 +1881,8 @@
                 "artist_name": "James Turrell",
                 "name": "The Color Inside",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1758,7 +1893,8 @@
             "tags": {
                 "direction": "210",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1768,7 +1904,8 @@
             "lon": -97.8203668,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1778,7 +1915,8 @@
             "lon": -97.7954886,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1788,7 +1926,8 @@
             "lon": -97.7951481,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1798,7 +1937,8 @@
             "lon": -97.7958414,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1809,7 +1949,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1825,7 +1966,8 @@
                 "addr:street": "South Congress Avenue",
                 "name": "Statesman Bat Observation Center",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1839,7 +1981,8 @@
                 "material": "metal",
                 "name": "Arachnophilia",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1850,7 +1993,8 @@
             "tags": {
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$"
+                "price": "$",
+                "rating": "4.5"
             }
         },
         {
@@ -1869,7 +2013,8 @@
                 "opening_hours": "Mo-Su 12:30-07:30; We off",
                 "operator": "Spratx",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1881,7 +2026,8 @@
                 "name": "Mass Gallery",
                 "tourism": "gallery",
                 "website": "https://massgallery.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1892,7 +2038,8 @@
             "tags": {
                 "name": "Dimension Gallery",
                 "tourism": "gallery",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1909,7 +2056,8 @@
                 "phone": "+1-512-441-4208",
                 "tourism": "apartment",
                 "website": "https://www.urbanflats.com/the-cliffs.html",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1923,7 +2071,8 @@
                 "addr:street": "RM 620",
                 "name": "Sonterra Apartments",
                 "tourism": "apartment",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1934,7 +2083,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1945,7 +2095,8 @@
             "tags": {
                 "name": "Wally Workman Gallery",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1955,7 +2106,8 @@
             "lon": -97.7735704,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1965,7 +2117,8 @@
             "lon": -97.7736435,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1976,7 +2129,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$"
+                "price": "$",
+                "rating": "4.5"
             }
         },
         {
@@ -1988,7 +2142,8 @@
                 "abandoned": "yes",
                 "name": "Abandoned zoo cage",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2001,7 +2156,8 @@
                 "capacity": "4",
                 "operator": "Violet Crown Trail",
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2014,7 +2170,8 @@
                 "information": "board",
                 "name": "Swedes of Texas",
                 "tourism": "information",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2025,7 +2182,8 @@
             "tags": {
                 "information": "guidepost",
                 "tourism": "information",
-                "price": "$"
+                "price": "$",
+                "rating": "4.5"
             }
         },
         {
@@ -2037,7 +2195,8 @@
                 "addr:postcode": "78705",
                 "name": "Lone Star Lofts",
                 "tourism": "apartment",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2051,7 +2210,8 @@
                 "material": "metal",
                 "name": "Blackbird",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2062,7 +2222,8 @@
             "tags": {
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2075,7 +2236,8 @@
                 "artwork_type": "statue",
                 "name": "Goddess of Liberty",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2089,7 +2251,8 @@
                 "name": "Austin's Auction Oaks",
                 "operator": "Downtown Austin Parks, LLC",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2103,7 +2266,8 @@
                 "name": "Robles de la Subasta de Austin",
                 "operator": "Downtown Austin Parks, LLC",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2114,7 +2278,8 @@
             "tags": {
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2127,7 +2292,8 @@
                 "artwork_type": "sculpture",
                 "material": "metal",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2140,7 +2306,8 @@
                 "artwork_type": "sculpture",
                 "material": "metal",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2153,7 +2320,8 @@
                 "artwork_type": "sculpture",
                 "material": "metal",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2166,7 +2334,8 @@
                 "artwork_type": "painting",
                 "material": "wood",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2177,7 +2346,8 @@
             "tags": {
                 "information": "map",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2191,7 +2361,8 @@
                 "material": "wood",
                 "seats": "2",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2204,7 +2375,8 @@
                 "artwork_type": "sculpture",
                 "material": "wood",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2218,7 +2390,8 @@
                 "material": "wood",
                 "start_date": "2014",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2231,7 +2404,8 @@
                 "artwork_type": "sculpture",
                 "material": "metal",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2244,7 +2418,8 @@
                 "artwork_type": "sculpture",
                 "material": "wood",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2257,7 +2432,8 @@
                 "artwork_type": "sculpture",
                 "material": "metal",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2271,7 +2447,8 @@
                 "material": "wood",
                 "start_date": "2012",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2282,7 +2459,8 @@
             "tags": {
                 "direction": "67",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2293,7 +2471,8 @@
             "tags": {
                 "direction": "45",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2305,7 +2484,8 @@
                 "name": "Hill of Life Falls",
                 "tourism": "attraction",
                 "waterway": "waterfall",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2316,7 +2496,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2327,7 +2508,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2338,7 +2520,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2349,7 +2532,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2360,7 +2544,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2371,7 +2556,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2382,7 +2568,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2393,7 +2580,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2412,7 +2600,8 @@
                 "opening_hours": "Mo-Fr 10:00-16:00",
                 "tourism": "gallery",
                 "website": "https://www.paintingwithatwist.com/studio/northaustin/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2423,7 +2612,8 @@
             "tags": {
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -2434,7 +2624,8 @@
             "tags": {
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -2445,7 +2636,8 @@
             "tags": {
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -2457,7 +2649,8 @@
                 "information": "route_marker",
                 "name": "Pet Waste Station",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2469,7 +2662,8 @@
                 "artwork_type": "sculpture",
                 "material": "stone",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2480,7 +2674,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2492,7 +2687,8 @@
                 "description": "Trail sign post",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2504,7 +2700,8 @@
                 "information": "board",
                 "name": "Violet Crown Trail Signboard",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2517,7 +2714,8 @@
                 "name": "The Learning Tree",
                 "operator": "Rotary Club of Austin",
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2530,7 +2728,8 @@
                 "name": "Beckett Meadows Wet Pond",
                 "operator": "City Of Austin Watershed Protection",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2545,7 +2744,8 @@
                 "name": "Our King",
                 "source": "https://www.austinweeklynews.com/News/Articles/4-18-2012/King-statue-to-move-from-Garfield-Park-to-Austin/",
                 "tourism": "artwork",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2559,7 +2759,8 @@
                 "name": "Pyxis",
                 "source": "http://chicagopublicart.blogspot.com/2013/08/pyxis.html",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2572,7 +2773,8 @@
                 "material": "metal",
                 "name": "Lone Star",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2583,7 +2785,8 @@
             "tags": {
                 "information": "map",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -2596,7 +2799,8 @@
                 "artwork_type": "installation",
                 "name": "Open Room Austin",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2609,7 +2813,8 @@
                 "material": "bronze",
                 "name": "Jos\u00e9 Mar\u00eda Morelos",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2622,7 +2827,8 @@
                 "material": "bronze",
                 "name": "Miguel Hidalgo y Costilla",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2637,7 +2843,8 @@
                 "name": "Array",
                 "tourism": "artwork",
                 "website": "https://www.austintexas.gov/page/public-artwork-central-library",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2649,7 +2856,8 @@
                 "artwork_type": "installation",
                 "name": "Wander",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2663,7 +2871,8 @@
                 "material": "concrete",
                 "name": "Big Mama Baby",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2677,7 +2886,8 @@
                 "material": "concrete",
                 "name": "Little Mama",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2691,7 +2901,8 @@
                 "material": "metal",
                 "name": "Killer Riffs",
                 "tourism": "artwork",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -2705,7 +2916,8 @@
                 "material": "concrete",
                 "name": "Tall Solo",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2717,7 +2929,8 @@
                 "artwork_type": "mural",
                 "mural": "advertising",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2731,7 +2944,8 @@
                 "material": "metal",
                 "name": "Ocho",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2746,7 +2960,8 @@
                 "name": "Cathedral of Junk",
                 "start_date": "1988",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2759,7 +2974,8 @@
                 "material": "metal",
                 "name": "Heritage - Festivals - Horizons",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2773,7 +2989,8 @@
                 "material": "bronze",
                 "name": "La Fuente en Calle Segunda",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2786,7 +3003,8 @@
                 "artwork_type": "sculpture",
                 "name": "Kempelen's Owls",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2799,7 +3017,8 @@
                 "artwork_type": "sculpture",
                 "name": "Seeding Time",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2813,7 +3032,8 @@
                 "material": "metal",
                 "name": "Stem Rack",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2827,7 +3047,8 @@
                 "material": "steel",
                 "name": "Cypress Grove",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2841,7 +3062,8 @@
                 "material": "glass",
                 "name": "Aquifer",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2855,7 +3077,8 @@
                 "material": "metal",
                 "name": "Cloud Pavilion",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2866,7 +3089,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -2878,7 +3102,8 @@
                 "artwork_type": "statue",
                 "material": "metal",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2889,7 +3114,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2900,7 +3126,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -2911,7 +3138,8 @@
             "tags": {
                 "artwork_type": "statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2921,7 +3149,8 @@
             "lon": -97.8287283,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2933,7 +3162,8 @@
                 "artwork_type": "sculpture",
                 "material": "metal",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2945,7 +3175,8 @@
                 "artwork_type": "sculpture",
                 "material": "metal",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2956,7 +3187,8 @@
             "tags": {
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2968,7 +3200,8 @@
                 "board_type": "history",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2980,7 +3213,8 @@
                 "board_type": "history",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2993,7 +3227,8 @@
                 "description": "Park rules and permit pricing.",
                 "information": "board",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3003,7 +3238,8 @@
             "lon": -97.7256589,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3013,7 +3249,8 @@
             "lon": -97.725997,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3023,7 +3260,8 @@
             "lon": -97.7258208,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3033,7 +3271,8 @@
             "lon": -97.7261564,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3043,7 +3282,8 @@
             "lon": -97.7266881,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3053,7 +3293,8 @@
             "lon": -97.7270529,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3063,7 +3304,8 @@
             "lon": -97.7269106,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3073,7 +3315,8 @@
             "lon": -97.7273226,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3083,7 +3326,8 @@
             "lon": -97.72786,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3093,7 +3337,8 @@
             "lon": -97.7276379,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3103,7 +3348,8 @@
             "lon": -97.7275323,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3113,7 +3359,8 @@
             "lon": -97.7275665,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3123,7 +3370,8 @@
             "lon": -97.7275897,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3133,7 +3381,8 @@
             "lon": -97.7274531,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3143,7 +3392,8 @@
             "lon": -97.728155,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3153,7 +3403,8 @@
             "lon": -97.7281162,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3163,7 +3414,8 @@
             "lon": -97.7278755,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3173,7 +3425,8 @@
             "lon": -97.7277668,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3183,7 +3436,8 @@
             "lon": -97.7276037,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3193,7 +3447,8 @@
             "lon": -97.7270136,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3203,7 +3458,8 @@
             "lon": -97.7266859,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3213,7 +3469,8 @@
             "lon": -97.7268257,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3223,7 +3480,8 @@
             "lon": -97.7266999,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3233,7 +3491,8 @@
             "lon": -97.7265275,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3243,7 +3502,8 @@
             "lon": -97.7265586,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3253,7 +3513,8 @@
             "lon": -97.7269375,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3263,7 +3524,8 @@
             "lon": -97.7267449,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3273,7 +3535,8 @@
             "lon": -97.7263893,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3283,7 +3546,8 @@
             "lon": -97.7261983,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3293,7 +3557,8 @@
             "lon": -97.7262045,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3303,7 +3568,8 @@
             "lon": -97.7245102,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3313,7 +3579,8 @@
             "lon": -97.7243456,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3323,7 +3590,8 @@
             "lon": -97.7245102,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3333,7 +3601,8 @@
             "lon": -97.7238859,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3343,7 +3612,8 @@
             "lon": -97.7236219,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3353,7 +3623,8 @@
             "lon": -97.7236608,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3363,7 +3634,8 @@
             "lon": -97.7236204,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3373,7 +3645,8 @@
             "lon": -97.7249653,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3383,7 +3656,8 @@
             "lon": -97.7246764,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3393,7 +3667,8 @@
             "lon": -97.7248433,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3403,7 +3678,8 @@
             "lon": -97.7239636,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3413,7 +3689,8 @@
             "lon": -97.7236996,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3423,7 +3700,8 @@
             "lon": -97.7236359,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3433,7 +3711,8 @@
             "lon": -97.7233843,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3443,7 +3722,8 @@
             "lon": -97.7235754,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3453,7 +3733,8 @@
             "lon": -97.7233688,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3463,7 +3744,8 @@
             "lon": -97.7230054,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3473,7 +3755,8 @@
             "lon": -97.7228144,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3483,7 +3766,8 @@
             "lon": -97.7231452,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3493,7 +3777,8 @@
             "lon": -97.7232617,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3503,7 +3788,8 @@
             "lon": -97.7227632,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3513,7 +3799,8 @@
             "lon": -97.7236126,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3523,7 +3810,8 @@
             "lon": -97.7235117,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3533,7 +3821,8 @@
             "lon": -97.724358,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3543,7 +3832,8 @@
             "lon": -97.7244792,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3553,7 +3843,8 @@
             "lon": -97.7246811,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3563,7 +3854,8 @@
             "lon": -97.7251097,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3573,7 +3865,8 @@
             "lon": -97.7251811,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3583,7 +3876,8 @@
             "lon": -97.7253346,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3593,7 +3887,8 @@
             "lon": -97.7251214,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3603,7 +3898,8 @@
             "lon": -97.7253288,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3613,7 +3909,8 @@
             "lon": -97.7265589,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3623,7 +3920,8 @@
             "lon": -97.7271121,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3633,7 +3931,8 @@
             "lon": -97.7266006,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3643,7 +3942,8 @@
             "lon": -97.7270565,
             "tags": {
                 "tourism": "camp_pitch",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -3654,7 +3954,8 @@
             "tags": {
                 "name": "Airport Viewing Center",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3665,7 +3966,8 @@
             "tags": {
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3681,7 +3983,8 @@
                 "tourism": "artwork",
                 "wikidata": "Q105044810",
                 "wikipedia": "en:Willie Nelson statue",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3693,7 +3996,8 @@
                 "artwork_type": "sculpture",
                 "name": "Reach for Your Dreams",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3705,7 +4009,8 @@
                 "artwork_type": "statue",
                 "description": "Statue of a rearing horse.",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3719,7 +4024,8 @@
                 "material": "stone",
                 "name": "Ducher",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3729,7 +4035,8 @@
             "lon": -97.796556,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3739,7 +4046,8 @@
             "lon": -97.796022,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3752,7 +4060,8 @@
                 "information": "board",
                 "name": "State historical marker:  Granite for the State Capitol",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3763,7 +4072,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3774,7 +4084,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3785,7 +4096,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3796,7 +4108,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3807,7 +4120,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3819,7 +4133,8 @@
                 "direction": "180",
                 "level": "0",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3830,7 +4145,8 @@
             "tags": {
                 "direction": "270",
                 "tourism": "viewpoint",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -3843,7 +4159,8 @@
                 "material": "bronze",
                 "name": "Don Vito Alessio Robles",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3857,7 +4174,8 @@
                 "material": "tile",
                 "name": "Nessy",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3869,7 +4187,8 @@
                 "board_type": "nature",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3881,7 +4200,8 @@
                 "artwork_type": "installation",
                 "name": "Thicket",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3895,7 +4215,8 @@
                 "material": "metal",
                 "name": "Pollen Grain",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3908,7 +4229,8 @@
                 "artwork_type": "sculpture",
                 "name": "Wigwam",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3921,7 +4243,8 @@
                 "artwork_type": "mural",
                 "name": "Accordion 16",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3934,7 +4257,8 @@
                 "direction": "0",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3946,7 +4270,8 @@
                 "board_type": "guidepost",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3959,7 +4284,8 @@
                 "information": "board",
                 "map_type": "scheme",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3971,7 +4297,8 @@
                 "board_type": "nature",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3983,7 +4310,8 @@
                 "board_type": "art",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3995,7 +4323,8 @@
                 "board_type": "nature",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4006,7 +4335,8 @@
             "tags": {
                 "information": "guidepost",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4020,7 +4350,8 @@
                 "information": "board",
                 "name": "Sustainability in Mueller",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4034,7 +4365,8 @@
                 "information": "board",
                 "name": "Solar Energy Storage",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4048,7 +4380,8 @@
                 "information": "board",
                 "name": "What is in Front of You",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4062,7 +4395,8 @@
                 "information": "board",
                 "name": "Nessy",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4075,7 +4409,8 @@
                 "information": "board",
                 "name": "Ocho",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4087,7 +4422,8 @@
                 "artwork_type": "mural",
                 "name": "A History of La Zona Rosa",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4099,7 +4435,8 @@
                 "artist_name": "Alec Monopoly",
                 "artwork_type": "mural",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4112,7 +4449,8 @@
                 "direction": "255",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4124,7 +4462,8 @@
                 "artwork_type": "mural",
                 "name": "Historic 6th Street",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4138,7 +4477,8 @@
                 "material": "metal",
                 "name": "Golden Afternoon",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4152,7 +4492,8 @@
                 "name": "Seaholm: A Brief History",
                 "operator": "Seaholm Power, LLC",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4166,7 +4507,8 @@
                 "name": "Seaholm Power Generating Diagram",
                 "operator": "Seaholm Power, LLC",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4177,7 +4519,8 @@
             "tags": {
                 "name": "Longhorn Point",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4191,7 +4534,8 @@
                 "name": "Rainwater Harvesting",
                 "operator": "Seaholm Power, LLC",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4203,7 +4547,8 @@
                 "board_type": "map",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4215,7 +4560,8 @@
                 "board_type": "welcome_sign",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4229,7 +4575,8 @@
                 "map_type": "scheme",
                 "operator": "The Trail Foundation",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4243,7 +4590,8 @@
                 "name": "Sand Beach Biofiltration Pond",
                 "operator": "City of Austin Watershed Protection",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4263,7 +4611,8 @@
                 "rooms": "108",
                 "start_date": "2022",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4276,7 +4625,8 @@
                 "name": "The History of Lady Bird Lake and the Trail",
                 "operator": "The Trail Foundation",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4289,7 +4639,8 @@
                 "information": "board",
                 "name": "Bicentennial Memorial Sculpture and Fountain",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4304,7 +4655,8 @@
                 "note": "There are two information boards, one at the top and one at the bottom of the hill",
                 "operator": "City of Austin Parks and Recreation",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4318,7 +4670,8 @@
                 "name": "Liz Carpenter",
                 "operator": "City of Austin Parks and Recreation",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4332,7 +4685,8 @@
                 "name": "Doug Sahm",
                 "note": "There are two information boards, one at the top and one at the bottom of the hill",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4342,7 +4696,8 @@
             "lon": -97.7507581,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4354,7 +4709,8 @@
                 "board_type": "welcome_sign",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4366,7 +4722,8 @@
                 "board_type": "notice",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4380,7 +4737,8 @@
                 "name": "Wall painting for Austin",
                 "note": "https://waterloogreenway.org/larger-than-life-creek-inspired-mural-coming-to-waterloo-park/",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4393,7 +4751,8 @@
                 "information": "board",
                 "name": "Trail of Tejano Legends",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4403,7 +4762,8 @@
             "lon": -97.7446762,
             "tags": {
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4417,7 +4777,8 @@
                 "material": "metal",
                 "name": "Exoskeleton",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4428,7 +4789,8 @@
             "tags": {
                 "information": "map",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4443,7 +4805,8 @@
                 "name:es": "El Alma de Republic Square",
                 "operator": "Downtown Austin Parks, LLC",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4454,7 +4817,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4469,7 +4833,8 @@
                 "name:es": "El Guadalupe Park y El \"M\u00e9xico\" de Austin",
                 "operator": "Downtown Austin Parks, LLC",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4484,7 +4849,8 @@
                 "name:es": "Historia del Parque",
                 "operator": "Downtown Austin Parks, LLC",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4497,7 +4863,8 @@
                 "map_size": "park",
                 "map_type": "scheme",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4511,7 +4878,8 @@
                 "name": "Welcome to Waterloo Greenway",
                 "name:es": "Bienvenidos a Waterloo Greenway",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4525,7 +4893,8 @@
                 "name": "Common Ground",
                 "name:es": "Tierras comunes",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4539,7 +4908,8 @@
                 "name": "Down to Business",
                 "name:es": "Una cuesti\u00f3n de negocios",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4553,7 +4923,8 @@
                 "name": "Rocking Red River",
                 "name:es": "M\u00fasica en Red River",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4567,7 +4938,8 @@
                 "name": "Restoring Waller Creek",
                 "name:es": "Recuperar Waller Creek",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4581,7 +4953,8 @@
                 "map_type": "scheme",
                 "name": "East Gate",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4595,7 +4968,8 @@
                 "map_type": "scheme",
                 "name": "West Gate",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4609,7 +4983,8 @@
                 "map_type": "scheme",
                 "name": "South Gate West",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4623,7 +4998,8 @@
                 "map_type": "scheme",
                 "name": "South Gate East",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4636,7 +5012,8 @@
                 "material": "metal",
                 "name": "Good Luck Statue",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4647,7 +5024,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -4657,7 +5035,8 @@
             "lon": -97.8222661,
             "tags": {
                 "tourism": "picnic_site",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4668,7 +5047,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4679,7 +5059,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4690,7 +5071,8 @@
             "tags": {
                 "direction": "N",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4706,7 +5088,8 @@
                 "addr:street": "East Highland Mall Boulevard",
                 "name": "Habitat Suites",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4719,7 +5102,8 @@
                 "layer": "1",
                 "map_type": "hiking",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4745,7 +5129,8 @@
                 "tourism": "hotel",
                 "website": "https://www.properhotel.com/austin/",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4758,7 +5143,8 @@
                 "map_size": "local",
                 "map_type": "scheme",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4774,7 +5160,8 @@
                 "name": "Gear Grove",
                 "start_date": "2013",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4786,7 +5173,8 @@
                 "artwork_type": "sculpture",
                 "material": "metal",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4801,7 +5189,8 @@
                 "name": "Spiral of the Galaxy",
                 "tourism": "artwork",
                 "website": "https://landmarks.utexas.edu/artwork/spiral-galaxy",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4813,7 +5202,8 @@
                 "information": "map",
                 "operator": "Austin Parks Foundation",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4825,7 +5215,8 @@
                 "board_type": "nature",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4836,7 +5227,8 @@
             "tags": {
                 "name": "HOME",
                 "tourism": "apartment",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4850,7 +5242,8 @@
                 "map_type": "cycleway;hiking",
                 "name": "Mueller Trail Map",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4861,7 +5254,8 @@
             "tags": {
                 "artwork_type": "sculpture",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4880,7 +5274,8 @@
                 "subject:wikidata": "Q4115567",
                 "subject:wikipedia": "en:Lupinus texensis",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4897,7 +5292,8 @@
                 "subject:wikidata": "Q748410",
                 "subject:wikipedia": "en:Texas horned lizard",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4915,7 +5311,8 @@
                 "subject:wikidata": "Q913930",
                 "subject:wikipedia": "en:Mexican free-tailed bat",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4932,7 +5329,8 @@
                 "subject:wikidata": "Q144412",
                 "subject:wikipedia": "en:Opuntia ficus-indica",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4949,7 +5347,8 @@
                 "subject:wikidata": "Q649549",
                 "subject:wikipedia": "en:Nine-banded armadillo",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4966,7 +5365,8 @@
                 "subject:wikidata": "Q301089",
                 "subject:wikipedia": "en:Kemp's ridley sea turtle",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4977,7 +5377,8 @@
             "tags": {
                 "name": "North Shore Overlook",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4992,7 +5393,8 @@
                 "map_size": "route",
                 "map_type": "scheme",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5005,7 +5407,8 @@
                 "information": "board",
                 "name": "Welcome to Walnut Creek Watershed",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5021,7 +5424,8 @@
                 "name": "Republic of Texas Museum",
                 "tourism": "museum",
                 "website": "https://drtinfo.org/Members/Members/RTHC/001Republic-of-Texas-Museum.aspx",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5036,7 +5440,8 @@
                 "map_size": "route",
                 "map_type": "cycleway",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5051,7 +5456,8 @@
                 "map_size": "route",
                 "map_type": "cycleway",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5064,7 +5470,8 @@
                 "material": "metal",
                 "name": "The Giant Rooster",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5075,7 +5482,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5086,7 +5494,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5098,7 +5507,8 @@
                 "board_type": "geology",
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5110,7 +5520,8 @@
                 "museum": "history",
                 "name": "Museum of Illusions",
                 "tourism": "museum",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5121,7 +5532,8 @@
             "tags": {
                 "name": "Museum of Ice Cream",
                 "tourism": "museum",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5132,7 +5544,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5143,7 +5556,8 @@
             "tags": {
                 "information": "board",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5164,7 +5578,8 @@
                 "shop": "weapons",
                 "tourism": "viewpoint",
                 "website": "https://zerowhiskeytacticalarms.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5175,7 +5590,8 @@
             "tags": {
                 "information": "route_marker",
                 "tourism": "information",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "5.0"
             }
         },
         {
@@ -5188,7 +5604,8 @@
                 "name": "La Mujer",
                 "tourism": "artwork",
                 "website": "https://www.austintexas.gov/MACCLaMujer",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {

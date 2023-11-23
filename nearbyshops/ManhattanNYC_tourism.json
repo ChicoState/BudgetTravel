@@ -33,7 +33,8 @@
                 "wheelchair": "limited",
                 "wikidata": "Q1261362",
                 "wikipedia": "en:Stonewall Inn",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -64,7 +65,8 @@
                 "source": "USGS Geonames",
                 "tourism": "gallery",
                 "wikidata": "Q2063533",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -89,7 +91,8 @@
                 "website": "https://www.frauncestavernmuseum.org/",
                 "wheelchair": "yes",
                 "wikidata": "Q2947539",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -113,7 +116,8 @@
                 "website": "https://americanindian.si.edu/",
                 "wheelchair": "yes",
                 "wikidata": "Q5539979",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -139,7 +143,8 @@
                 "source": "USGS Geonames",
                 "tourism": "hotel",
                 "website": "https://www.hotelbelleclaire.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -164,7 +169,8 @@
                 "website": "https://bronxmuseum.org/",
                 "wheelchair": "yes",
                 "wikidata": "Q4974195",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -192,7 +198,8 @@
                 "website": "https://www.tenement.org/",
                 "wikidata": "Q901533",
                 "wikipedia": "en:Lower East Side Tenement Museum",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -214,7 +221,8 @@
                 "name": "Greenpoint Branch YMCA",
                 "source": "USGS Geonames",
                 "tourism": "hostel",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -229,7 +237,8 @@
                 "name": "Janet Borden",
                 "tourism": "gallery",
                 "website": "http://janetbordeninc.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -250,7 +259,8 @@
                 "website": "https://www.icp.org/",
                 "wikidata": "Q636942",
                 "wikipedia": "en:International Center of Photography",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -266,7 +276,8 @@
                 "addr:street": "Metropolitan Avenue",
                 "disused:amenity": "fuel",
                 "tourism": "viewpoint",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -284,7 +295,8 @@
                 "name": "Country Inn & Suites by Carlson",
                 "stars": "2",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -301,7 +313,8 @@
                 "name": "Bryant Park Hotel",
                 "tourism": "hotel",
                 "website": "https://bryantparkhotel.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -325,7 +338,8 @@
                 "tourism": "hotel",
                 "website": "https://www.conradnewyork.com/",
                 "wheelchair": "yes",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -341,7 +355,8 @@
                 "addr:street": "East 28th Street",
                 "name": "Latham",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -366,7 +381,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q6747858",
                 "wikipedia": "en:Mandarin Oriental, New York",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -386,7 +402,8 @@
                 "stars": "2",
                 "tourism": "hotel",
                 "website": "http://www.hotel99.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -404,7 +421,8 @@
                 "phone": "(212) 475-5700",
                 "tourism": "hotel",
                 "wikidata": "Q5167816",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -421,7 +439,8 @@
                 "name": "New York Loft Hostel",
                 "tourism": "hostel",
                 "website": "https://nylofthostel.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "5.0"
             }
         },
         {
@@ -444,7 +463,8 @@
                 "official_name": "DoubleTree by Hilton",
                 "tourism": "hotel",
                 "website": "https://doubletree3.hilton.com/en/hotels/new-york/doubletree-suites-by-hilton-hotel-new-york-city-times-square-LGASFDT/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -465,7 +485,8 @@
                 "smoking": "no",
                 "stars": "5",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -481,7 +502,8 @@
                 "name": "Fitzpatrick Grand Central Hotel",
                 "tourism": "hotel",
                 "website": "http://www.fitzpatrickhotels.com/fitzpatrick-grand-central.shtml",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -508,7 +530,8 @@
                 "tourism": "hotel",
                 "website": "http://www.stregisnewyork.com/",
                 "wikidata": "Q2322983",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -532,7 +555,8 @@
                 "website": "https://dyckmanfarmhouse.org/",
                 "wheelchair": "no",
                 "wikidata": "Q2865930",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -551,7 +575,8 @@
                 "name": "Hotel 31",
                 "smoking": "no",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -569,7 +594,8 @@
                 "name": "Days Hotel",
                 "tourism": "hotel",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -590,7 +616,8 @@
                 "website": "http://rubinmuseum.org/",
                 "wikidata": "Q63751",
                 "wikipedia": "en:Rubin Museum of Art",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -616,7 +643,8 @@
                 "phone": "+1 646-449-7700",
                 "tourism": "hotel",
                 "website": "https://www.yotel.com/en/hotels/yotel-new-york",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -643,7 +671,8 @@
                 "stars": "4.5",
                 "tourism": "hotel",
                 "website": "https://www.ink48.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -661,7 +690,8 @@
                 "name": "Broadway Hotel & Hostel",
                 "tourism": "hotel",
                 "website": "http://www.broadwayhotelnyc.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -684,7 +714,8 @@
                 "website": "https://www.beaconhotel.com/",
                 "wikidata": "Q30626016",
                 "wikipedia": "en:Hotel Beacon",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -703,7 +734,8 @@
                 "name": "Central Park Inn",
                 "tourism": "hostel",
                 "website": "http://centralparkinn.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -723,7 +755,8 @@
                 "short_name": "W",
                 "tourism": "hotel",
                 "website": "http://www.wnewyork.com/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -741,7 +774,8 @@
                 "source": "survey",
                 "tourism": "hotel",
                 "website": "www.sentonhotel.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -759,7 +793,8 @@
                 "source": "survey",
                 "tourism": "hotel",
                 "website": "https://www.broadwayplazahotel.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -776,7 +811,8 @@
                 "tourism": "hotel",
                 "website": "https://www.hotelgiraffe.com/",
                 "wikidata": "Q5911529",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -794,7 +830,8 @@
                 "tourism": "hotel",
                 "wikidata": "Q240711",
                 "wikipedia": "en:Hotel Chelsea",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -817,7 +854,8 @@
                 "tourism": "hotel",
                 "website": "http://www.thegemhotel.com/chelsea/",
                 "wikidata": "Q7735570",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -841,7 +879,8 @@
                 "website": "https://www.wythehotel.com/",
                 "wheelchair": "yes",
                 "wikidata": "Q111395094",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -864,7 +903,8 @@
                 "tourism": "hotel",
                 "website": "https://www.jameshotels.com/new-york/soho",
                 "wikidata": "Q62391754",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -881,7 +921,8 @@
                 "phone": "+1-212-674-0100",
                 "tourism": "hotel",
                 "website": "http://stmarkshotel.net/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -899,7 +940,8 @@
                 "operator": "DIA",
                 "phone": "+1-212-925-9397",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -915,7 +957,8 @@
                 "phone": "+1-212-226-1482",
                 "tourism": "hotel",
                 "website": "https://www.thesohotel.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -932,7 +975,8 @@
                 "opening_hours": "Th-Su 12:00-18:00",
                 "phone": "+1-917-518-0809",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -948,7 +992,8 @@
                 "phone": "+1-212-390-8988",
                 "tourism": "hotel",
                 "website": "https://nobleden.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -968,7 +1013,8 @@
                 "phone": "(212) 777-7799",
                 "tourism": "gallery",
                 "website": "https://krausegallery.com",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -983,7 +1029,8 @@
                 "brand": "The GEM Hotel",
                 "name": "The GEM Hotel Soho",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -999,7 +1046,8 @@
                 "opening_hours": "Tu-Sa 10:00-18:00",
                 "operator": "Andrew Kreps",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1013,7 +1061,8 @@
                 "addr:street": "Bowery",
                 "name": "U.S. Pacific Hotel",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1032,7 +1081,8 @@
                 "opening_hours": "Th-Sa 11:00-18:00",
                 "phone": "212\u2011343\u20112599",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1049,7 +1099,8 @@
                 "phone": "+1-917-388-2464",
                 "tourism": "gallery",
                 "website": "http://www.magentaplains.com",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1063,7 +1114,8 @@
                 "addr:street": "Saint Nicholas Avenue",
                 "name": "Ketchup Gallery",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1084,7 +1136,8 @@
                 "phone": "+1 212-226-6288",
                 "tourism": "hotel",
                 "website": "https://www.soho54hotel.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1102,7 +1155,8 @@
                 "shop": "vacant",
                 "tourism": "gallery",
                 "website": "https://theevac.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1122,7 +1176,8 @@
                 "swimming_pool": "no",
                 "tourism": "hotel",
                 "website": "https://bentleyhotelnyc.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1143,7 +1198,8 @@
                 "tourism": "museum",
                 "wikidata": "Q104830591",
                 "wikipedia": "en:Fotografiska New York",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1159,7 +1215,8 @@
                 "phone": "+1-212-679-0680",
                 "tourism": "hotel",
                 "website": "http://carltonarms.com",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1175,7 +1232,8 @@
                 "phone": "+1-212-696-3800",
                 "tourism": "hotel",
                 "website": "https://themarcelatgramercy.com",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1192,7 +1250,8 @@
                 "building": "yes",
                 "name": "Grand Lodge of Free and Accepted Masons",
                 "tourism": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1207,7 +1266,8 @@
                 "name": "Parksouth Hotel",
                 "tourism": "hotel",
                 "website": "https://www.jdvhotels.com/hotels/new-york/nyc/park-south-hotel",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1237,7 +1297,8 @@
                 "website": "http://www.thequinhotel.com",
                 "wikidata": "Q19878233",
                 "wikipedia": "en:The Quin",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1255,7 +1316,8 @@
                 "phone": "2128048880",
                 "tourism": "hotel",
                 "website": "https://www.sbe.com/hotels/mondrian/park-avenue",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1269,7 +1331,8 @@
                 "addr:street": "West 37th Street",
                 "name": "Schwartz Luggage Storage",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1285,7 +1348,8 @@
                 "name": "Refinery",
                 "tourism": "hotel",
                 "website": "https://www.refineryhotelnewyork.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1302,7 +1366,8 @@
                 "stars": "2",
                 "tourism": "hotel",
                 "wheelchair": "limited",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1318,7 +1383,8 @@
                 "addr:street": "East 57th Street",
                 "name": "Stonehenge 57",
                 "tourism": "apartment",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1339,7 +1405,8 @@
                 "tourism": "hotel",
                 "website": "https://www.westgateresorts.com/hotels/new-york/midtown-manhattan/westgate-new-york-grand-central/",
                 "wheelchair": "yes",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1356,7 +1423,8 @@
                 "description": "Art Studio operated by NYC street artist #SacSix that provided crayons and coloring books during the height of the pandemic",
                 "name": "Art Clinic",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1398,7 +1466,8 @@
                 "website": "https://www.iberostar.com/en/hotels/new-york/iberostar-70-park-avenue/",
                 "wheelchair": "yes",
                 "wikidata": "Q111395054",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1415,7 +1484,8 @@
                 "name": "The Msocial",
                 "tourism": "hotel",
                 "website": "http://millenniumhotels.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1432,7 +1502,8 @@
                 "tourism": "yes",
                 "website": "https://www.rosewoodhotels.com/en/the-carlyle-new-york/dining/cafe-carlyle",
                 "wikidata": "Q5043145",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1446,7 +1517,8 @@
                 "addr:street": "East 100th Street",
                 "name": "House ZAZA",
                 "tourism": "guest_house",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1469,7 +1541,8 @@
                 "phone": "+1 212 873 5222",
                 "tourism": "hotel",
                 "website": "https://www.belnord.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1492,7 +1565,8 @@
                 "tourism": "hotel",
                 "website": "https://www.thehotelnewton.com/",
                 "wheelchair": "limited",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1507,7 +1581,8 @@
                 "name": "Supermud Pottery Studio, Gallery & Gift Shop",
                 "name:en": "Supermud Pottery Studio, Gallery & Gift Shop",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1522,7 +1597,8 @@
                 "name": "La casa de los Tenenbaums",
                 "name:en": "La casa de los Tenenbaums",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1546,7 +1622,8 @@
                 "phone": "+1-917-902-6628",
                 "tourism": "museum",
                 "website": "https://www.cccona.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1562,7 +1639,8 @@
                 "brand:wikipedia": "en:Best Western",
                 "name": "Best Western Convention Center",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1580,7 +1658,8 @@
                 "phone": "+1 212 4457599",
                 "tourism": "sightseeing",
                 "website": "https://www.citysightseeingnewyork.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1600,7 +1679,8 @@
                 "tourism": "hotel",
                 "website": "http://www.ritzcarlton.com/en/hotels/new-york/battery-park",
                 "wheelchair": "no",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1621,7 +1701,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q2915494",
                 "wikipedia": "en:Skyscraper Museum",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1646,7 +1727,8 @@
                 "tourism": "hotel",
                 "website": "https://newyork.wallstreet.andaz.hyatt.com/",
                 "wheelchair": "yes",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1663,7 +1745,8 @@
                 "tourism": "hotel",
                 "website": "http://www.hoteleurostarswallstreet.com/",
                 "wheelchair": "yes",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1691,7 +1774,8 @@
                 "tourism": "hotel",
                 "website": "https://www.marriott.com/hotels/travel/nyclm-fairfield-inn-new-york-manhattan-financial-district/",
                 "wheelchair": "yes",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1718,7 +1802,8 @@
                 "tourism": "hotel",
                 "website": "https://www.33seaporthotelnyc.com/",
                 "wheelchair": "yes",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1740,7 +1825,8 @@
                 "opening_hours": "10:00-18:00; Tu off; Th-Sa 10:00-22:00",
                 "tourism": "museum",
                 "website": "https://www.halldeslumieres.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1761,7 +1847,8 @@
                 "smoking": "no",
                 "stars": "3",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1778,7 +1865,8 @@
                 "name": "Hashimoto Contemporary",
                 "tourism": "gallery",
                 "website": "http://hashimotocontemporary.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1799,7 +1887,8 @@
                 "start_date": "2004",
                 "tourism": "gallery",
                 "website": "https://greenpointgallery.com",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.0"
             }
         },
         {
@@ -1816,7 +1905,8 @@
                 "name": "La Quinta Inn",
                 "official_name": "La Quinta Inn by Wyndham",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1844,7 +1934,8 @@
                 "tourism": "hotel",
                 "website": "http://www.hotelfeatherfactory.com/",
                 "wheelchair": "yes",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1863,7 +1954,8 @@
                 "website": "https://southstreetseaportmuseum.org/",
                 "wheelchair": "yes",
                 "wikidata": "Q16025238",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -1884,7 +1976,8 @@
                 "tourism": "hotel",
                 "website": "https://newyork.5thavenue.andaz.hyatt.com/",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1906,7 +1999,8 @@
                 "internet_access:fee": "yes",
                 "name": "Hilton New York Fashion District",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1924,7 +2018,8 @@
                 "tourism": "hostel",
                 "website": "http://www.theboweryhouse.com",
                 "wikidata": "Q7719548",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1945,7 +2040,8 @@
                 "phone": "6467741234",
                 "tourism": "hotel",
                 "website": "https://newyork.park.hyatt.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -1969,7 +2065,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q464354",
                 "wikipedia": "en:American Folk Art Museum",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -1987,7 +2084,8 @@
                 "website": "https://cmany.org/",
                 "wikidata": "Q5098190",
                 "wikipedia": "en:Children's Museum of the Arts",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2010,7 +2108,8 @@
                 "toilets:wheelchair": "yes",
                 "tourism": "hotel",
                 "wheelchair": "yes",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2028,7 +2127,8 @@
                 "phone": "(212) 614-0500",
                 "tourism": "hotel",
                 "website": "http://unionsquareinn.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2047,7 +2147,8 @@
                 "tourism": "hotel",
                 "wheelchair": "no",
                 "wikidata": "Q24675804",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2065,7 +2166,8 @@
                 "phone": "+1-212-645-8989",
                 "tourism": "hotel",
                 "website": "https://www.chelseainn.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2089,7 +2191,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q6858964",
                 "wikipedia": "en:Millennium Hilton New York One UN Plaza",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2106,7 +2209,8 @@
                 "name:fr": "Appartement de Friends",
                 "tourism": "attraction",
                 "wikimedia_commons": "Category:Friends House",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2124,7 +2228,8 @@
                 "tourism": "hotel",
                 "website": "http://townhouseinnchelsea.com/",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2142,7 +2247,8 @@
                 "tourism": "hotel",
                 "website": "http://worldhotelnyc.com",
                 "wheelchair": "no",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2161,7 +2267,8 @@
                 "phone": "(212) 687-4875",
                 "tourism": "hotel",
                 "website": "http://www.therenwickhotelnewyork.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2190,7 +2297,8 @@
                 "website": "https://www.jameshotels.com/new-york/nomad",
                 "wheelchair": "yes",
                 "wikidata": "Q9076588",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2220,7 +2328,8 @@
                 "rooms": "72",
                 "tourism": "hotel",
                 "website": "http://www.chambershotel.com",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -2245,7 +2354,8 @@
                 "operator:wikipedia": "en:LinkNYC",
                 "tourism": "information",
                 "wifi": "LinkNYC Free Public Wi-Fi",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2266,7 +2376,8 @@
                 "phone": "212-243-0800",
                 "tourism": "hotel",
                 "website": "http://www.wyndhamnyc.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2283,7 +2394,8 @@
                 "description": "A 16-story, 139-room hotel.",
                 "tourism": "hotel",
                 "website": "https://qns.com/story/2016/03/18/a-16-story-139-unit-hotel-will-rise-in-long-island-city/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2295,7 +2407,8 @@
                 "addr:housenumber": "161",
                 "addr:street": "Lexington Avenue",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2312,7 +2425,8 @@
                 "phone": "1 (646) 598-0100",
                 "tourism": "hotel",
                 "website": "https://qandahotel.com/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2329,7 +2443,8 @@
                 "name": "citizenM",
                 "tourism": "hotel",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2350,7 +2465,8 @@
                 "name": "The Wallace",
                 "tourism": "hotel",
                 "website": "https://www.thewallace.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2368,7 +2484,8 @@
                 "phone": "+1 212 8122700",
                 "tourism": "sightseeing",
                 "website": "https://www.citysightsny.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2390,7 +2507,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q1322466",
                 "wikipedia": "en:Museum of Sex",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2410,7 +2528,8 @@
                 "description": "Hotel",
                 "name": "Hilton Garden Inn",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2428,7 +2547,8 @@
                 "phone": "+12122436005",
                 "tourism": "attraction",
                 "website": "http://chelseamarket.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2453,7 +2573,8 @@
                 "smoking": "no",
                 "tourism": "hotel",
                 "website": "http://www.sanctuaryhotelnyc.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2490,7 +2611,8 @@
                 "website": "https://momath.org/",
                 "wheelchair": "yes",
                 "wikidata": "Q6940939",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2507,7 +2629,8 @@
                 "phone": "+12123172900",
                 "tourism": "hotel",
                 "website": "https://www.royaltonparkavenue.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2524,7 +2647,8 @@
                 "phone": "(212) 730-0728",
                 "tourism": "hotel",
                 "website": "radiocityapartments.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2552,7 +2676,8 @@
                 "swimming_pool": "no",
                 "tourism": "hotel",
                 "website": "https://www.marriott.com/hotels/travel/nycmh-courtyard-new-york-manhattan-upper-east-side/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2573,7 +2698,8 @@
                 "rooms": "12",
                 "tourism": "hotel",
                 "website": "http://www.innatirving.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2590,7 +2716,8 @@
                 "phone": "+1 212-965-9000",
                 "tourism": "museum",
                 "website": "http://italianamericanmuseum.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2611,7 +2738,8 @@
                 "phone": "+1-212-206-9300",
                 "tourism": "gallery",
                 "website": "https://gladstonegallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2626,7 +2754,8 @@
                 "name:en": "Chelsea Savoy Hotel",
                 "tourism": "hotel",
                 "website": "https://www.chelseasavoynyc.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2643,7 +2772,8 @@
                 "tourism": "hotel",
                 "website": "https://www.ameritanianyc.com/",
                 "wheelchair": "no",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2656,7 +2786,8 @@
                 "name": "49 Crosby",
                 "name:en": "49 Crosby",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2679,7 +2810,8 @@
                 "website": "https://www.themorgan.org/",
                 "wikidata": "Q1478423",
                 "wikipedia": "en:Morgan Library & Museum",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2698,7 +2830,8 @@
                 "website": "https://gagosian.com",
                 "wikidata": "Q2748031",
                 "wikipedia": "en:Gagosian Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2720,7 +2853,8 @@
                 "website": "https://www.metmuseum.org/visit/plan-your-visit/met-cloisters",
                 "wikidata": "Q1138030",
                 "wikipedia": "en:The Cloisters",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2743,7 +2877,8 @@
                 "website": "https://www.mocanyc.org",
                 "wheelchair": "limited",
                 "wikidata": "Q1278593",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2757,7 +2892,8 @@
                 "addr:street": "Lafayette Street",
                 "name": "City Rooms NYC Soho",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2771,7 +2907,8 @@
                 "name": "American Icon",
                 "name:en": "American Icon",
                 "tourism": "attraction",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2789,7 +2926,8 @@
                 "phone": "+1-212-647-0010",
                 "tourism": "hostel",
                 "website": "https://www.chelseahostel.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2814,7 +2952,8 @@
                 "tourism": "hostel",
                 "website": "https://www.jazzhostels.com/jazzlocations/jazz-on-columbus-circle/",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2831,7 +2970,8 @@
                 "operator": "Brooklyn Children's Museum",
                 "tourism": "museum",
                 "website": "http://www.brooklynkids.org/spark/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2852,7 +2992,8 @@
                 "website": "https://www.sohogrand.com/",
                 "wheelchair": "yes",
                 "wikidata": "Q7554755",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2866,7 +3007,8 @@
                 "internet_access": "wlan",
                 "name:tr": "YURTSEVER MALIKHANESI",
                 "tourism": "guest_house",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2882,7 +3024,8 @@
                 "name:en": "Dream Midtown",
                 "tourism": "hotel",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2898,7 +3041,8 @@
                 "addr:street": "Suffolk Street",
                 "name": "Rachel Uffner",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2918,7 +3062,8 @@
                 "operator": "Morgan Aguiar-Lucander",
                 "tourism": "gallery",
                 "website": "https://www.morgan-presents.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2943,7 +3088,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q665475",
                 "wikipedia": "en:Rose Center for Earth and Space",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -2965,7 +3111,8 @@
                 "rooms": "183",
                 "tourism": "hotel",
                 "website": "https://www.thewilliamvale.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -2987,7 +3134,8 @@
                 "tourism": "gallery",
                 "website": "https://mnafineart.com/",
                 "wikidata": "Q29441896",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -2999,7 +3147,8 @@
                 "addr:housenumber": "357",
                 "name": "Luggage keeper",
                 "tourism": "information",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3022,7 +3171,8 @@
                 "phone": "+1 718-303-3700",
                 "tourism": "hotel",
                 "website": "https://www.redlion.com/red-lion-inn-suites/ny/long-island-city/red-lion-inn-suites-long-island-city",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "5.0"
             }
         },
         {
@@ -3035,7 +3185,8 @@
                 "addr:street": "Wall Street",
                 "name": "WeLive",
                 "tourism": "apartment",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3059,7 +3210,8 @@
                 "shop": "laundry",
                 "tourism": "gallery",
                 "website": "https://sunshinelaundromat.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3075,7 +3227,8 @@
                 "phone": "+1-212-925-2555",
                 "tourism": "hotel",
                 "website": "https://www.nolitanhotel.com",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3089,7 +3242,8 @@
                 "internet_access": "wlan",
                 "name": "U Hotel Fifth Avenue",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3101,7 +3255,8 @@
                 "addr:housenumber": "1575",
                 "addr:street": "Townsend Avenue",
                 "tourism": "apartment",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3119,7 +3274,8 @@
                 "internet_access": "wlan",
                 "name": "Best Western Plaza",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3135,7 +3291,8 @@
                 "addr:street": "Adam Clayton Powell Jr. Boulevard",
                 "name": "Apollo Hotel",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3148,7 +3305,8 @@
                 "addr:street": "Norman Street",
                 "name": "Qlty-Life",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3166,7 +3324,8 @@
                 "phone": "+1 212-279-9777",
                 "tourism": "attraction",
                 "website": "skyride.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3179,7 +3338,8 @@
                 "addr:street": "West 22nd Street",
                 "name": "Colonial House",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3192,7 +3352,8 @@
                 "addr:street": "Franklin Street",
                 "name": "The Print Room",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3205,7 +3366,8 @@
                 "addr:street": "East 32nd Street",
                 "name": "The Marmara",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3218,7 +3380,8 @@
                 "addr:street": "West 25th Street",
                 "name": "Heritage Hotel",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3231,7 +3394,8 @@
                 "addr:street": "Central Park North",
                 "name": "Ergie",
                 "tourism": "apartment",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3244,7 +3408,8 @@
                 "addr:street": "Saint Nicholas Avenue",
                 "name": "St Nicholas Hotel",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3261,7 +3426,8 @@
                 "tourism": "museum",
                 "website": "https://www.sugarhillmuseum.org",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3276,7 +3442,8 @@
                 "name": "The French Quarters Guest Apartments",
                 "phone": "+1-212-359-6652",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3296,7 +3463,8 @@
                 "tourism": "hotel",
                 "website": "https://www.themarkhotel.com/",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.0"
             }
         },
         {
@@ -3314,7 +3482,8 @@
                 "phone": "+1-718-784-3680",
                 "tourism": "gallery",
                 "website": "https://www.resobox.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3331,7 +3500,8 @@
                 "name": "Westwood Gallery",
                 "opening_hours": "Tu-Sa 10:00-18:00",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3352,7 +3522,8 @@
                 "smoking": "no",
                 "tourism": "hotel",
                 "website": "https://www.orchardstreethotel.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3368,7 +3539,8 @@
                 "tourism": "museum",
                 "website": "https://studiomuseum.org/",
                 "wikidata": "Q903403",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -3388,7 +3560,8 @@
                 "phone": "+1 646-864-1100",
                 "tourism": "hotel",
                 "website": "https://www.riu.com/en/hotel/USA/new-york/hotel-riu-plaza-new-york/times/square/index.jsp",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3410,7 +3583,8 @@
                 "website": "http://www.rcgrossfoundation.org/",
                 "wheelchair": "limited",
                 "wikidata": "Q24259668",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3430,7 +3604,8 @@
                 "phone": "+1-212-255-5828",
                 "tourism": "yes",
                 "website": "https://davidbouley.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3443,7 +3618,8 @@
                 "addr:street": "Water Street",
                 "name": "the Humphrey loft",
                 "tourism": "apartment",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3457,7 +3633,8 @@
                 "name": "Studio Three Thirty",
                 "phone": "+1-479-244-7739",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3482,7 +3659,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q22329588",
                 "wikipedia": "en:Mmuseumm",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3500,7 +3678,8 @@
                 "phone": "+1-212-260-9779",
                 "tourism": "hostel",
                 "website": "https://www.americandreamhostel.com",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3513,7 +3692,8 @@
                 "addr:street": "Melrose Street",
                 "name": "Arts and Rhymes Who Got Style Wall",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "5.0"
             }
         },
         {
@@ -3528,7 +3708,8 @@
                 "phone": "+1-212-741-4443",
                 "tourism": "gallery",
                 "website": "http://mokotoff.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3544,7 +3725,8 @@
                 "website": "https://www.centerforarchitecture.org/",
                 "wheelchair": "limited",
                 "wikidata": "Q5059504",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3566,7 +3748,8 @@
                 "website": "https://www.mercerhotel.com/",
                 "wheelchair": "yes",
                 "wikidata": "Q7751035",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3579,7 +3762,8 @@
                 "addr:street": "West 145th Street",
                 "name": "Hotel",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3597,7 +3781,8 @@
                 "short_name": "Four Points",
                 "tourism": "hotel",
                 "wheelchair": "yes",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3610,7 +3795,8 @@
                 "addr:street": "Duane Street",
                 "name": "Duane Street Hotel",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3637,7 +3823,8 @@
                 "tourism": "gallery",
                 "website": "https://wallach.columbia.edu/",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3657,7 +3844,8 @@
                 "website": "https://www.topoftherocknyc.com/",
                 "wheelchair": "yes",
                 "wikidata": "Q66722774",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3673,7 +3861,8 @@
                 "phone": "+1-646-998-3727",
                 "tourism": "gallery",
                 "website": "https://www.ericfirestonegallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3703,7 +3892,8 @@
                 "tourism": "hotel",
                 "website": "https://www.marriott.com/NYCLF",
                 "wheelchair": "yes",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3717,7 +3907,8 @@
                 "name": "Museum of Illusions",
                 "tourism": "museum",
                 "website": "https://museumofillusions.us/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3745,7 +3936,8 @@
                 "tourism": "gallery",
                 "website": "https://gloriasprojectspace.com/",
                 "wheelchair": "no",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -3763,7 +3955,8 @@
                 "opening_hours": "Mo, Th, Su 09:30-18:00; Tu 09:30-17:00; We off; Fr, Sa 09:30-20:00",
                 "tourism": "attraction",
                 "website": "http://colorfactory.co",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3782,7 +3975,8 @@
                 "material": "metal",
                 "name": "Vladimir Lenin",
                 "tourism": "artwork",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3817,7 +4011,8 @@
                 "tourism": "hotel",
                 "website": "https://www.sonesta.com/sonesta-es-suites/ny/new-york/gardens-sonesta-es-suites-new-york",
                 "wheelchair": "yes",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3852,7 +4047,8 @@
                 "tourism": "hotel",
                 "website": "https://www.sonesta.com/sonesta-select/ny/new-york/fifty-sonesta-select-new-york",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3888,7 +4084,8 @@
                 "tourism": "hotel",
                 "website": "https://www.sonesta.com/sonesta-hotels-resorts/ny/new-york/shelburne-sonesta-new-york",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3901,7 +4098,8 @@
                 "addr:street": "Murray Street",
                 "name": "Site of the Beach Pneumatic Subway",
                 "tourism": "attraction",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3920,7 +4118,8 @@
                 "operator": "17 Frost Gallery",
                 "tourism": "gallery",
                 "website": "https://www.17frost.com/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -3937,7 +4136,8 @@
                 "start_date": "1994",
                 "tourism": "gallery",
                 "website": "http://fluxfactory.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3954,7 +4154,8 @@
                 "phone": "+1-212-777-0790",
                 "tourism": "gallery",
                 "website": "https://galeriezurcher.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3971,7 +4172,8 @@
                 "name": "McCarren Hotel & Pool",
                 "tourism": "hotel",
                 "wikidata": "Q111395096",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -3987,7 +4189,8 @@
                 "opening_hours": "Tu 13:30-17:00; Th 14:00-18:00; Fr 14:00-19:00; Sa 13:00-19:00; Su 14:00-17:00",
                 "tourism": "gallery",
                 "website": "http://www.theresabyrnes.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4007,7 +4210,8 @@
                 "operator": "SLEEPCENTER",
                 "tourism": "gallery",
                 "website": "https://sleepcenterny.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4025,7 +4229,8 @@
                 "operator": "Essex Flowers Gallery",
                 "tourism": "gallery",
                 "website": "https://essexflowers.us",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4044,7 +4249,8 @@
                 "operator": "FIERMAN",
                 "tourism": "gallery",
                 "website": "https://fierman.nyc",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4064,7 +4270,8 @@
                 "operator": "Con Artist Collective",
                 "tourism": "gallery",
                 "website": "https://conartistnyc.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4084,7 +4291,8 @@
                 "phone": "(212) 812-2902",
                 "tourism": "gallery",
                 "website": "https://perrotin.com",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4102,7 +4310,8 @@
                 "phone": "(212) 951-1112",
                 "tourism": "hotel",
                 "website": "https://sagohotel.com",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4123,7 +4332,8 @@
                 "phone": "(212) 366-6939",
                 "tourism": "gallery",
                 "website": "https://bitforms.art",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4143,7 +4353,8 @@
                 "operator": "JJ Brine",
                 "tourism": "gallery",
                 "website": "http://vectorgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4163,7 +4374,8 @@
                 "tourism": "gallery",
                 "website": "https://jamesfuentes.com/",
                 "wheelchair": "yes",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4176,7 +4388,8 @@
                 "addr:street": "Walker Street",
                 "name": "Alexander and Bonin",
                 "tourism": "gallery",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4192,7 +4405,8 @@
                 "phone": "(212) 477-5006",
                 "tourism": "gallery",
                 "website": "https://www.reenaspaulings.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.5"
             }
         },
         {
@@ -4217,7 +4431,8 @@
                 "name": "HG Contemporary",
                 "opening_hours": "Mo-Sa 11:00-18:00",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4230,7 +4445,8 @@
                 "addr:street": "Canal Street",
                 "name": "Soho Garden Hotel",
                 "tourism": "hotel",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4252,7 +4468,8 @@
                 "official_name": "Courtyard by Marriott",
                 "tourism": "hotel",
                 "wheelchair": "yes",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4266,7 +4483,8 @@
                 "email": "today@186fkepler.com",
                 "name": "186f Kepler",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4281,7 +4499,8 @@
                 "opening_hours": "Sa 00:00-18:00",
                 "tourism": "gallery",
                 "website": "https://transfergallery.org",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4297,7 +4516,8 @@
                 "phone": "(718)-387-2900",
                 "tourism": "gallery",
                 "website": "https://iscp-nyc.org",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4318,7 +4538,8 @@
                 "operator": "Lazy Susan Gallery",
                 "tourism": "gallery",
                 "website": "http://lazysusan.nyc",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4341,7 +4562,8 @@
                 "phone": "(917) 994-0593",
                 "tourism": "gallery",
                 "website": "https://false-flag.org",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4359,7 +4581,8 @@
                 "opening_hours": "Mo-Sa 12:00-19:00",
                 "tourism": "gallery",
                 "website": "https://chinatownsoup.nyc",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4380,7 +4603,8 @@
                 "phone": "+1-302-481-6331",
                 "tourism": "gallery",
                 "website": "https://vacationgallery.nyc",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4398,7 +4622,8 @@
                 "phone": "212-226-4552",
                 "tourism": "gallery",
                 "website": "https://empiricalnonsense.today",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4417,7 +4642,8 @@
                 "start_date": "1974",
                 "tourism": "gallery",
                 "website": "https://www.amoseno.org",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "5.0"
             }
         },
         {
@@ -4434,7 +4660,8 @@
                 "phone": "212-390-8290",
                 "tourism": "gallery",
                 "website": "https://karmakarma.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4449,7 +4676,8 @@
                 "name:en": "Club Quarters Hotel,  World Trade Center",
                 "phone": "2125771133",
                 "tourism": "hotel",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4478,7 +4706,8 @@
                 "website": "https://morusnyc.org/",
                 "wheelchair": "no",
                 "wikidata": "Q6941005",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4495,7 +4724,8 @@
                 "phone": "+1 917 4095413",
                 "tourism": "gallery",
                 "website": "http://factionartprojects.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4514,7 +4744,8 @@
                 "swimming_pool": "no",
                 "tourism": "hotel",
                 "website": "https://www.thepodhotel.com/pod-times-square/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4533,7 +4764,8 @@
                 "opening_hours": "Sa,Su 14:00-19:00",
                 "tourism": "gallery",
                 "website": "https://sshh.nyc",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4554,7 +4786,8 @@
                 "website": "https://www.davidzwirner.com",
                 "wikidata": "Q1950826",
                 "wikipedia": "en:David Zwirner Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4572,7 +4805,8 @@
                 "tourism": "hotel",
                 "website": "https://www.hoteltsq.com",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4587,7 +4821,8 @@
                 "name": "Underdonk",
                 "opening_hours": "Sa, Su 13:00-18:00",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4600,7 +4835,8 @@
                 "addr:street": "Manhattan Place",
                 "name": "Mehmet Ali ev",
                 "tourism": "guest_house",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4617,7 +4853,8 @@
                 "phone": "+1-212-796-2070",
                 "tourism": "gallery",
                 "website": "https://www.klompching.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4641,7 +4878,8 @@
                 "start_date": "1984",
                 "tourism": "gallery",
                 "website": "https://lamama.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4660,7 +4898,8 @@
                 "tourism": "gallery",
                 "website": "https://www.sculpture-center.org/",
                 "wikidata": "Q7439449",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4685,7 +4924,8 @@
                 "phone": "+1-212-875-5350",
                 "tourism": "information",
                 "website": "http://www.lincolncenter.org/venue/david-rubenstein-atrium",
-                "price": "Price information not available"
+                "price": "Price information not available",
+                "rating": "4.5"
             }
         },
         {
@@ -4707,7 +4947,8 @@
                 "phone": "917-789-2252",
                 "tourism": "gallery",
                 "website": "https://synesthesia.space",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "5.0"
             }
         },
         {
@@ -4733,7 +4974,8 @@
                 "wheelchair": "no",
                 "wikidata": "Q74077989",
                 "wikipedia": "en:Joker Stairs",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4746,7 +4988,8 @@
                 "addr:street": "Greene Street",
                 "name": "King of Green Street",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4759,7 +5002,8 @@
                 "addr:street": "Greene Street",
                 "name": "Queen of Green Street",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4772,7 +5016,8 @@
                 "addr:street": "Broadway",
                 "name": "Little Singer Building",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4792,7 +5037,8 @@
                 "tourism": "hotel",
                 "website": "https://henrynormanhotel.com",
                 "wikidata": "Q111395098",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4816,7 +5062,8 @@
                 "phone": "+1 212 838 2560",
                 "tourism": "museum",
                 "website": "https://societyillustrators.org/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4836,7 +5083,8 @@
                 "name": "Courtyard",
                 "official_name": "Courtyard by Marriott",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4854,7 +5102,8 @@
                 "phone": "+1-212-929-1023",
                 "tourism": "hotel",
                 "website": "https://www.eastvillagehotelnyc.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4866,7 +5115,8 @@
                 "addr:housenumber": "692",
                 "addr:street": "Madison Avenue",
                 "tourism": "hostel",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4878,7 +5128,8 @@
                 "addr:housenumber": "692",
                 "addr:street": "Madison Avenue",
                 "tourism": "hotel",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4897,7 +5148,8 @@
                 "shop": "hairdresser",
                 "tourism": "gallery",
                 "website": "https://www.artraynyc.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4909,7 +5161,8 @@
                 "addr:housenumber": "958",
                 "addr:street": "Madison Avenue",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4924,7 +5177,8 @@
                 "opening_hours": "Mo, We, Th, Su 10:00-19:00; Fr, Sa 10:00-20:30",
                 "tourism": "museum",
                 "website": "https://www.museumoficecream.com/new-york-city",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4940,7 +5194,8 @@
                 "name": "Pier 55",
                 "tourism": "attraction",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4953,7 +5208,8 @@
                 "addr:street": "East 74th Street",
                 "name": "Eleanor Roosevelt High Residence",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -4979,7 +5235,8 @@
                 "tourism": "gallery",
                 "website": "http://shivagallery.org",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -4993,7 +5250,8 @@
                 "addr:street": "Madison Avenue",
                 "name": "Eden Fine Art",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5016,7 +5274,8 @@
                 "swimming_pool": "no",
                 "tourism": "hotel",
                 "website": "https://www.franklinhotel.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5039,7 +5298,8 @@
                 "website": "https://www.303gallery.com",
                 "wikidata": "Q60742541",
                 "wikipedia": "en:303 Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5059,7 +5319,8 @@
                 "phone": "786-846-1150",
                 "tourism": "gallery",
                 "website": "https://www.lspacegallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5075,7 +5336,8 @@
                 "addr:street": "Bowery",
                 "name": "Amanita",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5094,7 +5356,8 @@
                 "opening_hours": "Th-Su 12:00-18:00; PH off",
                 "tourism": "museum",
                 "website": "http://cityreliquary.org/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5110,7 +5373,8 @@
                 "name": "Judd Foundation",
                 "phone": "(212) 219-2747",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5129,7 +5393,8 @@
                 "opening_hours:covid19": "off",
                 "tourism": "museum",
                 "website": "https://jazzmuseuminharlem.org/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "3.5"
             }
         },
         {
@@ -5148,7 +5413,8 @@
                 "website": "https://theshabazzcenter.org",
                 "wikidata": "Q6742732",
                 "wikipedia": "en:Malcolm X and Dr. Betty Shabazz Memorial and Educational Center",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5166,7 +5432,8 @@
                 "official_name": "Graduate Hotels",
                 "tourism": "hotel",
                 "website": "https://www.graduatehotels.com/roosevelt-island/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5188,7 +5455,8 @@
                 "tourism": "hotel",
                 "twitter": "https://twitter.com/solitasohohotel",
                 "website": "https://www.solitasohohotel.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5206,7 +5474,8 @@
                 "rooms": "171",
                 "tourism": "hotel",
                 "website": "https://www.walkerhotels.com/walker-hotel-tribeca",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5224,7 +5493,8 @@
                 "opening_hours:covid19": "closed",
                 "tourism": "museum",
                 "website": "https://www.mofad.org/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "3.5"
             }
         },
         {
@@ -5245,7 +5515,8 @@
                 "website": "https://www.theafricacenter.org/",
                 "wikidata": "Q1954603",
                 "wikipedia": "en:The Africa Center",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5260,7 +5531,8 @@
                 "name": "Space 776",
                 "tourism": "gallery",
                 "website": "https://www.space776.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5274,7 +5546,8 @@
                 "name": "Grolier Club",
                 "tourism": "museum",
                 "website": "https://www.grolierclub.org/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5295,7 +5568,8 @@
                 "phone": "+1 212-390-8833",
                 "smoking": "no",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5313,7 +5587,8 @@
                 "internet_access": "wlan",
                 "name": "The Beekman, A Thompson Hotel",
                 "tourism": "hotel",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5326,7 +5601,8 @@
                 "addr:street": "Madison Street",
                 "name": "Madison Les Hotel",
                 "tourism": "hotel",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5347,7 +5623,8 @@
                 "phone": "+1-212-966-7990",
                 "tourism": "gallery",
                 "website": "https://www.davidlewisgallery.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5366,7 +5643,8 @@
                 "nycdoitt:bin": "1004214",
                 "opening_hours": "Mo-Su 17:00-04:00",
                 "tourism": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5389,7 +5667,8 @@
                 "wheelchair": "yes",
                 "wikidata": "Q6530976",
                 "wikipedia": "en:Leslie-Lohman Museum of Art",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5403,7 +5682,8 @@
                 "name": "tba",
                 "tourism": "hotel",
                 "website": "https://www.staytba.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5425,7 +5705,8 @@
                 "phone": "+1-212-995-1774",
                 "tourism": "gallery",
                 "website": "https://miguelabreugallery.com/",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5444,7 +5725,8 @@
                 "opening_hours": "11:00-19:00; Tu off; Th 11:00-21:00",
                 "tourism": "museum",
                 "website": "https://www.icp.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5462,7 +5744,8 @@
                 "tourism": "hotel",
                 "website": "https://www.equinox.com/clubs/new-york/midtown/hudsonyards",
                 "wikidata": "Q111394932",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5485,7 +5768,8 @@
                 "website": "https://www.pacegallery.com/galleries/new-york/",
                 "wikidata": "Q7121900",
                 "wikipedia": "en:Pace Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5506,7 +5790,8 @@
                 "tourism": "artwork",
                 "wikidata": "Q3522014",
                 "wikipedia": "en:New York Earth Room",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5526,7 +5811,8 @@
                 "shop": "hairdresser",
                 "tourism": "museum",
                 "website": "https://www.nycbarbershopmuseum.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5543,7 +5829,8 @@
                 "name": "Arsenal Contemporary Art",
                 "tourism": "gallery",
                 "website": "https://www.arsenalcontemporary.com/ny/home",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5559,7 +5846,8 @@
                 "addr:street": "Wall Street",
                 "name": "The Wall Street Hotel",
                 "tourism": "hotel",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5575,7 +5863,8 @@
                 "phone": "+1-212-966-3411",
                 "tourism": "gallery",
                 "website": "http://woodwardgallery.net",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5590,7 +5879,8 @@
                 "name": "The Friends Experience",
                 "tourism": "attraction",
                 "website": "https://www.friendstheexperience.com/new-york/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5615,7 +5905,8 @@
                 "stars": "4",
                 "tourism": "hotel",
                 "website": "https://www.trusshotel.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -5631,7 +5922,8 @@
                 "addr:street": "Suffolk Street",
                 "name": "Spencer Brownstone Gallery",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5648,7 +5940,8 @@
                 "alt_name": "Trotter & Sholer",
                 "name": "trotter&sholer",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5669,7 +5962,8 @@
                 "phone": "(866) 454-3772",
                 "tourism": "museum",
                 "website": "https://www.jackierobinsonmuseum.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5685,7 +5979,8 @@
                 "opening_hours": "Tu-Sa 11:00-18:00",
                 "tourism": "gallery",
                 "website": "https://www.marchgallery.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5701,7 +5996,8 @@
                 "phone": "+1 212-260-4014",
                 "tourism": "gallery",
                 "website": "https://www.pomegranategallery.art",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5720,7 +6016,8 @@
                 "opening_hours": "Th-Su 10:00-18:00",
                 "tourism": "museum",
                 "website": "https://www.frick.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5740,7 +6037,8 @@
                 "opening_hours": "Tu-Sa 10:00-18:00",
                 "tourism": "gallery",
                 "website": "https://nohrahaimegallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5761,7 +6059,8 @@
                 "phone": "+1 201-758-7920",
                 "tourism": "hotel",
                 "website": "https://envuehotel.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "3.0"
             }
         },
         {
@@ -5775,7 +6074,8 @@
                 "check_date": "2023-02-26",
                 "name": "Georges Berg\u00e8s Gallery",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5789,7 +6089,8 @@
                 "check_date": "2023-02-26",
                 "name": "DTR Modern Galleries",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5806,7 +6107,8 @@
                 "operator:wikipedia": "en:Loews_Hotels",
                 "stars": "5",
                 "tourism": "hotel",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5824,7 +6126,8 @@
                 "name": "AM:PM Gallery",
                 "tourism": "gallery",
                 "website": "https://ampmgallery.com/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5842,7 +6145,8 @@
                 "opening_hours": "Mo-Su 10:00-17:00",
                 "tourism": "gallery",
                 "website": "https://www.meiselgallery.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5862,7 +6166,8 @@
                 "phone": "+1-212-744-7400",
                 "tourism": "gallery",
                 "website": "https://www.miandn.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5883,7 +6188,8 @@
                 "phone": "+1-212-255-5560",
                 "tourism": "gallery",
                 "website": "https://www.rickwesterfineart.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5904,7 +6210,8 @@
                 "phone": "+1-212-315-0480",
                 "tourism": "gallery",
                 "website": "https://www.galerielelong.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5926,7 +6233,8 @@
                 "website": "https://berrycampbell.com",
                 "wikidata": "Q116312206",
                 "wikipedia": "en:Berry Campbell Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5946,7 +6254,8 @@
                 "phone": "+1-646-894-8565",
                 "tourism": "gallery",
                 "website": "https://www.caelumgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5967,7 +6276,8 @@
                 "phone": "+1-212-988-2200",
                 "tourism": "gallery",
                 "website": "https://fergusmccaffrey.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -5988,7 +6298,8 @@
                 "phone": "+1-212-463-7770",
                 "tourism": "gallery",
                 "website": "https://greenenaftaligallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6010,7 +6321,8 @@
                 "website": "https://www.marlboroughnewyork.com",
                 "wikidata": "Q6771667",
                 "wikipedia": "en:Marlborough Fine Art",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6030,7 +6342,8 @@
                 "phone": "+1-212-242-7727",
                 "tourism": "gallery",
                 "website": "https://www.cheimread.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6050,7 +6363,8 @@
                 "phone": "+1-917-305-0003",
                 "tourism": "gallery",
                 "website": "https://www.galleryhenoch.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6071,7 +6385,8 @@
                 "phone": "+1-212-206-0220",
                 "tourism": "gallery",
                 "website": "https://www.flagartfoundation.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6089,7 +6404,8 @@
                 "phone": "+1-917-572-9476",
                 "tourism": "gallery",
                 "website": "https://www.dobrinkasalzman.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6109,7 +6425,8 @@
                 "phone": "+1-212-680-9467",
                 "tourism": "gallery",
                 "website": "https://www.petzel.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6129,7 +6446,8 @@
                 "phone": "+1-212-255-2923",
                 "tourism": "gallery",
                 "website": "https://www.lehmannmaupin.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6149,7 +6467,8 @@
                 "phone": "+1-646-449-9400",
                 "tourism": "gallery",
                 "website": "https://www.silverlensgalleries.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6171,7 +6490,8 @@
                 "website": "https://marianneboeskygallery.com",
                 "wikidata": "Q51594553",
                 "wikipedia": "en:Marianne Boesky Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6193,7 +6513,8 @@
                 "website": "https://marianneboeskygallery.com",
                 "wikidata": "Q51594553",
                 "wikipedia": "en:Marianne Boesky Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6216,7 +6537,8 @@
                 "website": "https://luhringaugustine.com",
                 "wikidata": "Q509930",
                 "wikipedia": "en:Luhring Augustine Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6235,7 +6557,8 @@
                 "phone": "+1-212-989-5090",
                 "tourism": "gallery",
                 "website": "https://www.printcenternewyork.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6257,7 +6580,8 @@
                 "website": "https://gagosian.com",
                 "wikidata": "Q2748031",
                 "wikipedia": "en:Gagosian Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6278,7 +6602,8 @@
                 "phone": "+1-646-416-6300",
                 "tourism": "gallery",
                 "website": "https://www.c24gallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6298,7 +6623,8 @@
                 "phone": "+1-212-633-6555",
                 "tourism": "gallery",
                 "website": "https://fredericksfreisergallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6319,7 +6645,8 @@
                 "phone": "+1-212-229-2400",
                 "tourism": "gallery",
                 "website": "https://www.philippelabaune.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6339,7 +6666,8 @@
                 "phone": "+1-212-243-2100",
                 "tourism": "gallery",
                 "website": "https://www.annazorinagallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6359,7 +6687,8 @@
                 "phone": "+1-203-869-3664",
                 "tourism": "gallery",
                 "website": "https://www.cavaliergalleries.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6378,7 +6707,8 @@
                 "opening_hours": "Tu-Sa 10:00-18:00",
                 "tourism": "gallery",
                 "website": "https://www.hunterdunbarprojects.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6398,7 +6728,8 @@
                 "phone": "+1-212-209-1572",
                 "tourism": "gallery",
                 "website": "https://www.unixgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6418,7 +6749,8 @@
                 "phone": "+1-212-647-9111",
                 "tourism": "gallery",
                 "website": "https://www.inglettgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6440,7 +6772,8 @@
                 "website": "https://www.lissongallery.com",
                 "wikidata": "Q6559193",
                 "wikipedia": "en:Lisson Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6460,7 +6793,8 @@
                 "phone": "+1-212-505-6431",
                 "tourism": "gallery",
                 "website": "https://www.lissongallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6480,7 +6814,8 @@
                 "phone": "+1-212-675-7525",
                 "tourism": "gallery",
                 "website": "https://www.asyageisberggallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6500,7 +6835,8 @@
                 "phone": "+1-212-675-0222",
                 "tourism": "gallery",
                 "website": "https://thatcherprojects.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6520,7 +6856,8 @@
                 "phone": "+1-212-359-4333",
                 "tourism": "gallery",
                 "website": "https://crossingart.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6540,7 +6877,8 @@
                 "phone": "+1-212-279-8555",
                 "tourism": "gallery",
                 "website": "https://fremingallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6560,7 +6898,8 @@
                 "phone": "+1-646-918-7696",
                 "tourism": "gallery",
                 "website": "https://www.malingallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6583,7 +6922,8 @@
                 "website": "https://microscopegallery.com",
                 "wikidata": "Q20858110",
                 "wikipedia": "en:Microscope Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6604,7 +6944,8 @@
                 "phone": "+1-212-414-4040",
                 "tourism": "gallery",
                 "website": "https://viridianartist.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6624,7 +6965,8 @@
                 "phone": "+1-212-564-8405",
                 "tourism": "gallery",
                 "website": "https://www.carterburdengallery.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6645,7 +6987,8 @@
                 "phone": "+1-646-486-4730",
                 "tourism": "gallery",
                 "website": "https://www.bluemountaingallery.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6666,7 +7009,8 @@
                 "phone": "+1-212-268-0026",
                 "tourism": "gallery",
                 "website": "https://montserrat.us",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6687,7 +7031,8 @@
                 "phone": "+1-646-230-6655",
                 "tourism": "gallery",
                 "website": "http://www.bowerygallery.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6707,7 +7052,8 @@
                 "phone": "+1-646-230-0246",
                 "tourism": "gallery",
                 "website": "https://princestreetgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6728,7 +7074,8 @@
                 "phone": "+1-212-343-1060",
                 "tourism": "gallery",
                 "website": "https://www.thepaintingcenter.org",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6748,7 +7095,8 @@
                 "phone": "+1-917-675-7293",
                 "tourism": "gallery",
                 "website": "https://rkgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6770,7 +7118,8 @@
                 "website": "https://www.kasmingallery.com",
                 "wikidata": "Q28207019",
                 "wikipedia": "en:Kasmin Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6789,7 +7138,8 @@
                 "phone": "+1-212-255-5735",
                 "tourism": "gallery",
                 "website": "https://www.debuckgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6808,7 +7158,8 @@
                 "opening_hours": "+1-646-378-7907",
                 "tourism": "gallery",
                 "website": "https://www.artcapitalgain.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6830,7 +7181,8 @@
                 "website": "https://www.kasmingallery.com",
                 "wikidata": "Q28207019",
                 "wikipedia": "en:Kasmin Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6850,7 +7202,8 @@
                 "phone": "+1-212-922-3745",
                 "tourism": "gallery",
                 "website": "https://www.templon.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6869,7 +7222,8 @@
                 "phone": "+1-212-966-6676",
                 "tourism": "gallery",
                 "website": "https://www.nancyhoffmangallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6889,7 +7243,8 @@
                 "phone": "+1-212-445-0051",
                 "tourism": "gallery",
                 "website": "https://www.milesmcenery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6907,7 +7262,8 @@
                 "opening_hours": "Tu-Fr 10:00-18:00; Sa 12:00-18:00",
                 "tourism": "gallery",
                 "website": "https://www.sugarlift.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6929,7 +7285,8 @@
                 "phone": "+1-212-759-7555",
                 "tourism": "gallery",
                 "website": "http://www.davidsongallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6949,7 +7306,8 @@
                 "phone": "+1-212-244-2579",
                 "tourism": "gallery",
                 "website": "http://www.albertzbenda.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6970,7 +7328,8 @@
                 "phone": "+1-212-628-4000",
                 "tourism": "gallery",
                 "website": "https://www.hollistaggart.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -6990,7 +7349,8 @@
                 "phone": "+1-212-239-8700",
                 "tourism": "gallery",
                 "website": "https://friedmanbenda.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7010,7 +7370,8 @@
                 "phone": "+1-212-397-0742",
                 "tourism": "gallery",
                 "website": "https://ryanleegallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7031,7 +7392,8 @@
                 "phone": "+1-212-645-8701",
                 "tourism": "gallery",
                 "website": "https://www.thomaserben.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7052,7 +7414,8 @@
                 "phone": "+1-212-462-4404",
                 "tourism": "gallery",
                 "website": "https://www.bravinlee.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7076,7 +7439,8 @@
                 "website": "https://www.morganlehmangallery.com",
                 "wikidata": "Q18749104",
                 "wikipedia": "en:Morgan Lehman Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7097,7 +7461,8 @@
                 "phone": "+1-646-892-3032",
                 "tourism": "gallery",
                 "website": "https://hesseflatow.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7118,7 +7483,8 @@
                 "phone": "+1-212-249-9400",
                 "tourism": "gallery",
                 "website": "https://www.deborahbellphotographs.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7138,7 +7504,8 @@
                 "phone": "+1-212-399-2636",
                 "tourism": "gallery",
                 "website": "https://alexandergray.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7159,7 +7526,8 @@
                 "phone": "+1-212-255-8158",
                 "tourism": "gallery",
                 "website": "https://www.danielcooneyfineart.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7179,7 +7547,8 @@
                 "phone": "+1-212-882-1705",
                 "tourism": "gallery",
                 "website": "https://davidrichardgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7199,7 +7568,8 @@
                 "phone": "+1-212-882-1705",
                 "tourism": "gallery",
                 "website": "https://davidrichardgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7218,7 +7588,8 @@
                 "opening_hours": "Tu-Sa 10:00-18:00",
                 "tourism": "gallery",
                 "website": "https://www.yossimilo.com/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7240,7 +7611,8 @@
                 "website": "https://www.pacegallery.com",
                 "wikidata": "Q7121900",
                 "wikipedia": "en:Pace Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7260,7 +7632,8 @@
                 "phone": "+1-212-445-0051",
                 "tourism": "gallery",
                 "website": "https://www.milesmcenery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7280,7 +7653,8 @@
                 "phone": "+1-212-445-0051",
                 "tourism": "gallery",
                 "website": "https://www.milesmcenery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7300,7 +7674,8 @@
                 "phone": "+1-212-445-0051",
                 "tourism": "gallery",
                 "website": "https://www.milesmcenery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7322,7 +7697,8 @@
                 "website": "https://www.yanceyrichardson.com",
                 "wikidata": "Q16903953",
                 "wikipedia": "en:Yancey Richardson Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7343,7 +7719,8 @@
                 "phone": "+1-212-247-2111",
                 "tourism": "gallery",
                 "website": "https://www.dcmooregallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7365,7 +7742,8 @@
                 "website": "https://diaart.org/visit/visit-our-locations-sites/dia-chelsea-new-york-united-states",
                 "wikidata": "Q1207930",
                 "wikipedia": "en:Dia Art Foundation",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7387,7 +7765,8 @@
                 "website": "https://www.hauserwirth.com/locations/10073-hauser-wirth-new-york-22nd-street/",
                 "wikidata": "Q1591119",
                 "wikipedia": "en:Hauser & Wirth",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7407,7 +7786,8 @@
                 "phone": "+1-917-675-6124\u200b\u200b\u200b\u200b\u200b",
                 "tourism": "gallery",
                 "website": "https://www.harpersgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7427,7 +7807,8 @@
                 "phone": "+1-212-929-2262",
                 "tourism": "gallery",
                 "website": "https://www.sikkemajenkinsco.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7447,7 +7828,8 @@
                 "tourism": "gallery",
                 "wikidata": "Q6790924",
                 "wikipedia": "en:Matthew Marks Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7467,7 +7849,8 @@
                 "tourism": "gallery",
                 "wikidata": "Q6790924",
                 "wikipedia": "en:Matthew Marks Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7487,7 +7870,8 @@
                 "phone": "+1-917-675-6124\u200b\u200b\u200b\u200b\u200b",
                 "tourism": "gallery",
                 "website": "https://www.harpersgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7507,7 +7891,8 @@
                 "phone": "+1-212-794-5038",
                 "tourism": "gallery",
                 "website": "https://nararoesler.art",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7529,7 +7914,8 @@
                 "website": "https://www.tinakimgallery.com",
                 "wikidata": "Q16901731",
                 "wikipedia": "en:Tina Kim Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7549,7 +7935,8 @@
                 "phone": "+1-212-352-2238",
                 "tourism": "gallery",
                 "website": "https://www.kravetswehbygallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7571,7 +7958,8 @@
                 "website": "https://www.tanyabonakdargallery.com",
                 "wikidata": "Q7683979",
                 "wikipedia": "en:Tanya Bonakdar Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7593,7 +7981,8 @@
                 "website": "https://halesgallery.com",
                 "wikidata": "Q5641497",
                 "wikipedia": "en:Hales Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7615,7 +8004,8 @@
                 "website": "https://www.paulacoopergallery.com",
                 "wikidata": "Q2063533",
                 "wikipedia": "en:Paula Cooper Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7635,7 +8025,8 @@
                 "phone": "+1-212-206-7606",
                 "tourism": "gallery",
                 "website": "https://www.gladstonegallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7657,7 +8048,8 @@
                 "website": "https://gagosian.com",
                 "wikidata": "Q2748031",
                 "wikipedia": "en:Gagosian Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7679,7 +8071,8 @@
                 "website": "https://www.galleriacadoro.com",
                 "wikidata": "Q25110424",
                 "wikipedia": "en:Galleria Ca' d'Oro",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7697,7 +8090,8 @@
                 "opening_hours": "Tu-Sa 10:00-18:00",
                 "phone": "+1-212-397-6780",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7717,7 +8111,8 @@
                 "phone": "+1-212-772-9478",
                 "tourism": "gallery",
                 "website": "https://www.praxis-art.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7739,7 +8134,8 @@
                 "website": "https://jackshainman.com",
                 "wikidata": "Q65066007",
                 "wikipedia": "en:Jack Shainman Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7760,7 +8156,8 @@
                 "phone": "+1-212-243-2663",
                 "tourism": "gallery",
                 "website": "https://www.seanhortonpresents.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7781,7 +8178,8 @@
                 "phone": "+1-212-627-4819",
                 "tourism": "gallery",
                 "website": "https://www.riccomaresca.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7802,7 +8200,8 @@
                 "phone": "+1-212-366-5368",
                 "tourism": "gallery",
                 "website": "https://www.markelfinearts.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7822,7 +8221,8 @@
                 "opening_hours": "Tu-Sa 11:00-18:00",
                 "phone": "+1-212-206-8080",
                 "tourism": "gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7842,7 +8242,8 @@
                 "phone": "+1-212-463-9666",
                 "tourism": "gallery",
                 "website": "https://www.ehgallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7863,7 +8264,8 @@
                 "website": "https://www.davidzwirner.com",
                 "wikidata": "Q1950826",
                 "wikipedia": "en:David Zwirner Gallery",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7884,7 +8286,8 @@
                 "tourism": "gallery",
                 "wikidata": "Q27894560",
                 "wikipedia": "en:Kurimanzutto",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7904,7 +8307,8 @@
                 "phone": "+1-212-390-0079",
                 "tourism": "gallery",
                 "website": "https://www.davidkordanskygallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7925,7 +8329,8 @@
                 "phone": "+1-917-382-0546\u202c",
                 "tourism": "gallery",
                 "website": "https://ulrik.nyc",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7945,7 +8350,8 @@
                 "phone": "+1-212-967-9818",
                 "tourism": "gallery",
                 "website": "https://www.slaggallery.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7966,7 +8372,8 @@
                 "phone": "+1-212-247-0082",
                 "tourism": "gallery",
                 "website": "https://michaelrosenfeldart.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -7989,7 +8396,8 @@
                 "website": "https://www.the8thfloor.org",
                 "wikidata": "Q108907043",
                 "wikipedia": "en:The 8th Floor",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -8008,7 +8416,8 @@
                 "phone": "+1-212-625-1250",
                 "tourism": "gallery",
                 "website": "https://www.ecfa.com",
-                "price": "$$$"
+                "price": "$$$",
+                "rating": "4.5"
             }
         },
         {
@@ -8036,7 +8445,8 @@
                 "tourism": "hotel",
                 "website": "https://www.marriott.com/en-us/hotels/nycma-ac-hotel-new-york-times-square/overview/",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -8050,7 +8460,8 @@
                 "addr:street": "Chelsea Piers",
                 "name": "The Lighthouse",
                 "tourism": "attraction",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -8068,7 +8479,8 @@
                 "phone": "+12125845801",
                 "tourism": "hotel",
                 "website": "http://www.casaciprianinewyork.com/",
-                "price": "$$$$"
+                "price": "$$$$",
+                "rating": "4.0"
             }
         },
         {
@@ -8094,7 +8506,8 @@
                 "tourism": "hotel",
                 "website": "https://www.marriott.com/en-us/hotels/lgark-residence-inn-weehawken-port-imperial/overview/",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.0"
             }
         },
         {
@@ -8115,7 +8528,8 @@
                 "payment:visa": "yes",
                 "tourism": "hotel",
                 "wheelchair": "yes",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -8132,7 +8546,8 @@
                 "name": "Jeffrey Deitch",
                 "tourism": "gallery",
                 "website": "https://www.deitch.com/new-york/exhibitions",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -8154,7 +8569,8 @@
                 "phone": "+1-212-369-4880",
                 "tourism": "museum",
                 "website": "https://nationalacademy.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -8173,7 +8589,8 @@
                 "phone": "+1-212-998-6780",
                 "tourism": "gallery",
                 "website": "https://greyartgallery.nyu.edu/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -8189,7 +8606,8 @@
                 "shop": "gift",
                 "tourism": "attraction",
                 "website": "https://harrypotterexhibition.com",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -8207,7 +8625,8 @@
                 "name": "June 4th Memorial Exhibit",
                 "tourism": "museum",
                 "website": "https://jinian64.org/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         },
         {
@@ -8229,7 +8648,8 @@
                 "phone": "+1-212-343-7000",
                 "tourism": "hotel",
                 "website": "https://arlohotels.com/midtown/",
-                "price": "$$"
+                "price": "$$",
+                "rating": "4.5"
             }
         }
     ]
