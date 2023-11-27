@@ -6,12 +6,19 @@ from .serializers import RegisterSerializer
 from rest_framework import generics
 import random
 from passwordrecovery import send_email
+#for rest quest/post
+from django.http import JsonResponse
+from django.views.decorators.http import require_http_methods
+from django.views.decorators.csrf import csrf_exempt
+import json
 
 from django.contrib.auth.models import User
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from rest_framework.views import APIView
 
+@csrf_exempt  # Disable CSRF protection for this view
+@require_http_methods(["POST"])
 class PasswordRecovery(APIView):
 
     @api_view(['POST'])

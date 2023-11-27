@@ -3,9 +3,17 @@ from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from rest_framework.views import APIView
 
+#for rest request/post
+from django.http import JsonResponse
+from django.views.decorators.http import require_http_methods
+from django.views.decorators.csrf import csrf_exempt
+import json
+
 from .models import History
 from .serializers import HistorySerializer
 
+@csrf_exempt  # Disable CSRF protection for this view
+@require_http_methods(["POST"])
 class HistoryViews(APIView):
     
     @api_view(['GET'])
