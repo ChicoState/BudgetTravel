@@ -14,7 +14,7 @@ from .my_hand import *
 from .models import Tourism
 from .serializers import TourismSerializer
 
-@crf_exempt  # Disable CSRF protection for this view
+@csrf_exempt  # Disable CSRF protection for this view
 @require_http_methods(["POST"])
 class TourismViews(APIView):
     def get(self, request):
