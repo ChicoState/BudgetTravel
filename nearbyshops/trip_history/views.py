@@ -14,7 +14,7 @@ from .serializers import HistorySerializer
 
 
 @csrf_exempt  # Disable CSRF protection for this view
-@require_http_methods(["POST"])
+#@require_http_methods(["POST"])
 class HistoryViews(APIView):
 
     @api_view(['GET'])

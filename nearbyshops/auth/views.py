@@ -19,7 +19,6 @@ from rest_framework.views import APIView
 
 
 @csrf_exempt  # Disable CSRF protection for this view
-@require_http_methods(["POST"])
 class PasswordRecovery(APIView):
 
     @api_view(['POST'])

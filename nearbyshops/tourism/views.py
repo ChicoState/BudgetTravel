@@ -23,6 +23,8 @@ class TourismViews(APIView):
         serializer = TourismSerializer(TourismModel, many=True)
         return Response({"TourismModel": serializer.data})
 
+    @csrf_exempt  # Disable CSRF protection for this view
+#    @require_http_methods(["POST"])
     def post(self, request):
         post_lat = request.data.get('lat')
         post_long = request.data.get('long')
