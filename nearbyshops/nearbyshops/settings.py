@@ -63,7 +63,6 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'corsheaders.middleware.CorsMiddleware',
 ]
-APPEND_SLASH = True 
 ROOT_URLCONF = 'nearbyshops.urls'
 
 TEMPLATES = [
