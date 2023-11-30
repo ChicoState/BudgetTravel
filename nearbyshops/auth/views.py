@@ -25,7 +25,7 @@ class PasswordRecovery(APIView):
     @api_view(['POST'])
     def send_verification_code(request):
         if request.method == "POST":
-            receiver_email = request.POST.get('email')
+            receiver_email = str(request.POST.get('email'))
             # Generate a random 6-digit number
             random_number = str(random.randint(100000, 999999))
             send_email(receiver_email, "Your Verification Code",
@@ -35,14 +35,15 @@ class PasswordRecovery(APIView):
     @api_view(['POST'])
     def new_password(request):
         if request.method == "POST":
-            username = request.POST.get('username')
-            password = request.POST.get('new_password')
-            password2 = request.POST.get('new_password2')
+            username = str(request.POST.get('username'))
+            password = str(request.POST.get('new_password'))
+            password2 = str(request.POST.get('new_password2'))
             matched_data = User.objects.filter(username=username)
             if matched_data:
                 matched_data.password = password
                 matched_data.password2 = password2
                 matched_data.save()
+        return JsonResponse({'key': 'value'})
 
 
 class MyObtainTokenPairView(TokenObtainPairView):

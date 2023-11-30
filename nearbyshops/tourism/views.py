@@ -5,28 +5,30 @@ from rest_framework.views import APIView
 from django.http import JsonResponse
 from django.views.decorators.http import require_http_methods
 from django.views.decorators.csrf import csrf_exempt
+from rest_framework.decorators import api_view
 import json
 
 # from . import my_hand
-from .my_hand import businesses_data
+# from .my_hand import businesses_data
 from .my_hand import *
 
 from .models import Tourism
 from .serializers import TourismSerializer
+from django.utils.decorators import method_decorator
 
-@crf_exempt  # Disable CSRF protection for this view
-@require_http_methods(["POST"])
+
 class TourismViews(APIView):
     def get(self, request):
         TourismModel = Tourism.objects.all()
         serializer = TourismSerializer(TourismModel, many=True)
         return Response({"TourismModel": serializer.data})
 
-    def post(self, request, format=None):
-        search_query = (request.data).split(",")
-        lat = search_query[0]
-        long = search_query[1]
-        term = search_query[2]
-        Search(lat, long, term)
-        serializer = TourismSerializer(businesses_data, many=True)
-        return Response(data=serializer.data)
+    def post(self, request):
+        post_lat = request.data.get('lat')
+        post_long = request.data.get('long')
+        post_term = request.data.get('term')
+        lat = str(post_lat)
+        long = str(post_long)
+        term = str(post_term)
+        businesses_data = Search(lat, long, term)
+        return Response(businesses_data)

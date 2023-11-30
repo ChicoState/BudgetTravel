@@ -23,9 +23,6 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-z4t6&)r5#&rk(c^y%mmdb$29zziyyd!45j6l(_ra7ap6!+c=d('
 
 
-
-
-
 # SECURITY WARNING: don't run with debug turned on in production!
 
 DEBUG = True
@@ -34,7 +31,7 @@ ALLOWED_HOSTS = ['10.0.2.2', 'localhost', '127.0.0.1']
 
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = False
-CORS_ORIGIN_WHITELIST = [ 
+CORS_ORIGIN_WHITELIST = [
     'https://localhost:8000'
 ]
 # Application definition
@@ -51,6 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.gis',
     'rest_framework_gis',
     'rest_framework',
+    'rest_framework.authtoken',
     'tourism',
     'trip_history',
 ]
@@ -126,7 +124,7 @@ REST_FRAMEWORK = {
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     ],
     'DEFAULT_PERMISSION_CLASSES': [
-        'rest_framework.permissions.IsAuthenticated',
+        'rest_framework.permissions.AllowAny',
     ],
 }
 
