@@ -19,8 +19,9 @@ class TripHistory_TEST(TestCase):
                           content_type='application/json')
         print()
         print("++++++++TripHistory_TEST_create++++++++")
-        print("Status Code: ", response.status_code)
+        print("         Status Code: ", response.status_code)
         print("+++++++++++++++++++++++++++++++++++++++")
+        print()
         # Assuming 201 Created is expected
         self.assertEqual(response.status_code, 200)
 
@@ -34,9 +35,9 @@ class TripHistory_TEST(TestCase):
         response = c.post('/api/History/POST', json.dumps(data),
                           content_type='application/json')
         print()
-        print("++++++++TripHistory_TEST_POST++++++++")
-        print("Response content: ", response.content)
-        print("Status Code: ", response.status_code)
-        print("++++++++++++++++++++++++++++++++++++")
+        print("++++++++++TripHistory_TEST_POST++++++++++")
+        print("         Response content: ", response.content)
+        print("         Status Code: ", response.status_code)
+        print("+++++++++++++++++++++++++++++++++++++++++")
         # Assuming 201 Created is expected
         self.assertEqual(response.status_code, 200)
