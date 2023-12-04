@@ -1,87 +1,77 @@
-import React, { useState } from 'react';
-import { View, Text, Button, TouchableOpacity, StyleSheet, ScrollView } from 'react-native';
+import React from 'react';
+import { View, Text, Button, StyleSheet, ScrollView } from 'react-native';
+// Import data from other screens
+import { location, startDate, endDate } from './PlanTripScreens/PlanTripScreen1';
+import { tripBudget, tripDuration } from './PlanTripScreens/PlanTripScreen2';
+import { Options, leftOver } from './PlanTripScreens/PlanTripScreen3';
 
-
-const TripDisplayMainPage: React.FC<{ navigation: any }> = ({ navigation }) => {
-  const [response, setResponse] = useState('');
-
-  return (
-    <ScrollView>
-    <View>
-      <Text style = {styles.text}>Trip Details</Text>
-      
-       <View>
-        <Text style = {styles.paragraph}>Location</Text>
-        <Text style = {styles.div}>Location</Text>
-        
-        <Text style = {styles.div}>Location</Text>
-        <View style={styles.container}></View>
-        <View style={styles.container}></View>
-        <View style={styles.container}></View>
-      </View>
-      <Button title="Create an Account" onPress={() => navigation.navigate('CreateAccountScreen')} />
-      <Button title="Log In ( want both on bottom menu)" onPress={() => navigation.navigate('SignInScreen')} />
-      
-    </View>
-    </ScrollView>
-  );
+const formatDate = (date) => {
+  const options = { month: 'short', day: 'numeric', year: 'numeric' };
+  return new Date(date).toLocaleDateString(undefined, options);
 };
 
 
-const styles = StyleSheet.create({
-  
-  paragraph: {
-     flexDirection:'column',
-     textAlign: "center",
-     fontSize: 20,
-     color: "black",
-     padding: 20,
-     marginTop: 10,
-     marginBottom: 100,
-  },
-  
-  text: {
-    color: "black",
-    textAlign : "center",
-    fontSize: 40,
-    padding: 20,
-  },
-  
-  div: {
-    padding: 40,
-  },
-  
-  container: {
-    flex: 30,
-    justifyContent: 'space-between',
-    backgroundColor: '#fff',
-    padding: 20,
-    margin: 10,
-    height: 20,
-  },
+const TripDisplayMainPage: React.FC<{ navigation: any }> = ({ navigation }) => {
+  return (
+    <ScrollView contentContainerStyle={styles.container}>
+      <Text style={styles.title}>Trip Details</Text>
 
-  
-  but:{
-    display: "flex",
-    width: "20%",
-    flexDirection: "row",
-    
-  }
- 
-  
+      <Text  style={styles.info}>Location: {location}</Text>
+      <Text style={styles.info}>Trip Duration: {tripDuration} days</Text>
+      <Text style={styles.info}>Travel Dates: {formatDate(startDate)} - {formatDate(endDate)}</Text>
+      <Text style={styles.info}>Trip Budget: ${tripBudget}</Text>
+      <Text style={styles.info}>Remaining Budget: ${leftOver}</Text>
+
+      {/* Display the options and remaining budget */
+      Object.keys(Options).map((categoryTitle, index) => (
+        <View key={index} style={styles.category}>
+          <Text style={styles.categoryTitle}>{categoryTitle}</Text>
+          <View style={styles.options}>
+            {Options[categoryTitle].map((option, optionIndex) => (
+              <Text key={optionIndex} style={styles.categoryText}>
+                {option.option} - ${option.value}
+              </Text>
+            ))}
+          </View>
+        </View>
+      ))}
+
+      <Button title="Edit Trip" onPress={() => navigation.goBack()} />
+    </ScrollView>
+  );
+};
+const styles = StyleSheet.create({
+  container: {
+    flexGrow: 1,
+    padding: 16,
+  },
+  title: {
+    fontSize: 40,
+    fontWeight: 'bold',
+    marginBottom: 10,
+  },
+  info: {
+    fontSize: 20,
+
+  },
+  category: {
+    marginBottom: 20,
+  },
+  categoryTitle: {
+    textAlign: 'center', // Center the category text
+    fontSize: 18,
+    fontWeight: 'bold',
+    backgroundColor: 'white',
+    padding: 8,
+    borderRadius: 10,
+    elevation: 5, // Box shadow
+  },
+  options: {
+    marginLeft: 20,
+  },
+  categoryText: {
+    padding: 8,
+  },
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
 export default TripDisplayMainPage;
-

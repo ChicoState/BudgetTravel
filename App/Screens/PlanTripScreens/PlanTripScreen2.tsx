@@ -1,89 +1,93 @@
-
 import React, { useState } from 'react';
-import { View, Text, TextInput, Button, StyleSheet, CheckBox } from 'react-native';
-import { Calendar } from 'react-native-calendars';
-import { selected } from './PlanTripScreen1';
+import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
+import { location, startDate, endDate } from './PlanTripScreen1';
+let tripBudget;
+let tripDuration;
+const PlanTripScreen2 = ({ navigation }) => {
+  const [budget, setBudget] = useState('');
 
-const PlanTripScreen2 : React.FC<{ navigation: any }> = ({ navigation }) =>  {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-
-  const PlanTripScreen1 = () => {
-    // Something to a Django API
+  const handleBudgetInput = (text) => {
+    const numericValue = text.replace(/\D/g, '');
+    const formattedBudget = `${numericValue.replace(/\B(?=(\d{3})+(?!\d))/g, ',')}`;
+    tripBudget = parseFloat(text.replace(/[^0-9.]/g, ''));
+  
+    // Set the numerical value into tripBudget
+    setBudget(formattedBudget);
   };
 
-  const [selectedDate, setSelectedDate] = useState('');
-
-    const onDayPress = (day) => {
-    setSelectedDate(day.dateString);
+  const handleConfirm = () => {
+    navigation.navigate('PlanTripScreen3');
   };
+  const calculateTripDuration = (start, end) => {
+    const startDateObj = new Date(start);
+    const endDateObj = new Date(end);
+    const timeDifference = endDateObj - startDateObj;
+    const days = Math.ceil(timeDifference / (1000 * 3600 * 24));
+    tripDuration = days;
+    return days;
+  };
+
   return (
-    <View>
-      <Text style = {styles.title}>Plan Your Trip</Text>
-      <Text style = {styles.text}>Duration: To</Text>
-      <Calendar
-        onDayPress={onDayPress}
-        markedDates={{
-          [selected]: {
-            selected: true,
-            disableTouchEvent: true,
-            selectedColor: 'blue',
-            selectedTextColor: 'white',
-          },
-          
-            [selectedDate]: {
-            selected: true,
-            disableTouchEvent: true,
-            selectedColor: 'blue',
-            selectedTextColor: 'white',
-          },
-
-        }}
-      />
-
-      <Text style = {styles.div}> </Text>
-      <View style = {styles.but}>
-      	
-      	<Button title="Next" onPress={() => navigation.navigate('PlanTripScreen3')} />
+    <View style={styles.container}>
+      <Text style={styles.title}>Set a Budget!</Text>
+      <View style={styles.infoBox}>
+        <Text style={styles.info}>Location: {location}</Text>
+        <Text style={styles.info}>Duration: {calculateTripDuration(startDate, endDate)} days</Text>
+        <Text style={styles.text}>Enter your budget for the trip:</Text>
+        <TextInput
+          style={styles.input}
+          placeholder="Budget (in dollars)"
+          keyboardType="numeric" // Ensures only numeric keyboard
+          onChangeText={handleBudgetInput}
+          value={budget}
+        />
+        <Button
+          title="Confirm"
+          onPress={handleConfirm}
+          disabled={!budget}
+        />
       </View>
     </View>
   );
 };
 
-
 const styles = StyleSheet.create({
-  
-  title: {
-     flexDirection:'column',
-     textAlign: "center",
-     fontSize: 40,
-     color: "black",
-     padding: 20,
-     marginTop: 50,
-     marginBottom: 60,
-  },
-  
-  
-  text: {
-    fontSize: 40,
-    color: "black",
-    textAlign : "center",
+  container: {
+    flex: 1,
     padding: 20,
   },
-  
-  div: {
-    padding: 40,
+  title: {
+    textAlign: 'center',
+    fontSize: 40,
+    color: 'black',
+    padding: 20,
   },
-  
-  but:{
-
-
-    justifyContent: 'center',
-    
-  }
- 
-  
+  infoBox: {
+    backgroundColor: 'white',
+    padding: 10,
+    marginBottom: 20,
+    borderRadius: 10, // Rounded corners
+    elevation: 5, // Box shadow
+  },
+  info: {
+    fontSize: 20,
+    color: 'black',
+    textAlign: 'center',
+    padding: 10,
+  },
+  text: {
+    fontSize: 20,
+    color: 'black',
+    textAlign: 'center',
+    padding: 10,
+  },
+  input: {
+    height: 40,
+    borderColor: 'black',
+    borderWidth: 1,
+    marginBottom: 20,
+    paddingLeft: 10,
+  },
 });
-
+export {tripBudget, tripDuration};
 export default PlanTripScreen2;
-
