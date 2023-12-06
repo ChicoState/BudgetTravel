@@ -14,7 +14,7 @@ from .serializers import HistorySerializer
 
 
 @csrf_exempt  # Disable CSRF protection for this view
-#@require_http_methods(["POST"])
+# @require_http_methods(["POST"])
 class HistoryViews(APIView):
 
     @api_view(['GET'])
@@ -29,10 +29,12 @@ class HistoryViews(APIView):
         if request.method == "POST":
             post_username = str(request.POST.get('username'))
             post_stayedhotel = str(request.POST.get('StayedHotel'))
+            post_trip_period = str(request.POST.get('TripPeriod'))
             post_activities = str(request.POST.get('Activities'))
             post_totalcost = str(request.POST.get('TotalCost'))
             History(username=post_username, StayedHotel=post_stayedhotel,
-                    Activities=post_activities, TotalCost=post_totalcost).save()
+                    Activities=post_activities, TotalCost=post_totalcost,
+                    TripPeriod=post_trip_period).save()
             return JsonResponse({'key': 'value'})
 
     @api_view(['POST'])

@@ -12,6 +12,7 @@ class TripHistory_TEST(TestCase):
         data = {
             "username": "user1",
             "StayedHotel": "hotel1",
+            "TripPeriod": "Jan1 - Jan 3",
             "Activities": "activity1",
             "TotalCost": "100"
         }
