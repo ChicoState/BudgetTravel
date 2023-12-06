@@ -44,7 +44,44 @@ class Toursim_TEST(TestCase):
             print("                 fail                  ")
             print("++++++++++++++++++++++++++++++++++++++++")
             print()
+    def test_post_error_lat_term(self):
+        c = APIClient()
+        data = {
+            "lat": "kkkkkkk",
+            "long": "-121.8500",
+            "term": "Restaurants"
+        }
+        request = c.post('/api/Tourism', json.dumps(data),
+                         content_type='application/json')
 
+        if request.json() == []:
+            print("++++++++Tourism_TEST_error_long_term++++++++")
+            print("pass")
+            print("++++++++++++++++++++++++++++")
+        else:
+            print("++++++++Tourism_TEST_error_long_term++++++++")
+            print("fail")
+            print("++++++++++++++++++++++++++++")
+
+
+    def test_post_error_long_term(self):
+        c = APIClient()
+        data = {
+            "lat": "39.7388",
+            "long": "kkkkk",
+            "term": "Restaurants"
+        }
+        request = c.post('/api/Tourism', json.dumps(data),
+                         content_type='application/json')
+
+        if request.json() == []:
+            print("++++++++Tourism_TEST_error_long_term++++++++")
+            print("pass")
+            print("++++++++++++++++++++++++++++")
+        else:
+            print("++++++++Tourism_TEST_error_long_term++++++++")
+            print("fail")
+            print("++++++++++++++++++++++++++++")
         # request_data = request.json()
 
             # Check if the response contains the expected error message
