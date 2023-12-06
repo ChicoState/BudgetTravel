@@ -27,10 +27,10 @@ allowed_terms = [
     "Religious Organizations", "Restaurants", "Shopping"
 ]
 
-businesses_data = []
-
 
 def Search(latitude, longitude, term):
+
+    businesses_data = []
     if term not in allowed_terms:
         print("Invalid term entered. Please choose from the allowed terms.")
     else:
@@ -63,3 +63,5 @@ def Search(latitude, longitude, term):
                 'description', 'Unknown error')
             print(
                 f"Error fetching data for term '{term}' and coordinates ({latitude}, {longitude}): {error_message}")
+
+        return businesses_data
