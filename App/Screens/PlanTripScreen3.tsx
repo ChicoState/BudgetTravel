@@ -1,113 +1,79 @@
-
 import React, { useState } from 'react';
-import { View, Text, TextInput, Button, StyleSheet, CheckBox } from 'react-native';
-import { Calendar } from 'react-native-calendars';
-import { selected } from './PlanTripScreen1';
+import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
 
-let budgetAmount;
-const PlanTripScreen3 : React.FC<{ navigation: any }> = ({ navigation }) =>  {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-
-  const set = () => {
-    budgetAmount = budget;
-    
+const PlanTripScreen3: React.FC<{ navigation: any }> = ({ navigation }) => {
+  const [budget, setBudget] = useState('');
+  
+  const handleNext = () => {
+    if (parseInt(budget) > 0) {
+      navigation.navigate('TripDisplayMainPage', { budgetAmount: budget });
+    }
   };
 
-  const [budget, setbudget] = useState('');
-
   return (
-    <View>
-      <Text style = {styles.title}>Plan Your Trip</Text>
-      <Text style = {styles.text}>Budget:</Text>
-      <Text style = {styles.div}> </Text>
-      
+    <View style={styles.container}>
+      <Text style={styles.title}>Plan Your Trip</Text>
+      <Text style={styles.text}>Budget:</Text>
+      <View style={styles.divider} />
       <View style={styles.row}>
-      <View style={styles.box}>
-      <TextInput
-        style = {styles.text}
-        placeholderTextColor= 'black'
-        placeholder="Amount"
-        value={budget}
-        onChangeText={(text) => setbudget(text)}
-      />
-      
-      <View >
-      	
-      	<Button title="Set" onPress={() => set} />
+        <View style={styles.box}>
+          <TextInput
+            style={styles.input}
+            placeholder="Amount"
+            placeholderTextColor="black"
+            value={budget}
+            onChangeText={(text) => setBudget(text)}
+            keyboardType="numeric"
+          />
+        </View>
       </View>
-      
-      
-      
-      </View>
-      </View>
-      <Text style = {styles.div}> </Text>
-      <View style = {styles.but}>
-      	
-      	<Button title="Next" onPress={() => navigation.navigate('TripDisplayMainPage')} />
+      <View style={styles.divider} />
+      <View style={styles.buttonContainer}>
+        <Button title="Next" onPress={handleNext} />
       </View>
     </View>
   );
 };
 
-
-
-
-
-
-
-
 const styles = StyleSheet.create({
-  
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
   title: {
-     flexDirection:'column',
-     textAlign: "center",
-     fontSize: 40,
-     color: "black",
-     padding: 20,
-     marginTop: 50,
-     marginBottom: 60,
-  },
-  
-  
-  text: {
     fontSize: 40,
-    color: "black",
-    textAlign : "center",
-    padding: 20,
+    color: 'black',
+    marginTop: 50,
+    marginBottom: 60,
   },
-  
-  div: {
-    padding: 40,
+  text: {
+    fontSize: 25,
+    color: 'black',
   },
-  
-  but:{
-
-
-    justifyContent: 'center',
-    
+  input: {
+    fontSize: 20,
+    color: 'black',
+    textAlign: 'center',
   },
-    box: {
-    flexDirection: 'column',
-    justifyContent: 'center',
+  divider: {
+    marginVertical: 20,
+  },
+  box: {
     width: 200,
-    height: 150,
+    height: 50,
     borderWidth: 2,
     borderColor: 'black',
     borderRadius: 10,
-    margin: 5,
   },
-  
-  row:
-  {
+  row: {
     flexDirection: 'row',
     justifyContent: 'center',
-  
-  }
- 
-  
+  },
+  buttonContainer: {
+    width: 200,
+  },
 });
 
-export { budgetAmount };
 export default PlanTripScreen3;
 

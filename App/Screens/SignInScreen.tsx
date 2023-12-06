@@ -25,6 +25,11 @@ const SignInScreen : React.FC<{ navigation: any }> = ({ navigation }) =>  {
     // Something to a Django API
   };
   
+  function add(a, b) 
+  {
+  	return a + b;
+  }
+  
 
   return (
 <View>

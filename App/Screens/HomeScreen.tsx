@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, Button, TouchableOpacity, StyleSheet, ScrollView, Image } from 'react-native';
-
+let dest;
 
 
 
@@ -15,24 +15,40 @@ const HomeScreen: React.FC<{ navigation: any }> = ({ navigation }) => {
   const [response, setResponse] = useState('');
 
   return (
-    <ScrollView>
-    <View>
-      <View style={styles.container}>
-      <Text style = {styles.header}>Take A Trip</Text>
-      </View>
-       <View>
-        
-        <Introduction navigation={navigation} />
-      </View>
-      <View style={styles.bottomButton}>
-      <Button title="Create an Account" onPress={() => navigation.navigate('CreateAccountScreen')} />
-      <Button title="Log In ( want both on bottom menu)" onPress={() => navigation.navigate('SignInScreen')} />
+    <View style={styles.container}>
+      <ScrollView contentContainerStyle={styles.scrollContent}>
+        <View>
+          <View style={styles.headerContainer}>
+            <Text style={styles.header}>Take A Trip</Text>
+          </View>
+          <View>
+            <Introduction navigation={navigation} />
+          </View>
+        </View>
+      </ScrollView>
+      <View style={styles.bottomBar}>
+        <TouchableOpacity
+          style={styles.bottomBarButton}
+          onPress={() => navigation.navigate('CreateAccountScreen')}
+        >
+          <Text style={styles.bottomBarButtonText}>Create an Account</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          style={styles.bottomBarButton}
+          onPress={() => navigation.navigate('PlanTripScreen1')}
+        >
+          <Text style={styles.bottomBarButtonText}>Create Trip</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          style={styles.bottomBarButton}
+          onPress={() => navigation.navigate('SignInScreen')}
+        >
+          <Text style={styles.bottomBarButtonText}>Log In</Text>
+        </TouchableOpacity>
       </View>
     </View>
-    </ScrollView>
   );
 };
-
 const Introduction = ({ navigation }) => {
   
   
@@ -43,7 +59,8 @@ const Introduction = ({ navigation }) => {
 <View style={styles.container}>
   <View style={styles.column}>
   
-    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1')} style={styles.container}>
+    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1', { dest: 'Costa Rica' })}
+  style={styles.container}>
     <View style={styles.box}>
      <Image
         style={styles.image}
@@ -56,7 +73,8 @@ const Introduction = ({ navigation }) => {
     </View>
     </TouchableOpacity>
     
-    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1')} style={styles.container}>
+    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1', { dest: 'Tijuana, Mexico' })}
+  style={styles.container}>
     <View style={styles.box}>
      	<Image
         	style={styles.image}
@@ -71,7 +89,8 @@ const Introduction = ({ navigation }) => {
     
     
     
-    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1')} style={styles.container}>
+    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1', { dest: 'Tokyo, Japan' })}
+  style={styles.container}>
       <View style={styles.box}>
      	<Image
         	style={styles.image}
@@ -85,7 +104,8 @@ const Introduction = ({ navigation }) => {
      </TouchableOpacity>
      
          
-    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1')} style={styles.container}>
+    <TouchableOpacity onPress={() => navigation.navigate('PlanTripScreen1', { dest: 'San Diego' })}
+  style={styles.bottomContainer}>
       <View style={styles.box}>
      	<Image
         	style={styles.image}
@@ -93,7 +113,7 @@ const Introduction = ({ navigation }) => {
       	/>
 	<View style={styles.pad}></View>
       	<View style={styles.container}>
-      	<Text style = {styles.text}>San Diego</Text>
+      	<Text style = {styles.text}>San Diego, USA</Text>
       	</View>
      </View>
      </TouchableOpacity>
@@ -108,34 +128,72 @@ const Introduction = ({ navigation }) => {
 };
 
 
-
-
 const styles = StyleSheet.create({
-  
-    text: {
-    color: 'black',
-
+  container: {
+    flex: 1,
+  },
+  scrollContent: {
+    flexGrow: 1,
+  },
+  headerContainer: {
+    backgroundColor: '#3498db',
+    padding: 10,
   },
   header: {
-    color: 'black',
-    fontSize: 60,
+    fontSize: 32,
+    color: 'white',
+    textAlign: 'center',
+  },
+  bottomBar: {
+    position: 'absolute',
+    bottom: 0,
+    width: '100%',
+    height: 60,
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    backgroundColor: 'white',
+    borderTopWidth: 1,
+    borderTopColor: 'lightgray',
+  },
+  bottomBarButton: {
+    flex: 1,
     justifyContent: 'center',
+    alignItems: 'center',
+  },
+  bottomBarButtonText: {
+    fontSize: 16,
+    color: '#3498db',
+    fontWeight: 'bold',
+  },
+  introductionContainer: {
+    flexDirection: 'column',
+    justifyContent: 'center',
+    alignItems: 'center',
+    margin: 10,
+  },
+  box: {
+    width: 200,
+    height: 200,
+    borderWidth: 2,
+    borderColor: 'black',
+    borderRadius: 10,
+    margin: 5,
+    overflow: 'hidden',
+  },
+  image: {
+    width: '100%',
+    height: '60%',
+    borderRadius: 10,
+  },
+  text: {
+    color: 'black',
+    fontSize: 16,
+    textAlign: 'center',
+    padding: 10,
   },
   pad: {
     margin: 10,
 
-  },
-  container: {
-    flex: 1,
-    flexDirection: 'row',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-    bottomButton: {
-    flex: 1,
-    flexDirection: 'row',
-    justifyContent: 'center',
-    
   },
   column: {
     flexDirection: 'column',
@@ -143,35 +201,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     margin: 10,
   },
-  box: {
-    flexDirection: 'column',
-    width: 200,
-    height: 200,
-    borderWidth: 2,
-    borderColor: 'black',
-    borderRadius: 10,
-    margin: 5,
+  bottomContainer: {
+    flex: 1,
+    height: 300, // Set the height you desire
   },
-  image: {
-    width: 195,
-    height: 120,
-    borderRadius: 10,
-  },
- 
-  
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
+export { dest };
 export default HomeScreen;
 
