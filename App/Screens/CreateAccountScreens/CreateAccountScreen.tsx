@@ -1,149 +1,67 @@
-
 import React, { useState } from 'react';
-import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
+import { View, Text, TextInput, Button, StyleSheet, TouchableOpacity } from 'react-native';
+interface UsernameScreenProps{
+  navigation: any;
+}
+const Usernamescreen = (props:UsernameScreenProps) => {
+  const [username, setUsername] = useState('');
 
-const CreateAccountScreen : React.FC<{ navigation: any }> = ({ navigation }) => {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-
-  const handleCreateAccount = () => {
-     
-     if(true) // Django confimrs info is valid
-     {
-     	navigation.navigate('CreateAccountScreen2');
-     }
-     else
-     {
-     
-     
-     }
-    // Something to a Django API
+  const handleContinue = () => {
+    console.log('Username:', username);
+    props.navigation.navigate('setPass');
   };
 
+  const handleExistingAcc= () => {props.navigation.navigate('Login');};
+
   return (
-<View>
-      <Text style = {styles.title}>Lets Get Started !</Text>
-      
-
-      	
-      	<View style={{ flexDirection: 'column' }}>
-
-           <Text style = {styles.headerText}> First Name </Text>
-           
-           <View style = {styles.row}>
-      	<View style = {styles.box}>	
-      		
-      		<TextInput
-        			textAlign={'center'}
-        			style = {styles.text}
-        			placeholderTextColor= 'gray'
-        			placeholder="John"
-        			value={password}
-        			onChangeText={(text) => setPassword(text)}
-      		/>
-           </View>
-           </View>
-
-	<Text style = "padding: 20"> </Text>
-
-           <Text style = {styles.headerText}> Last Name </Text>
-                      <View style = {styles.row}>
-      	<View style = {styles.box}>	
-      		
-      		<TextInput
-        			textAlign={'center'}
-        			style = {styles.text}
-        			placeholderTextColor= 'gray'
-        			placeholder="Doe"
-        			value={password}
-        			onChangeText={(text) => setPassword(text)}
-      		/>
-           </View>
-           </View>
-           
-      	<Text style = {styles.div}> </Text>
-      	
-
-           <Button title="Create Account" onPress={handleCreateAccount} />
-           
-           
-           
-           
-      	
-      	
-      </View> 
-      
-      
-      
-</View>    
-      
-      
-
-
+    <View style={styles.container}>
+      <Text style={styles.title}>Let's create a login for you!</Text>
+      <Text style={styles.subscript}>Please enter your email</Text>
+      <TextInput
+        style={styles.input}
+        placeholder="user@email.com"
+        value={username}
+        onChangeText={(text) => setUsername(text)}
+      />
+      <Button title="Continue" onPress={handleContinue} />
+      <TouchableOpacity onPress={handleExistingAcc}>
+        <Text style={styles.existingText}>Already have an account?</Text>
+      </TouchableOpacity>
+    </View>
   );
 };
 
-
-
-
 const styles = StyleSheet.create({
-  
-  title: {
-     flexDirection:'column',
-     textAlign: "center",
-     fontSize: 40,
-     color: "black",
-     padding: 20,
-     marginTop: 50,
-     marginBottom: 70,
-  },
-  
-  row: {
-    flexDirection: 'row',
+  container: {
+    flex: 1,
     justifyContent: 'center',
-    
+    alignItems: 'center',
+    padding: 16,
   },
-  
-  col: {
-  	flexDirection: 'column',
+  title: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    marginBottom: 30,
   },
-  
-  
-  box: {
-    borderWidth: 1,       
-    borderColor: 'black',  
-    borderRadius: 5,     
-    
-    width: 150,  
+  subscript: {
+    fontSize: 12,
+    fontWeight: 'bold',
+    marginBottom: 8,
   },
-  
-  text: {
-    color: "black",
-    textAlign : "center",
-    padding: 5,
-    fontSize: 10,
+  existingText: {
+    fontSize: 16,
+    color: 'gray', // Customize the color
+    marginTop: 16,
   },
-  
-  headerText: {
-    color: "black",
-    textAlign : "center",
-    padding: 5,
-    fontSize: 20,
+  input: {
+    width: '100%',
+    padding: 10,
+    marginBottom: 16,
+    borderWidth: 1,
+    borderColor: '#ccc',
+    borderRadius: 5,
   },
-  
-  div: {
-    padding: 130,
-  },
-  
-  but:{
-    display: "flex",
-    width: "20%",
-    flexDirection: "row",
-    
-  }
- 
   
 });
 
-export default CreateAccountScreen;
-
+export default Usernamescreen;
