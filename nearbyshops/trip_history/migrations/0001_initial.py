@@ -12,15 +12,14 @@ class Migration(migrations.Migration):
 
     operations = [
         migrations.CreateModel(
-            name='Tourism',
+            name='History',
             fields=[
                 ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(max_length=100)),
-                ('price', models.CharField(max_length=100)),
-                ('address', models.CharField(max_length=100)),
-                ('rating', models.CharField(max_length=50)),
-                ('latitude', models.CharField(max_length=50)),
-                ('longitude', models.CharField(max_length=50)),
+                ('username', models.CharField(max_length=100)),
+                ('StayedHotel', models.CharField(max_length=1000)),
+                ('TripPeriod', models.CharField(max_length=100)),
+                ('Activities', models.CharField(max_length=1000)),
+                ('TotalCost', models.IntegerField()),
             ],
         ),
     ]
