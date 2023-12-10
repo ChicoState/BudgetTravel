@@ -9,11 +9,11 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 13-->[com.facebook.flipper:flipper:0.182.0] /home/dmcallister2/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:5-76
 13-->[com.facebook.flipper:flipper:0.182.0] /home/dmcallister2/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/AndroidManifest.xml:16:22-73
@@ -47,80 +47,80 @@
 27    </queries>
 28
 29    <application
-29-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:6:5-31:19
+29-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:6:5-31:19
 30        android:name="com.budgettravel.MainApplication"
-30-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:7:7-38
+30-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:7:7-38
 31        android:allowBackup="false"
-31-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:11:7-34
+31-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:11:7-34
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 32-->[androidx.core:core:1.7.0] /home/dmcallister2/.gradle/caches/transforms-3/75e4635b66fa4e4e84e71b52579837ce/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 33        android:debuggable="true"
 34        android:icon="@mipmap/ic_launcher"
-34-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:9:7-41
+34-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:9:7-41
 35        android:label="@string/app_name"
-35-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:8:7-39
+35-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:8:7-39
 36        android:roundIcon="@mipmap/ic_launcher_round"
-36-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:10:7-52
+36-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:10:7-52
 37        android:theme="@style/AppTheme"
-37-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:12:7-38
+37-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:12:7-38
 38        android:usesCleartextTraffic="true" >
-38-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:8:9-44
+38-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:8:9-44
 39        <activity
-39-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:11:9-111
+39-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:11:9-111
 40            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-40-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:11:19-83
+40-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:11:19-83
 41            android:exported="false" />
-41-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:11:84-108
+41-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/debug/AndroidManifest.xml:11:84-108
 42        <!-- Add your Google API key here as a meta-data tag -->
 43        <meta-data
-43-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:15:9-17:71
+43-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:15:9-17:71
 44            android:name="com.google.android.geo.API_KEY"
-44-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:16:13-58
+44-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:16:13-58
 45            android:value="AIzaSyAL4au7ZZwAo2TbYH0N_oYxAMLVODSVWBc" />
-45-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:17:13-68
+45-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:17:13-68
 46
 47        <activity
-47-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:19:9-30:20
+47-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:19:9-30:20
 48            android:name="com.budgettravel.MainActivity"
-48-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:20:11-39
+48-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:20:11-39
 49            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-49-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:22:11-120
+49-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:22:11-120
 50            android:exported="true"
-50-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:25:11-34
+50-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:25:11-34
 51            android:label="@string/app_name"
-51-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:21:11-43
+51-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:21:11-43
 52            android:launchMode="singleTask"
-52-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:23:11-42
+52-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:23:11-42
 53            android:windowSoftInputMode="adjustResize" >
-53-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:24:11-53
+53-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:24:11-53
 54            <intent-filter>
-54-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:26:13-29:29
+54-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:26:13-29:29
 55                <action android:name="android.intent.action.MAIN" />
-55-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:27:17-69
-55-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:27:25-66
+55-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:27:17-69
+55-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:27:25-66
 56
 57                <category android:name="android.intent.category.LAUNCHER" />
-57-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:28:17-77
-57-->/home/dmcallister2/Desktop/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:28:27-74
+57-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:28:17-77
+57-->/home/dmcallister2/Desktop/My Repo/BudgetTravel/App/android/app/src/main/AndroidManifest.xml:28:27-74
 58            </intent-filter>
 59        </activity>
 60
 61        <provider
-61-->[:react-native-webview] /home/dmcallister2/Desktop/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
+61-->[:react-native-webview] /home/dmcallister2/Desktop/My Repo/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-16:20
 62            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
-62-->[:react-native-webview] /home/dmcallister2/Desktop/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-83
+62-->[:react-native-webview] /home/dmcallister2/Desktop/My Repo/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-83
 63            android:authorities="com.budgettravel.fileprovider"
-63-->[:react-native-webview] /home/dmcallister2/Desktop/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-64
+63-->[:react-native-webview] /home/dmcallister2/Desktop/My Repo/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-64
 64            android:exported="false"
-64-->[:react-native-webview] /home/dmcallister2/Desktop/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
+64-->[:react-native-webview] /home/dmcallister2/Desktop/My Repo/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-37
 65            android:grantUriPermissions="true" >
-65-->[:react-native-webview] /home/dmcallister2/Desktop/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
+65-->[:react-native-webview] /home/dmcallister2/Desktop/My Repo/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-47
 66            <meta-data
-66-->[:react-native-webview] /home/dmcallister2/Desktop/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-15:63
+66-->[:react-native-webview] /home/dmcallister2/Desktop/My Repo/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-15:63
 67                android:name="android.support.FILE_PROVIDER_PATHS"
-67-->[:react-native-webview] /home/dmcallister2/Desktop/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:17-67
+67-->[:react-native-webview] /home/dmcallister2/Desktop/My Repo/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:17-67
 68                android:resource="@xml/file_provider_paths" />
-68-->[:react-native-webview] /home/dmcallister2/Desktop/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:17-60
+68-->[:react-native-webview] /home/dmcallister2/Desktop/My Repo/BudgetTravel/App/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:17-60
 69        </provider>
 70
 71        <meta-data
