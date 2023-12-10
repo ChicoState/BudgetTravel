@@ -1,19 +1,19 @@
 [
     {
-        "name": "Sofi'z Kitchen and Bar",
-        "rating": 5.0,
-        "price": "$$",
-        "address": "134 Broadway St, Chico, CA 95928",
-        "latitude": 39.729806333792105,
-        "longitude": -121.8418779
-    },
-    {
         "name": "Meze Moon",
         "rating": 4.5,
         "price": "Price information not available",
         "address": "163 E 2nd St, Chico, CA 95928",
         "latitude": 39.730468,
         "longitude": -121.83987
+    },
+    {
+        "name": "Sofi'z Kitchen and Bar",
+        "rating": 5.0,
+        "price": "$$",
+        "address": "134 Broadway St, Chico, CA 95928",
+        "latitude": 39.729806333792105,
+        "longitude": -121.8418779
     },
     {
         "name": "Discovery Bar",
@@ -40,84 +40,12 @@
         "longitude": -121.841631
     },
     {
-        "name": "Lili's Brazilian Bistro",
-        "rating": 4.5,
-        "price": "$$",
-        "address": "142 Broadway St, Chico, CA 95928",
-        "latitude": 39.72978,
-        "longitude": -121.84162
-    },
-    {
-        "name": "The Banshee",
-        "rating": 4.0,
-        "price": "$$",
-        "address": "134 W 2nd St, Chico, CA 95928",
-        "latitude": 39.7300322753666,
-        "longitude": -121.84107197621957
-    },
-    {
-        "name": "Rione Italian Restaurant",
-        "rating": 4.5,
-        "price": "Price information not available",
-        "address": "1990 Belgium Ave, Chico, CA 95928",
-        "latitude": 39.72682646611115,
-        "longitude": -121.786667
-    },
-    {
-        "name": "Oshio",
-        "rating": 4.5,
-        "price": "Price information not available",
-        "address": "501 Main St, Chico, CA 95928",
-        "latitude": 39.728313,
-        "longitude": -121.837599
-    },
-    {
-        "name": "Sierra Nevada Taproom & Restaurant",
-        "rating": 4.0,
-        "price": "$$",
-        "address": "1075 E 20th St, Chico, CA 95928",
-        "latitude": 39.72469,
-        "longitude": -121.81436
-    },
-    {
-        "name": "Bun Burger",
-        "rating": 4.5,
-        "price": "Price information not available",
-        "address": "230 W 3rd St, Chico, CA 95928",
-        "latitude": 39.72882,
-        "longitude": -121.84123
-    },
-    {
         "name": "The Grill",
         "rating": 4.0,
         "price": "Price information not available",
         "address": "220 W 4th St, Chico, CA 95928",
         "latitude": 39.72821580219989,
         "longitude": -121.84021389051162
-    },
-    {
-        "name": "Snow Man Ramen",
-        "rating": 4.5,
-        "price": "$$",
-        "address": "951 Nord Ave, Ste 3, Chico, CA 95926",
-        "latitude": 39.730302979784774,
-        "longitude": -121.85831797290405
-    },
-    {
-        "name": "Drunken Dumpling",
-        "rating": 4.0,
-        "price": "$$",
-        "address": "1414 Park Ave, Chico, CA 95928",
-        "latitude": 39.721549,
-        "longitude": -121.829127487
-    },
-    {
-        "name": "Maki Japanese & Vietnamese Cuisine",
-        "rating": 4.5,
-        "price": "Price information not available",
-        "address": "2201 Pillsbury Rd, Ste 110, Chico, CA 95926",
-        "latitude": 39.75663316052348,
-        "longitude": -121.848344
     },
     {
         "name": "PB & Jimmys",
@@ -128,36 +56,68 @@
         "longitude": -121.840582
     },
     {
-        "name": "5th Street Steakhouse",
+        "name": "Rione Italian Restaurant",
         "rating": 4.5,
-        "price": "$$$",
-        "address": "345 W 5th St, Chico, CA 95928",
-        "latitude": 39.7263913721926,
-        "longitude": -121.84042897082762
+        "price": "Price information not available",
+        "address": "1990 Belgium Ave, Chico, CA 95928",
+        "latitude": 39.72682646611115,
+        "longitude": -121.786667
     },
     {
-        "name": "Red Tavern",
-        "rating": 4.0,
-        "price": "$$$",
-        "address": "1250 Esplanade, Chico, CA 95926",
-        "latitude": 39.73973,
-        "longitude": -121.84654
+        "name": "Bun Burger",
+        "rating": 4.5,
+        "price": "Price information not available",
+        "address": "230 W 3rd St, Chico, CA 95928",
+        "latitude": 39.72882,
+        "longitude": -121.84123
     },
     {
-        "name": "Burban Kitchen",
-        "rating": 4.0,
-        "price": "$$",
-        "address": "1925 Market Pl, Ste 100, Chico, CA 95928",
-        "latitude": 39.728741222389274,
-        "longitude": -121.795302
-    },
-    {
-        "name": "Grana",
+        "name": "The Banshee",
         "rating": 4.0,
         "price": "$$",
-        "address": "198 E 2nd St, Chico, CA 95928",
-        "latitude": 39.730994,
-        "longitude": -121.839826
+        "address": "134 W 2nd St, Chico, CA 95928",
+        "latitude": 39.7300322753666,
+        "longitude": -121.84107197621957
+    },
+    {
+        "name": "Lili's Brazilian Bistro",
+        "rating": 4.5,
+        "price": "$$",
+        "address": "142 Broadway St, Chico, CA 95928",
+        "latitude": 39.72978,
+        "longitude": -121.84162
+    },
+    {
+        "name": "Sierra Nevada Taproom & Restaurant",
+        "rating": 4.0,
+        "price": "$$",
+        "address": "1075 E 20th St, Chico, CA 95928",
+        "latitude": 39.72469,
+        "longitude": -121.81436
+    },
+    {
+        "name": "Oshio",
+        "rating": 4.5,
+        "price": "Price information not available",
+        "address": "501 Main St, Chico, CA 95928",
+        "latitude": 39.728313,
+        "longitude": -121.837599
+    },
+    {
+        "name": "Snow Man Ramen",
+        "rating": 4.5,
+        "price": "$$",
+        "address": "951 Nord Ave, Ste 3, Chico, CA 95926",
+        "latitude": 39.730302979784774,
+        "longitude": -121.85831797290405
+    },
+    {
+        "name": "Pho Bonsa",
+        "rating": 4.5,
+        "price": "Price information not available",
+        "address": "221 Normal Ave B, Chico, CA 95928",
+        "latitude": 39.72803,
+        "longitude": -121.84237
     },
     {
         "name": "The Allies Pub",
@@ -168,12 +128,60 @@
         "longitude": -121.839574836
     },
     {
-        "name": "Crush Italian Cuisine & Lounge",
+        "name": "Drunken Dumpling",
+        "rating": 4.0,
+        "price": "$$",
+        "address": "1414 Park Ave, Chico, CA 95928",
+        "latitude": 39.721549,
+        "longitude": -121.829127487
+    },
+    {
+        "name": "Grana",
+        "rating": 4.0,
+        "price": "$$",
+        "address": "198 E 2nd St, Chico, CA 95928",
+        "latitude": 39.730994,
+        "longitude": -121.839826
+    },
+    {
+        "name": "Maki Japanese & Vietnamese Cuisine",
+        "rating": 4.5,
+        "price": "Price information not available",
+        "address": "2201 Pillsbury Rd, Ste 110, Chico, CA 95926",
+        "latitude": 39.75663316052348,
+        "longitude": -121.848344
+    },
+    {
+        "name": "Mom's Restaurant",
+        "rating": 4.0,
+        "price": "$$",
+        "address": "209 Salem St, Chico, CA 95928",
+        "latitude": 39.728938477182,
+        "longitude": -121.84180160664
+    },
+    {
+        "name": "Red Tavern",
         "rating": 4.0,
         "price": "$$$",
-        "address": "201 Broadway, Chico, CA 95928",
-        "latitude": 39.72969946081619,
-        "longitude": -121.8407477748492
+        "address": "1250 Esplanade, Chico, CA 95926",
+        "latitude": 39.73973,
+        "longitude": -121.84654
+    },
+    {
+        "name": "5th Street Steakhouse",
+        "rating": 4.5,
+        "price": "$$$",
+        "address": "345 W 5th St, Chico, CA 95928",
+        "latitude": 39.7263913721926,
+        "longitude": -121.84042897082762
+    },
+    {
+        "name": "Burban Kitchen",
+        "rating": 4.0,
+        "price": "$$",
+        "address": "1925 Market Pl, Ste 100, Chico, CA 95928",
+        "latitude": 39.728741222389274,
+        "longitude": -121.795302
     },
     {
         "name": "Big Hot Crab",
@@ -184,14 +192,6 @@
         "longitude": -121.83616
     },
     {
-        "name": "The Pour House",
-        "rating": 3.5,
-        "price": "$$$",
-        "address": "855 E Ave, Ste 270, North Valley Plaza, Chico, CA 95926",
-        "latitude": 39.760644,
-        "longitude": -121.84398879784888
-    },
-    {
         "name": "Ali Baba",
         "rating": 4.5,
         "price": "$",
@@ -200,20 +200,28 @@
         "longitude": -121.841751098633
     },
     {
+        "name": "The Pour House",
+        "rating": 3.5,
+        "price": "$$$",
+        "address": "855 E Ave, Ste 270, North Valley Plaza, Chico, CA 95926",
+        "latitude": 39.760644,
+        "longitude": -121.84398879784888
+    },
+    {
+        "name": "Crush Italian Cuisine & Lounge",
+        "rating": 4.0,
+        "price": "$$$",
+        "address": "201 Broadway, Chico, CA 95928",
+        "latitude": 39.72969946081619,
+        "longitude": -121.8407477748492
+    },
+    {
         "name": "Unwined Kitchen & Bar",
         "rating": 3.5,
         "price": "$$",
         "address": "980 Mangrove Ave, Chico, CA 95926",
         "latitude": 39.7392476765587,
         "longitude": -121.836442351341
-    },
-    {
-        "name": "Pho Bonsa",
-        "rating": 4.5,
-        "price": "Price information not available",
-        "address": "221 Normal Ave B, Chico, CA 95928",
-        "latitude": 39.72803,
-        "longitude": -121.84237
     },
     {
         "name": "Mas Vida",
@@ -248,6 +256,14 @@
         "longitude": -121.839757561684
     },
     {
+        "name": "The Ranch Hand",
+        "rating": 5.0,
+        "price": "Price information not available",
+        "address": "2424 Park Ave, Chico, CA 95926",
+        "latitude": 39.714598,
+        "longitude": -121.8153575
+    },
+    {
         "name": "Nash's Restaurant",
         "rating": 3.5,
         "price": "$$",
@@ -262,14 +278,6 @@
         "address": "128 W 2nd St, Chico, CA 95928",
         "latitude": 39.73025,
         "longitude": -121.84115
-    },
-    {
-        "name": "Mom's Restaurant",
-        "rating": 4.0,
-        "price": "$$",
-        "address": "209 Salem St, Chico, CA 95928",
-        "latitude": 39.728938477182,
-        "longitude": -121.84180160664
     },
     {
         "name": "Halo Hawaiian BBQ & Poke Bar",
@@ -288,6 +296,14 @@
         "longitude": -121.858873
     },
     {
+        "name": "Mulberry Station Brewing Company",
+        "rating": 5.0,
+        "price": "$$",
+        "address": "175 E 20th St, Chico, CA 95928",
+        "latitude": 39.719597,
+        "longitude": -121.822241
+    },
+    {
         "name": "Kings gyro & kabob corner",
         "rating": 4.5,
         "price": "Price information not available",
@@ -304,20 +320,20 @@
         "longitude": -121.833751
     },
     {
-        "name": "Coin-Op Game Room",
-        "rating": 4.0,
-        "price": "Price information not available",
-        "address": "229 Broadway St, Chico, CA 95928",
-        "latitude": 39.729356,
-        "longitude": -121.840548
-    },
-    {
         "name": "Project Tea",
         "rating": 4.5,
         "price": "Price information not available",
         "address": "1008 W Sacramento Ave, Ste H, Chico, CA 95926",
         "latitude": 39.731510424564725,
         "longitude": -121.8586754433148
+    },
+    {
+        "name": "Coin-Op Game Room",
+        "rating": 4.0,
+        "price": "Price information not available",
+        "address": "229 Broadway St, Chico, CA 95928",
+        "latitude": 39.729356,
+        "longitude": -121.840548
     },
     {
         "name": "Broadway Heights",
@@ -328,12 +344,28 @@
         "longitude": -121.840631
     },
     {
+        "name": "Deja Vu Breakfast Company",
+        "rating": 5.0,
+        "price": "$$",
+        "address": "3221 Esplanade, Chico, CA 95973",
+        "latitude": 39.77111,
+        "longitude": -121.87604
+    },
+    {
         "name": "Bootleg BBQ And Catering",
         "rating": 5.0,
         "price": "$$",
         "address": "1184 East Ave, Chico, CA 95926",
         "latitude": 39.76156,
         "longitude": -121.830724
+    },
+    {
+        "name": "I Fish Poke Bar Thai Kitchen",
+        "rating": 4.0,
+        "price": "$$",
+        "address": "1008 W Sacramento Ave, Ste 2A, Chico, CA 95926",
+        "latitude": 39.731725572498824,
+        "longitude": -121.85906052453691
     },
     {
         "name": "La Ciudad Mexican Grill",
@@ -344,14 +376,6 @@
         "longitude": -121.84332
     },
     {
-        "name": "Big Chico",
-        "rating": 4.5,
-        "price": "Price information not available",
-        "address": "305 Nord Ave, Chico, CA 95926",
-        "latitude": 39.72603,
-        "longitude": -121.85171
-    },
-    {
         "name": "Sicilian Cafe",
         "rating": 4.0,
         "price": "$$",
@@ -360,43 +384,19 @@
         "longitude": -121.83893531377412
     },
     {
+        "name": "Big Chico",
+        "rating": 4.5,
+        "price": "Price information not available",
+        "address": "305 Nord Ave, Chico, CA 95926",
+        "latitude": 39.72603,
+        "longitude": -121.85171
+    },
+    {
         "name": "DEmilios Italian Deli and Bakery",
         "rating": 3.5,
         "price": "Price information not available",
         "address": "138 Main St, Chico, CA 95928",
         "latitude": 39.73044252466131,
         "longitude": -121.8407642351032
-    },
-    {
-        "name": "Burgers and Brew",
-        "rating": 3.5,
-        "price": "$$",
-        "address": "301 Broadway St, Chico, CA 95928",
-        "latitude": 39.72902,
-        "longitude": -121.84016
-    },
-    {
-        "name": "Oshio Teriyaki Korean Food",
-        "rating": 5.0,
-        "price": "Price information not available",
-        "address": "501 Main St, Chico, CA 95928",
-        "latitude": 39.72826546174026,
-        "longitude": -121.8377163956004
-    },
-    {
-        "name": "Taps Bar and Grill",
-        "rating": 4.0,
-        "price": "$$",
-        "address": "407 Walnut St, Ste A, Chico, CA 95928",
-        "latitude": 39.7226333945702,
-        "longitude": -121.847601346672
-    },
-    {
-        "name": "Madison Bear Garden",
-        "rating": 3.5,
-        "price": "$$",
-        "address": "316 W 2nd St, Chico, CA 95928",
-        "latitude": 39.729095,
-        "longitude": -121.842588
     }
 ]
