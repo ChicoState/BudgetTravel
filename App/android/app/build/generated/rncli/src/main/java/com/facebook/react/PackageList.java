@@ -15,12 +15,16 @@ import java.util.ArrayList;
 import com.reactnativecommunity.checkbox.ReactCheckBoxPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.RNGestureHandlerPackage;
+// react-native-maps
+import com.rnmaps.maps.MapsPackage;
 // react-native-reanimated
 import com.swmansion.reanimated.ReanimatedPackage;
 // react-native-safe-area-context
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-screens
 import com.swmansion.rnscreens.RNScreensPackage;
+// react-native-webview
+import com.reactnativecommunity.webview.RNCWebViewPackage;
 
 public class PackageList {
   private Application application;
@@ -68,9 +72,11 @@ public class PackageList {
       new MainReactPackage(mConfig),
       new ReactCheckBoxPackage(),
       new RNGestureHandlerPackage(),
+      new MapsPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),
-      new RNScreensPackage()
+      new RNScreensPackage(),
+      new RNCWebViewPackage()
     ));
   }
 }

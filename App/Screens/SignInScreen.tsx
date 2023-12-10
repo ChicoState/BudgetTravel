@@ -1,114 +1,94 @@
-
 import React, { useState } from 'react';
-import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
+import { View, Text, TextInput, Button, StyleSheet, Alert } from 'react-native'; // Import Alert from react-native
 
-let check = "check";
-
-const SignInScreen : React.FC<{ navigation: any }> = ({ navigation }) =>  {
+const SignInScreen: React.FC<{ navigation: any }> = ({ navigation }) => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  
-  const handleSignIn = () => 
-  {
-    
-     
-    
-     if(1) // Django confirms info is valid
-     {
-     	navigation.navigate('TripDisplayMainPage');
-     }
-     else
-     {
-          // Display invalid infomation
-     
-     }
-    // Something to a Django API
+
+  const handleSignIn = async () => {
+    try {
+      const url = 'BOXI PLEASE REPLACE WITH URL'; // BOXI PLEASE REPLACE WITH URL **************
+
+      const userData = {
+        username: email,
+        password: password,
+      };
+
+      const requestOptions = {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(userData),
+      };
+
+      const response = await fetch(url, requestOptions);
+
+      if (response.ok) {
+        const responseData = await response.json();
+        console.log('Response:', responseData);
+
+        if (1) {
+          navigation.navigate('TripDisplayMainPage');
+        } else {
+          Alert.alert('Invalid Information');
+        }
+      } else {
+        console.error('Error:', response.status);
+        Alert.alert('Error: Unable to sign in');
+      }
+    } catch (error) {
+      console.error('Error:', error);
+      Alert.alert('Error');
+    }
   };
-  
-  function add(a, b) 
-  {
-  	return a + b;
-  }
-  
 
   return (
-<View>
-      <Text style = {styles.title}>Sign In </Text>
-      
+    <View>
+      <Text style={styles.title}>Sign In </Text>
 
-      	
-      	<View style={{ flexDirection: 'column' }}>
+      <View style={{ flexDirection: 'column' }}>
+        <Text style={styles.headerText}> Username </Text>
+        <View style={styles.row}>
+          <View style={styles.box}>
+            <TextInput
+              textAlign={'center'}
+              style={styles.text}
+              placeholderTextColor="gray"
+              placeholder="Username" 
+              value={email}
+              onChangeText={(text) => setEmail(text)}
+            />
+          </View>
+        </View>
 
-           <Text style = {styles.headerText}> Username </Text>
-           
-           <View style = {styles.row}>
-      	<View style = {styles.box}>	
-      		<View styles = "justify-content: center">
-      		<TextInput
-        			textAlign={'center'}
-        			style = {styles.text}
-        			placeholderTextColor= 'gray'
-        			placeholder={check}
-        			value={email}
-        			onChangeText={(text) => setEmail(text)}
-      		/>
-      		</View>
-           </View>
-           </View>
+        <Text style={{ padding: 20 }}> </Text>
 
-	<Text style = "padding: 20"> </Text>
+        <Text style={styles.headerText}> Password </Text>
+        <View style={styles.row}>
+          <View style={styles.box}>
+            <TextInput
+              textAlign={'center'}
+              style={styles.text}
+              placeholderTextColor="gray"
+              placeholder="Password"
+              secureTextEntry 
+              value={password}
+              onChangeText={(text) => setPassword(text)}
+            />
+          </View>
+        </View>
 
-           <Text style = {styles.headerText}> Password </Text>
-                      <View style = {styles.row}>
-      	<View style = {styles.box}>	
-      		<View styles = "justify-content: center">
-      		<TextInput
-        			textAlign={'center'}
-        			style = {styles.text}
-        			placeholderTextColor= 'gray'
-        			placeholder="Password"
-        			value={password}
-        			onChangeText={(text) => setPassword(text)}
-      		/>
-      		</View>
-           </View>
-           </View>
-           
-      	<Text style = {styles.div}> </Text>
-      	
+        <Text style={styles.div}> </Text>
 
-           <Button title="Sign In" onPress={handleSignIn} />
-
-           
-           
-           
-           
-      	
-      	
-      </View> 
-      
-      
-      
-</View>    
-      
-      
-
-
+        <Button title="Sign In" onPress={handleSignIn} />
+      </View>
+    </View>
   );
 };
 
-
-
-
-
-
-
-
-
-
 const styles = StyleSheet.create({
-  
-  title: {
+    title: {
      flexDirection:'column',
      textAlign: "center",
      fontSize: 40,
@@ -161,8 +141,6 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     
   }
- 
-  
 });
 
 export default SignInScreen;

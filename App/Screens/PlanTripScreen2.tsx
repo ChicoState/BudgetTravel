@@ -41,7 +41,6 @@ const PlanTripScreen2 : React.FC<{ navigation: any }> = ({ navigation }) =>  {
         }}
       />
 
-      <Text style = {styles.div}> </Text>
       <View style = {styles.but}>
       	
       	<Button title="Next" onPress={() => navigation.navigate('PlanTripScreen3')} />
