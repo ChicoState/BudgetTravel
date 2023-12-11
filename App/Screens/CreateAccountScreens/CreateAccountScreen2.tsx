@@ -6,6 +6,7 @@ interface UsernameScreenProps{
 const CreateAccountScreen2 = (props:UsernameScreenProps) => {
   const [password, setPassword] = useState('');
   const [checkPass, checkPassword] = useState('');
+  const [error, setError] = useState<string | null>(null);
   const handleContinue = () => {
     // Password validation regex
     const passwordRegex = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
@@ -13,13 +14,8 @@ const CreateAccountScreen2 = (props:UsernameScreenProps) => {
     if (password === checkPass && passwordRegex.test(password)) {
         props.navigation.navigate("Home");
     } else {
-        const errorMessage = "Password validation failed. Please make sure your password has at least 8 characters, at least 1 lowercase letter, 1 uppercase letter, and 1 special character.";
-          
-        // Display the error message to the user (replace this line with your actual code for displaying messages)
-        console.error(errorMessage);
-
-        // Example using alert (you might want to use a different UI component)
-        alert(errorMessage);
+        console.log("Invalid Password");
+        setError("Invalid Password");
     }
 };
 
@@ -42,8 +38,13 @@ const CreateAccountScreen2 = (props:UsernameScreenProps) => {
         style={styles.input}
         placeholder="check password"
         value={checkPass}
-        onChangeText={(text) => checkPassword(text)}
+        onChangeText={(text) =>{ 
+            checkPassword(text)
+            setError(null);}}
       />
+      <Text testID="error-message" style={styles.error}>
+        {error}
+      </Text>
       <Button title="Continue" onPress={handleContinue} />
       <TouchableOpacity onPress={handleExistingAcc}>
         <Text style={styles.existingText}>Already have an account?</Text>
@@ -81,6 +82,10 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: '#ccc',
     borderRadius: 5,
+  },
+  error: {
+    color: 'red',
+    marginBottom: 10,
   },
   
 });

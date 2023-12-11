@@ -1,17 +1,33 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet, TouchableOpacity } from 'react-native';
-interface UsernameScreenProps{
+
+interface UsernameScreenProps {
   navigation: any;
 }
-const Usernamescreen = (props:UsernameScreenProps) => {
+
+const Usernamescreen = (props: UsernameScreenProps) => {
   const [username, setUsername] = useState('');
+  const [error, setError] = useState<string | null>(null);
 
   const handleContinue = () => {
-    console.log('Username:', username);
-    props.navigation.navigate('setPass');
+    // Regular expression for a simple email validation
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+    if (!emailRegex.test(username)) {
+      // If the username is not a valid email address, set the error state
+      console.log('Invalid email address');
+      setError('Invalid email address');
+    } else {
+      // If the username is a valid email address, clear the error state
+      setError(null);
+      console.log('Username:', username);
+      props.navigation.navigate('setPass');
+    }
   };
 
-  const handleExistingAcc= () => {props.navigation.navigate('Login');};
+  const handleExistingAcc = () => {
+    props.navigation.navigate('Login');
+  };
 
   return (
     <View style={styles.container}>
@@ -21,8 +37,15 @@ const Usernamescreen = (props:UsernameScreenProps) => {
         style={styles.input}
         placeholder="user@email.com"
         value={username}
-        onChangeText={(text) => setUsername(text)}
+        onChangeText={(text) => {
+          // Clear the error when the user starts typing again
+          setError(null);
+          setUsername(text);
+        }}
       />
+      <Text testID="error-message" style={styles.error}>
+        {error}
+      </Text>
       <Button title="Continue" onPress={handleContinue} />
       <TouchableOpacity onPress={handleExistingAcc}>
         <Text style={styles.existingText}>Already have an account?</Text>
@@ -61,7 +84,10 @@ const styles = StyleSheet.create({
     borderColor: '#ccc',
     borderRadius: 5,
   },
-  
+  error: {
+    color: 'red',
+    marginBottom: 10,
+  },
 });
 
 export default Usernamescreen;
